@@ -1,0 +1,686 @@
+   3379 [CUDA|Quadro K1100M|1|
+   3204 [CUDA|GeForce GTX 750 Ti|1|
+   3183 [CUDA|GeForce GTX 970|1|
+   3154 [CUDA|GeForce GTX 1050 Ti|1|
+   2976 [CUDA|GeForce GT 730|1|
+   2920 [CUDA|GeForce GTX 1060 6GB|1|
+   2612 [CUDA|GeForce GTX 960|1|
+   2543 [CUDA|GeForce GTX 1070|1|
+   2260 [CUDA|GeForce GTX 1080|1|
+   2124 [CUDA|GeForce 210|1|
+   1845 [CUDA|GeForce GTX 1050|1|
+   1545 [CUDA|GeForce GT 610|1|
+   1492 [CUDA|GeForce GTX 1060 3GB|1|
+   1434 [CUDA|GeForce GT 630|1|
+   1392 [CUDA|Quadro K1000M|1|
+   1322 [CUDA|GeForce GT 710|1|
+   1148 [CUDA|GeForce GTX 1080 Ti|1|
+   1081 [CUDA|GeForce GTX 760|1|
+   1072 [CUDA|GeForce GTX 650|1|
+   1047 [CUDA|NVS 5400M|1|
+    939 [CUDA|GeForce GTX 660|1|
+    918 [CUDA|GeForce GTX 750|1|
+    905 [CUDA|GeForce GTX 950|1|
+    877 [CUDA|Quadro M1000M|1|
+    843 [CUDA|GeForce 940MX|1|
+    842 [CUDA|GeForce GTX 980|1|
+    815 [CUDA|GeForce GT 640|1|
+    768 [CUDA|GeForce GTX 960M|1|
+    734 [CUDA|GeForce GTX 745|1|
+    703 [CUDA|GeForce GTX 770|1|
+    703 [CUDA|GeForce GTX 550 Ti|1|
+    655 [CUDA|GeForce GTX 980 Ti|1|
+    639 [CUDA|GeForce GT 720|1|
+    588 [CUDA|GeForce GT 620|1|
+    555 [CUDA|GeForce GT 750M|1|
+    520 [CUDA|GeForce GT 1030|1|
+    519 [CUDA|GeForce GTX 650 Ti|1|
+    518 [CUDA|GeForce GT 430|1|
+    500 [CUDA|GeForce GTX 950M|1|
+    488 [CUDA|NVS 4200M|1|
+    481 [CUDA|GeForce GT 740|1|
+    472 [CUDA|GeForce GT 520|1|
+    471 [CUDA|GeForce GT 650M|1|
+    466 [CUDA|Quadro 1000M|1|
+    454 [CUDA|GeForce GTS 450|1|
+    450 [CUDA|GeForce 840M|1|
+    406 [CUDA|GeForce GTX 560 Ti|1|
+    399 [CUDA|GeForce 9500 GT|1|
+    381 [CUDA|GeForce GTX 680|1|
+    375 [CUDA|GeForce GTX 660 Ti|1|
+    372 [CUDA|Quadro 600|1|
+    370 [CUDA|GeForce 9400|1|
+    363 [CUDA|GeForce GT 740M|1|
+    352 [CUDA|GeForce GT 220|1|
+    343 [CUDA|GeForce 920M|1|
+    335 [CUDA|GeForce 940M|1|
+    332 [CUDA|GeForce GTX 460|1|
+    331 [CUDA|GeForce GTX 670|1|
+    331 [CUDA|GeForce GT 540M|1|
+    330 [CUDA|GeForce 820M|1|
+    322 [CUDA|Quadro K620|1|
+    321 [CUDA|GeForce GTX 1070|2|
+    320 [CUDA|GeForce GTX 1080 Ti|2|
+    317 [CUDA|GeForce GT 705|1|
+    313 [CUDA|GeForce GT 640M|1|
+    301 [CUDA|GeForce 9600 GT|1|
+    300 [CUDA|GeForce GTX 780|1|
+    294 [CUDA|GeForce GTX 560|1|
+    293 [CUDA|GeForce GT 440|1|
+    277 [CUDA|GeForce GTX 1080|2|
+    267 [CUDA|GeForce 8400 GS|1|
+    264 [CUDA|GeForce GT 630M|1|
+    264 [CUDA|GeForce 8400GS|1|
+    262 [CUDA|GeForce GTX 970|2|
+    243 [CUDA|GeForce 320M|1|
+    240 [CUDA|GeForce GTX 1060|1|
+    239 [CUDA|GeForce GTX 570|1|
+    236 [CUDA|GeForce GTX 860M|1|
+    233 [CUDA|GeForce GTS 250|1|
+    232 [CUDA|Quadro K2000|1|
+    232 [CUDA|GeForce 920MX|1|
+    229 [CUDA|GeForce GTX 980M|1|
+    221 [CUDA|GeForce GTX 970M|1|
+    218 [CUDA|GeForce 610M|1|
+    213 [CUDA|GeForce 9800 GT|1|
+    210 [CUDA|Quadro 2000|1|
+    206 [CUDA|GeForce GT 755M|1|
+    205 [CUDA|GeForce GTX 1070 Ti|1|
+    197 [CUDA|GeForce 9400 GT|1|
+    195 [CUDA|GeForce GT 720M|1|
+    192 [CUDA|NVS 3100M|1|
+    188 [CUDA|Quadro K2200|1|
+    187 [CUDA|GeForce GT 240|1|
+    182 [CUDA|GeForce 930MX|1|
+    176 [CUDA|GeForce GTX 780 Ti|1|
+    174 [CUDA|GeForce GTX 850M|1|
+    170 [CUDA|GeForce GTX 260|1|
+    168 [CUDA|GeForce GTX 660M|1|
+    164 [CUDA|GeForce GT 730M|1|
+    162 [CUDA|GeForce GTX 780M|1|
+    159 [CUDA|Quadro K600|1|
+    158 [CUDA|GeForce GT 635|1|
+    154 [CUDA|GeForce 8600 GT|1|
+    145 [CUDA|Quadro 4000|1|
+    145 [CUDA|GeForce GTX 580|1|
+    143 [CUDA|Quadro K420|1|
+    143 [CUDA|GeForce GT 120|1|
+    141 [CUDA|NVS 300|1|
+    136 [CUDA|GeForce MX150|1|
+    136 [CUDA|GeForce GT 420|1|
+    134 [CUDA|GeForce GT 530|1|
+    132 [CUDA|GeForce G210|1|
+    130 [CUDA|GeForce GTX 1050 Ti|2|
+    129 [CUDA|GeForce GT 525M|1|
+    129 [CUDA|GeForce 930M|1|
+    124 [CUDA|NVS 310|1|
+    124 [CUDA|GeForce GTX 980|2|
+    122 [CUDA|GeForce GTX 1060 6GB|2|
+    121 [CUDA|GeForce GTX 680MX|1|
+    120 [CUDA|GeForce GTX 775M|1|
+    115 [CUDA|Quadro K2100M|1|
+    115 [CUDA|NVS 5200M|1|
+    114 [CUDA|GeForce GT 635M|1|
+    113 [CUDA|Quadro M2000|1|
+    113 [CUDA|GeForce GTX 650 Ti BOOST|1|
+    111 [CUDA|GeForce GTX 645|1|
+    110 [CUDA|Quadro FX 580|1|
+    110 [CUDA|GeForce 8500 GT|1|
+    109 [CUDA|Quadro NVS 290|1|
+    109 [CUDA|GeForce GTX TITAN X|1|
+    109 [CUDA|GeForce 9400M|1|
+    108 [CUDA|Quadro FX 880M|1|
+    108 [CUDA|GeForce GT 330M|1|
+    108 [CUDA|GeForce 310|1|
+    104 [CUDA|GeForce GTX 760 (192-bit)|1|
+    104 [CUDA|GeForce 710M|1|
+    103 [CUDA|GeForce 8800 GT|1|
+    100 [CUDA|GeForce GT 520M|1|
+     99 [CUDA|Quadro M2000M|1|
+     96 [CUDA|Quadro FX 1800|1|
+     94 [CUDA|GeForce GTX 980 Ti|2|
+     93 [CUDA|GeForce GTX 765M|1|
+     92 [CUDA|GeForce GTX 750 Ti|2|
+     91 [CUDA|GeForce 405|1|
+     90 [CUDA|GeForce GTX 675MX|1|
+     89 [CUDA|Quadro M500M|1|
+     86 [CUDA|Quadro K4000|1|
+     86 [CUDA|GeForce GTX 770M|1|
+     84 [CUDA|GeForce GT 545|1|
+     79 [CUDA|GeForce GTX 1060 3GB|2|
+     79 [CUDA|GeForce GT 555M|1|
+     79 [CUDA|GeForce 310M|1|
+     78 [CUDA|GeForce GT 620M|1|
+     78 [CUDA|GeForce 605|1|
+     74 [CUDA|GeForce 9600M GT|1|
+     73 [CUDA|GeForce GTX 560M|1|
+     72 [CUDA|GeForce GTX 1080 Ti|3|
+     71 [CUDA|GeForce GTX 1070 Ti|2|
+     68 [CUDA|GeForce GTX 960|2|
+     64 [CUDA|GeForce GTX 965M|1|
+     63 [CUDA|GeForce GTX 285|1|
+     63 [CUDA|GeForce 315|1|
+     62 [CUDA|GeForce GTX TITAN|1|
+     62 [CUDA|GeForce 820A|1|
+     60 [CUDA|Quadro M4000|1|
+     59 [CUDA|Quadro NVS 295|1|
+     58 [CUDA|Quadro K620M|1|
+     58 [CUDA|GeForce 9300 GE|1|
+     57 [CUDA|GeForce 410M|1|
+     55 [CUDA|ION|1|
+     55 [CUDA|GeForce GTX TITAN Black|1|
+     55 [CUDA|GeForce GT 820M|1|
+     55 [CUDA|GeForce GT 320|1|
+     54 [CUDA|GeForce GPU|1|
+     53 [CUDA|Quadro K1200|1|
+     53 [CUDA|Quadro FX 3800|1|
+     53 [CUDA|Quadro FX 1700|1|
+     53 [CUDA|GeForce GTX 275|1|
+     53 [CUDA|GeForce GTX 1060 6GB|3|
+     53 [CUDA|GeForce 920A|1|
+     53 [CUDA|GeForce 710A|1|
+     52 [CUDA|NVS 315|1|
+     52 [CUDA|GeForce GTX 1080|3|
+     52 [CUDA|GeForce 800M|1|
+     51 [CUDA|Quadro 2000M|1|
+     50 [CUDA|Quadro K2000M|1|
+     50 [CUDA|Quadro FX 570|1|
+     49 [CUDA|GeForce GTX 670M|1|
+     49 [CUDA|GeForce 8600M GT|1|
+     48 [CUDA|TITAN X (Pascal)|1|
+     48 [CUDA|Quadro K4200|1|
+     48 [CUDA|GeForce GTX 470|1|
+     48 [CUDA|GeForce 9200|1|
+     47 [CUDA|Quadro FX 380|1|
+     47 [CUDA|GeForce GTX 480|1|
+     47 [CUDA|GeForce GT 230|1|
+     46 [CUDA|GeForce GTX 1070|3|
+     46 [CUDA|GeForce 9100|1|
+     45 [CUDA|NVS 510|1|
+     45 [CUDA|GeForce GT 625|1|
+     44 [CUDA|Quadro K2200|2|
+     43 [CUDA|GeForce GTX 660|2|
+     43 [CUDA|GeForce 8800 GTS|1|
+     42 [CUDA|NVIDIA Tegra K1|1|
+     41 [CUDA|GeForce GTX 1060 with Max-Q Design|1|
+     41 [CUDA|GeForce 9300M GS|1|
+     40 [CUDA|Quadro K5000|1|
+     40 [CUDA|GeForce GTX 1070|4|
+     40 [CUDA|GeForce GT 640M LE|1|
+     39 [CUDA|GeForce GTX 680|2|
+     39 [CUDA|GeForce GT 425M|1|
+     39 [CUDA|GeForce GT 330|1|
+     39 [CUDA|GeForce 730A|1|
+     38 [CUDA|GeForce GTX 870M|1|
+     38 [CUDA|GeForce GTX 780|2|
+     37 [CUDA|GeForce GTX 660 Ti|2|
+     36 [CUDA|Quadro P4000|1|
+     36 [CUDA|Quadro P2000|1|
+     36 [CUDA|Quadro M2200|1|
+     36 [CUDA|GeForce GTX 460 SE|1|
+     35 [CUDA|Quadro M1200|1|
+     35 [CUDA|GeForce GTX 760|2|
+     34 [CUDA|Quadro NVS 160M|1|
+     34 [CUDA|GeForce GT 730|2|
+     34 [CUDA|GeForce 615|1|
+     33 [CUDA|Quadro M620|1|
+     33 [CUDA|GeForce GTX 560 Ti|2|
+     33 [CUDA|GeForce GTX 460M|1|
+     33 [CUDA|GeForce GT 550M|1|
+     33 [CUDA|GeForce 930A|1|
+     32 [CUDA|Quadro K3100M|1|
+     32 [CUDA|GeForce GTX 1050|2|
+     32 [CUDA|GeForce 830A|1|
+     31 [CUDA|GeForce GT 520MX|1|
+     31 [CUDA|GeForce GT 240M|1|
+     31 [CUDA|GeForce GT 1030|2|
+     30 [CUDA|TITAN Xp|1|
+     30 [CUDA|GeForce GTX 1080 Ti|4|
+     30 [CUDA|GeForce GT 745M|1|
+     30 [CUDA|GeForce GT 625 (OEM)|1|
+     29 [CUDA|GeForce GTX 690|2|
+     29 [CUDA|GeForce 8600 GTS|1|
+     28 [CUDA|Quadro P600|1|
+     28 [CUDA|Quadro K610M|1|
+     28 [CUDA|Quadro FX 4600|1|
+     28 [CUDA|GeForce GTX 770|2|
+     28 [CUDA|GeForce 8200|1|
+     28 [CUDA|GeForce 810A|1|
+     27 [CUDA|Quadro 410|1|
+     27 [CUDA|GeForce GTX 950A|1|
+     27 [CUDA|GeForce GT 710M|1|
+     27 [CUDA|GeForce 9800 GTX/9800 GTX+|1|
+     27 [CUDA|GeForce 840A|1|
+     27 [CUDA|GeForce 830M|1|
+     26 [CUDA|Quadro 3000M|1|
+     26 [CUDA|GeForce GTX 880M|1|
+     26 [CUDA|GeForce GTX 1070 Ti|8|
+     26 [CUDA|GeForce GT 710|2|
+     25 [CUDA|GeForce GTX 670MX|1|
+     25 [CUDA|GeForce 9500 GS|1|
+     24 [CUDA|GeForce GT 720|2|
+     23 [CUDA|Quadro FX 4800|1|
+     23 [CUDA|GeForce GTX TITAN Black|2|
+     23 [CUDA|GeForce GTX 670|2|
+     23 [CUDA|GeForce G210M|1|
+     22 [CUDA|Quadro 400|1|
+     22 [CUDA|GeForce GTX 760M|1|
+     22 [CUDA|GeForce GTX 750|2|
+     22 [CUDA|GeForce 8800 GTS 512|1|
+     20 [CUDA|Quadro 2000D|1|
+     20 [CUDA|NVIDIA Tegra X1|1|
+     20 [CUDA|GeForce GTX 950|2|
+     20 [CUDA|GeForce GTX 460 v2|1|
+     20 [CUDA|GeForce 9800 GTX+|1|
+     19 [CUDA|Quadro P400|1|
+     19 [CUDA|GeForce GTX 260|2|
+     18 [CUDA|Quadro M3000M|1|
+     18 [CUDA|GeForce GTX 1070|6|
+     18 [CUDA|GeForce GTS 240|1|
+     18 [CUDA|GeForce GT 230M|1|
+     18 [CUDA|GeForce 9600M GT|2|
+     18 [CUDA|GeForce 8800 GS|1|
+     18 [CUDA|GeForce 8400M GS|1|
+     18 [CUDA|GeForce 8200M G|1|
+     18 [CUDA|GeForce 315M|1|
+     17 [CUDA|Quadro K3000M|1|
+     17 [CUDA|Quadro FX 3700|1|
+     17 [CUDA|GeForce GTX 780 Ti|2|
+     17 [CUDA|GeForce GTX 680M|1|
+     17 [CUDA|GeForce GTX 1060 6GB|4|
+     16 [CUDA|Quadro K2000D|1|
+     16 [CUDA|Quadro 5000|1|
+     16 [CUDA|GeForce GTX 560 SE|1|
+     16 [CUDA|GeForce GTX 550 Ti|2|
+     16 [CUDA|GeForce GTX 1060 6GB|6|
+     16 [CUDA|GeForce GTX 1050 Ti|3|
+     16 [CUDA|GeForce GT 320M|1|
+     16 [CUDA|GeForce GT 120|2|
+     15 [CUDA|TITAN Xp COLLECTORS EDITION|1|
+     15 [CUDA|Quadro NVS 140M|1|
+     15 [CUDA|GeForce 8800 GTX|1|
+     15 [CUDA|GeForce 8300|1|
+     14 [CUDA|GeForce GTX 980M|2|
+     14 [CUDA|GeForce GTX 960A|1|
+     14 [CUDA|GeForce GTX 580|2|
+     14 [CUDA|GeForce GTX 465|1|
+     14 [CUDA|GeForce GTX 1060 3GB|3|
+     14 [CUDA|GeForce GTS 360M|1|
+     13 [CUDA|Tesla M2090|2|
+     13 [CUDA|Quadro FX 5800|1|
+     13 [CUDA|Quadro FX 570M|1|
+     13 [CUDA|NVS 315|2|
+     13 [CUDA|GeForce GTX TITAN Z|2|
+     13 [CUDA|GeForce GTX 1070 Ti|3|
+     13 [CUDA|GeForce GT 610|2|
+     13 [CUDA|GeForce GT 420M|1|
+     13 [CUDA|GeForce GT 130|1|
+     13 [CUDA|GeForce G105M|1|
+     13 [CUDA|GeForce 510|1|
+     12 [CUDA|Quadro K4100M|1|
+     12 [CUDA|GK20A|1|
+     12 [CUDA|GeForce GTX TITAN X|2|
+     12 [CUDA|GeForce GTX 680|3|
+     12 [CUDA|GeForce GTX 1050 Ti|4|
+     12 [CUDA|GeForce GT 335M|1|
+     12 [CUDA|GeForce 845M|1|
+     11 [CUDA|Quadro M5000|1|
+     11 [CUDA|Quadro FX 370|1|
+     11 [CUDA|Quadro FX 2800M|1|
+     11 [CUDA|Quadro FX 1800M|1|
+     11 [CUDA|GeForce GTX 970|3|
+     11 [CUDA|GeForce GTX 760 Ti OEM|1|
+     11 [CUDA|GeForce GTX 675M|1|
+     11 [CUDA|GeForce GTX 650 Ti|2|
+     11 [CUDA|GeForce GTX 1070|5|
+     11 [CUDA|GeForce GTX 1050 Ti|6|
+     11 [CUDA|GeForce G100|1|
+     10 [CUDA|TITAN X (Pascal)|2|
+     10 [CUDA|Quadro K620|2|
+     10 [CUDA|Quadro FX 770M|1|
+     10 [CUDA|Quadro 2000|2|
+     10 [CUDA|NVS 310|2|
+     10 [CUDA|GeForce GTX 560|2|
+     10 [CUDA|GeForce GTX 260M|1|
+     10 [CUDA|GeForce GT 440|2|
+     10 [CUDA|GeForce G 105M|1|
+     10 [CUDA|GeForce 9600 GSO|1|
+     10 [CUDA|GeForce 9200M GS|1|
+     10 [CUDA|GeForce 705M|1|
+     10 [CUDA|GeForce 705A|1|
+      9 [CUDA|Quadro P1000|1|
+      9 [CUDA|Quadro NVS 290|2|
+      9 [CUDA|Quadro K6000|1|
+      9 [CUDA|Quadro 4000|2|
+      9 [CUDA|NVS 300|2|
+      9 [CUDA|GeForce GTX 690|4|
+      9 [CUDA|GeForce GT 740|4|
+      9 [CUDA|GeForce GT 640|2|
+      9 [CUDA|GeForce G200|1|
+      9 [CUDA|GeForce 9300 / nForce 730i|1|
+      9 [CUDA|GeForce 9300 GS|1|
+      9 [CUDA|GeForce 810M|1|
+      8 [CUDA|Tesla K20m|1|
+      8 [CUDA|Tesla K20c|1|
+      8 [CUDA|Quadro K5100M|1|
+      8 [CUDA|Quadro FX 5600|1|
+      8 [CUDA|Quadro 600|4|
+      8 [CUDA|Quadro 4000M|1|
+      8 [CUDA|NVS 5100M|1|
+      8 [CUDA|NVS 2100M|1|
+      8 [CUDA|GeForce GTX TITAN|2|
+      8 [CUDA|GeForce GTX 980|3|
+      8 [CUDA|GeForce GTX 650|2|
+      8 [CUDA|GeForce GT 755M|2|
+      8 [CUDA|GeForce GT 445M|1|
+      8 [CUDA|GeForce 9600 GSO 512|1|
+      8 [CUDA|GeForce 9500 GT|2|
+      7 [CUDA|Quadro P5000|1|
+      7 [CUDA|Quadro M600M|1|
+      7 [CUDA|Quadro K5200|1|
+      7 [CUDA|Quadro FX 3700M|1|
+      7 [CUDA|Quadro 600|2|
+      7 [CUDA|GeForce GTX 980 Ti|3|
+      7 [CUDA|GeForce GTX 780 Ti|3|
+      7 [CUDA|GeForce GTX 460|2|
+      7 [CUDA|GeForce GTX 295|2|
+      7 [CUDA|GeForce GTX 1070 with Max-Q Design|1|
+      7 [CUDA|GeForce GTX 1050|3|
+      7 [CUDA|GeForce GT 750M|2|
+      7 [CUDA|GeForce GT 735M|1|
+      7 [CUDA|GeForce GT 730A|1|
+      7 [CUDA|GeForce GT 730|3|
+      7 [CUDA|GeForce GT 650M|2|
+      7 [CUDA|GeForce GT 630|2|
+      7 [CUDA|GeForce 9600M GS|1|
+      7 [CUDA|GeForce 610|1|
+      6 [CUDA|Tesla K20m|2|
+      6 [CUDA|Quadro P4000|2|
+      6 [CUDA|Quadro NVS 450|2|
+      6 [CUDA|Quadro K2200M|1|
+      6 [CUDA|Quadro FX 380 LP|1|
+      6 [CUDA|Quadro FX 1800|2|
+      6 [CUDA|P106-100|8|
+      6 [CUDA|NVS 510|2|
+      6 [CUDA|GeForce GTX 590|2|
+      6 [CUDA|GeForce GTX 570|2|
+      6 [CUDA|GeForce GTX 1080|4|
+      6 [CUDA|GeForce GTX 1070|8|
+      6 [CUDA|GeForce GTX 1070|7|
+      6 [CUDA|GeForce GTX 1060 6GB|5|
+      6 [CUDA|GeForce GT 740|2|
+      6 [CUDA|GeForce GT 720A|1|
+      6 [CUDA|GeForce GT 430|3|
+      6 [CUDA|GeForce GT 220M|1|
+      6 [CUDA|GeForce GT 120M|1|
+      6 [CUDA|GeForce 9650M GT|1|
+      6 [CUDA|GeForce 8400|1|
+      6 [CUDA|GeForce 800A|1|
+      6 [CUDA|GeForce 505|1|
+      6 [CUDA|GeForce 310|2|
+      5 [CUDA|TITAN Xp|2|
+      5 [CUDA|TITAN V|1|
+      5 [CUDA|Tesla P100-PCIE-16GB|1|
+      5 [CUDA|Tesla C2075|1|
+      5 [CUDA|Quadro M4000|2|
+      5 [CUDA|Quadro FX 3800M|1|
+      5 [CUDA|P106-100|6|
+      5 [CUDA|ION LE|1|
+      5 [CUDA|GF117|1|
+      5 [CUDA|GeForce GTX 980 Ti|4|
+      5 [CUDA|GeForce GTX 960|3|
+      5 [CUDA|GeForce GTX 760A|1|
+      5 [CUDA|GeForce GTX 680M|2|
+      5 [CUDA|GeForce GTX 570M|1|
+      5 [CUDA|GeForce  GTX 555|1|
+      5 [CUDA|GeForce GTX 1070 Ti|6|
+      5 [CUDA|GeForce 8600M GS|1|
+      5 [CUDA|GeForce 210|2|
+      4 [CUDA|Tesla M2090|4|
+      4 [CUDA|Quadro NVS 420|2|
+      4 [CUDA|Quadro NVS 135M|1|
+      4 [CUDA|Quadro M6000|2|
+      4 [CUDA|Quadro M520|1|
+      4 [CUDA|Quadro M2000|2|
+      4 [CUDA|Quadro K420|2|
+      4 [CUDA|Quadro K4200|2|
+      4 [CUDA|Quadro K4000|2|
+      4 [CUDA|Quadro K2000|2|
+      4 [CUDA|Quadro FX 2700M|1|
+      4 [CUDA|Quadro 6000|1|
+      4 [CUDA|P106-100|7|
+      4 [CUDA|GeForce MX130|1|
+      4 [CUDA|GeForce GTX 970M|2|
+      4 [CUDA|GeForce GTX 960|4|
+      4 [CUDA|GeForce GTX 750 Ti|3|
+      4 [CUDA|GeForce GTX 470|2|
+      4 [CUDA|GeForce GTX 280M|1|
+      4 [CUDA|GeForce GTX 280|1|
+      4 [CUDA|GeForce GTX 1080 Ti|7|
+      4 [CUDA|GeForce GTX 1080 Ti|6|
+      4 [CUDA|GeForce GTX 1060 6GB|7|
+      4 [CUDA|GeForce GTX 1050 Ti|5|
+      4 [CUDA|GeForce GT 710|3|
+      4 [CUDA|GeForce GT 645M|1|
+      4 [CUDA|GeForce GT 545|2|
+      4 [CUDA|GeForce GT 520|2|
+      4 [CUDA|GeForce GT 435M|1|
+      4 [CUDA|GeForce GT 325M|1|
+      4 [CUDA|GeForce GT 130M|1|
+      4 [CUDA|GeForce 9600 GT|2|
+      4 [CUDA|GeForce 9600 GS|1|
+      4 [CUDA|GeForce 9200M GE|1|
+      4 [CUDA|GeForce 8800 GT|2|
+      4 [CUDA|GeForce 8300 GS|1|
+      3 [CUDA|TITAN Xp COLLECTORS EDITION|2|
+      3 [CUDA|TITAN V|2|
+      3 [CUDA|Tesla K80|4|
+      3 [CUDA|Tesla K40c|1|
+      3 [CUDA|Tesla K20Xm|1|
+      3 [CUDA|Tesla C2075|2|
+      3 [CUDA|Tesla C2070|1|
+      3 [CUDA|Tesla C2050|1|
+      3 [CUDA|Quadro P3000|1|
+      3 [CUDA|Quadro P2000|4|
+      3 [CUDA|Quadro NVS 295|2|
+      3 [CUDA|Quadro M5000|2|
+      3 [CUDA|Quadro K600|2|
+      3 [CUDA|Quadro K5000|2|
+      3 [CUDA|Quadro K4000M|1|
+      3 [CUDA|Quadro K1200|2|
+      3 [CUDA|Quadro FX 3700|2|
+      3 [CUDA|P106-100|4|
+      3 [CUDA|P106-100|2|
+      3 [CUDA|P106-100|1|
+      3 [CUDA|NVA8|1|
+      3 [CUDA|Graphics Device|1|
+      3 [CUDA|GeForce GTX TITAN X|3|
+      3 [CUDA|GeForce GTX TITAN Black|4|
+      3 [CUDA|GeForce GTX 860M|2|
+      3 [CUDA|GeForce GTX 765M|2|
+      3 [CUDA|GeForce GTX 690|1|
+      3 [CUDA|GeForce GTX 670|3|
+      3 [CUDA|GeForce GTX 660 Ti|3|
+      3 [CUDA|GeForce GTX 650 Ti Boost|1|
+      3 [CUDA|GeForce GTX 580M|1|
+      3 [CUDA|GeForce GTX 460 SE|2|
+      3 [CUDA|GeForce GTX 1080 Ti|5|
+      3 [CUDA|GeForce GTX 1060 6GB|8|
+      3 [CUDA|GeForce GTX 1060 6GB|12|
+      3 [CUDA|GeForce GTX 1060 3GB|8|
+      3 [CUDA|GeForce GTS 250M|1|
+      3 [CUDA|GeForce GT 745A|1|
+      3 [CUDA|GeForce GT 740A|1|
+      3 [CUDA|GeForce GT 625M|1|
+      3 [CUDA|GeForce GT 340|1|
+      3 [CUDA|GeForce GT 140|1|
+      3 [CUDA|GeForce G 103M|1|
+      3 [CUDA|GeForce 9500M GS|1|
+      3 [CUDA|GeForce 9400M G|1|
+      3 [CUDA|GeForce 8600 GTS|2|
+      3 [CUDA|GeForce 8400 GS|2|
+      3 [CUDA|GeForce 825M|1|
+      2 [CUDA|TITAN V|4|
+      2 [CUDA|Tesla V100-PCIE-16GB|1|
+      2 [CUDA|Tesla P100-PCIE-16GB|4|
+      2 [CUDA|Tesla K20Xm|2|
+      2 [CUDA|Tesla K10.G2.8GB|2|
+      2 [CUDA|Quadro P6000|2|
+      2 [CUDA|Quadro P6000|1|
+      2 [CUDA|Quadro P2000|2|
+      2 [CUDA|Quadro M6000|1|
+      2 [CUDA|Quadro M5000M|1|
+      2 [CUDA|Quadro M2000|3|
+      2 [CUDA|Quadro K5000M|1|
+      2 [CUDA|Quadro K5000|3|
+      2 [CUDA|Quadro K4000|3|
+      2 [CUDA|Quadro K2000|3|
+      2 [CUDA|Quadro GV100|1|
+      2 [CUDA|Quadro FX 360M|1|
+      2 [CUDA|Quadro FX 1600M|1|
+      2 [CUDA|Quadro 6000|3|
+      2 [CUDA|Quadro 5000|2|
+      2 [CUDA|Quadro 410|4|
+      2 [CUDA|Quadro 410|2|
+      2 [CUDA|P106-100|5|
+      2 [CUDA|P104-100|4|
+      2 [CUDA|NVS 810|2|
+      2 [CUDA|NVS 300|3|
+      2 [CUDA|NVE7|1|
+      2 [CUDA|NVC1|1|
+      2 [CUDA|NVAA|1|
+      2 [CUDA|NV94|1|
+      2 [CUDA|NV92|1|
+      2 [CUDA|NV117|1|
+      2 [CUDA|GeForce GTX 980|4|
+      2 [CUDA|GeForce GTX 780M|2|
+      2 [CUDA|GeForce GTX 750 Ti|4|
+      2 [CUDA|GeForce GTX 680|5|
+      2 [CUDA|GeForce GTX 645|2|
+      2 [CUDA|GeForce GTX 590|1|
+      2 [CUDA|GeForce  GTX 555|2|
+      2 [CUDA|GeForce GTX 480|2|
+      2 [CUDA|GeForce GTX 260|3|
+      2 [CUDA|GeForce GTX 1080 with Max-Q Design|1|
+      2 [CUDA|GeForce GTX 1080 Ti|10|
+      2 [CUDA|GeForce GTX 1080|8|
+      2 [CUDA|GeForce GTX 1080|5|
+      2 [CUDA|GeForce GTS 450|2|
+      2 [CUDA|GeForce GTS 250|2|
+      2 [CUDA|GeForce GT 730|4|
+      2 [CUDA|GeForce GT 720|3|
+      2 [CUDA|GeForce GT 645|1|
+      2 [CUDA|GeForce GT 415|1|
+      2 [CUDA|GeForce GT 220|2|
+      2 [CUDA|GeForce G102M|1|
+      2 [CUDA|GeForce 945M|1|
+      2 [CUDA|GeForce 940A|1|
+      2 [CUDA|GeForce 9200|2|
+      2 [CUDA|GeForce 910M|1|
+      2 [CUDA|GeForce 9100M G|1|
+      2 [CUDA|GeForce 8800 GTX|2|
+      2 [CUDA|GeForce 8700M GT|2|
+      2 [CUDA|GeForce 8600 GS|1|
+      2 [CUDA|GeForce 8400M GT|1|
+      1 [CUDA|TITAN X (Pascal)|7|
+      1 [CUDA|TITAN X (Pascal)|3|
+      1 [CUDA|Tesla V100-SXM2-16GB|4|
+      1 [CUDA|Tesla T10 Processor|4|
+      1 [CUDA|Tesla P40|1|
+      1 [CUDA|Tesla P100-PCIE-12GB|2|
+      1 [CUDA|Tesla P100-PCIE-12GB|1|
+      1 [CUDA|Tesla M60|4|
+      1 [CUDA|Tesla M60|2|
+      1 [CUDA|Tesla M60|1|
+      1 [CUDA|Tesla M2090|1|
+      1 [CUDA|Tesla M2070-Q|1|
+      1 [CUDA|Tesla M2070|1|
+      1 [CUDA|Tesla K80|2|
+      1 [CUDA|Tesla K40m|2|
+      1 [CUDA|Tesla K40c|2|
+      1 [CUDA|Tesla K20c|2|
+      1 [CUDA|Tesla K10.G1.8GB|2|
+      1 [CUDA|Tesla C2070|4|
+      1 [CUDA|Tesla C2050|2|
+      1 [CUDA|Tesla C1060|1|
+      1 [CUDA|Quadro P2000|3|
+      1 [CUDA|Quadro NVS 450|4|
+      1 [CUDA|Quadro NVS 450|1|
+      1 [CUDA|Quadro NVS 420|1|
+      1 [CUDA|Quadro NVS 150M|1|
+      1 [CUDA|Quadro M6000|3|
+      1 [CUDA|Quadro M4000M|1|
+      1 [CUDA|Quadro K620|3|
+      1 [CUDA|Quadro K6000|2|
+      1 [CUDA|Quadro K5200|2|
+      1 [CUDA|Quadro GP100|2|
+      1 [CUDA|Quadro GP100|1|
+      1 [CUDA|Quadro FX 580|2|
+      1 [CUDA|Quadro FX 5800|2|
+      1 [CUDA|Quadro FX 4800|2|
+      1 [CUDA|Quadro FX 4700 X2|2|
+      1 [CUDA|Quadro FX 380M|1|
+      1 [CUDA|Quadro FX 3800|2|
+      1 [CUDA|Quadro FX 1700|2|
+      1 [CUDA|Quadro 5010M|1|
+      1 [CUDA|Quadro 410|3|
+      1 [CUDA|Quadro 2100M|1|
+      1 [CUDA|Quadro 2000D|2|
+      1 [CUDA|P106-100|3|
+      1 [CUDA|P106-100|16|
+      1 [CUDA|NVS 315|3|
+      1 [CUDA|NVD9|1|
+      1 [CUDA|NV124|1|
+      1 [CUDA|N12P-GVR-B-A1|1|
+      1 [CUDA|GRID K2|4|
+      1 [CUDA|Generic GPU|1|
+      1 [CUDA|GeForce GTX 880M|2|
+      1 [CUDA|GeForce GTX 850A|1|
+      1 [CUDA|GeForce GTX 770M|2|
+      1 [CUDA|GeForce GTX 770|4|
+      1 [CUDA|GeForce GTX 770|3|
+      1 [CUDA|GeForce GTX 760|3|
+      1 [CUDA|GeForce GTX 750Ti|1|
+      1 [CUDA|GeForce GTX 750|4|
+      1 [CUDA|GeForce GTX 690|3|
+      1 [CUDA|GeForce GTX 670|4|
+      1 [CUDA|GeForce GTX 660|3|
+      1 [CUDA|GeForce GTX 650 Ti BOOST|2|
+      1 [CUDA|GeForce GTX 590|4|
+      1 [CUDA|GeForce GTX 580|3|
+      1 [CUDA|GeForce GTX 560 Ti|3|
+      1 [CUDA|GeForce GTX 560M|2|
+      1 [CUDA|GeForce GTX 550 Ti|10|
+      1 [CUDA|GeForce GTX 480M|1|
+      1 [CUDA|GeForce GTX 480|3|
+      1 [CUDA|GeForce GTX 460M|2|
+      1 [CUDA|GeForce GTX 295|4|
+      1 [CUDA|GeForce GTX 285|2|
+      1 [CUDA|GeForce GTX 275|2|
+      1 [CUDA|GeForce GTX 1080 Ti|12|
+      1 [CUDA|GeForce GTX 1080|24|
+      1 [CUDA|GeForce GTX 1070 Ti|7|
+      1 [CUDA|GeForce GTX 1070 Ti|5|
+      1 [CUDA|GeForce GTX 1070 Ti|12|
+      1 [CUDA|GeForce GTX 1070|24|
+      1 [CUDA|GeForce GTX 1070|12|
+      1 [CUDA|GeForce GTX 1060 6GB|9|
+      1 [CUDA|GeForce GTX 1060|2|
+      1 [CUDA|GeForce GTX 1050|4|
+      1 [CUDA|GeForce GT 640|4|
+      1 [CUDA|GeForce GT625M|1|
+      1 [CUDA|GeForce GT 620|2|
+      1 [CUDA|GeForce GT 610|3|
+      1 [CUDA|GeForce GT 430|2|
+      1 [CUDA|GeForce GT 330|2|
+      1 [CUDA|GeForce G205M|1|
+      1 [CUDA|GeForce 9800M GTX|2|
+      1 [CUDA|GeForce 9800 GT|2|
+      1 [CUDA|GeForce 9700M GTS|1|
+      1 [CUDA|GeForce 9700M GT|1|
+      1 [CUDA|GeForce 8800 Ultra|2|
+      1 [CUDA|GeForce 8700M GT|1|
+      1 [CUDA|GeForce 8500 GT|2|
+      1 [CUDA|GeForce 8400M G|1|
+      1 [CUDA|GeForce 8100 / nForce 720a|1|
+      1 [CUDA|GeForce 305M|1|

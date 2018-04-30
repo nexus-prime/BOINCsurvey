@@ -78,7 +78,7 @@ cat GPU_Survey.data | grep 'INTEL' > intelGPUmodel.data
 
 rm preprocess2.data
 rm LineNumbers2.data
-#rm currentHOST2.data
+rm currentHOST2.data
 rm preprocessRAC2.data
 rm preprocessID2.temp
 

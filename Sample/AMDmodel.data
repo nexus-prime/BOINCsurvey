@@ -1,0 +1,817 @@
+   1998 [CAL|AMD Radeon HD 6570/6670/7570/7670 series (Turks)|1|
+   1963 [CAL|ATI Radeon HD 2300/2400/3200/4200 (RV610)|1|
+   1243 [CAL|ATI Radeon HD 5400 series (Cedar)|1|
+   1240 [CAL|AMD Radeon HD 7500/7600/8500/8600 series (Devastator)|1|
+   1114 [CAL|Oland|1|
+   1104 [CAL|ATI Radeon HD 5400/R5 210 series (Cedar)|1|
+   1088 [CAL|AMD Radeon HD 6350/6450/7450/7470 series (Caicos)|1|
+    944 [CAL|AMD Radeon HD 6350/6450/7450/7470/R5 230 series (Caicos)|1|
+    895 [CAL|Mullins|1|
+    880 [CAL|AMD Radeon HD 7400/7500/8300/8400 series (Scrapper)|1|
+    843 [CAL|AMD Radeon R9 200 Series|1|
+    794 [CAL|Spectre|1|
+    724 [CAL|AMD Radeon HD 7850/7870 series (Pitcairn)|1|
+    630 [CAL|Radeon (TM) RX 480 Graphics|1|
+    607 [CAL|ATI Radeon HD 5700/6750/6770 series (Juniper)|1|
+    594 [CAL|ATI Radeon HD 5500/5600 series (Redwood)|1|
+    565 [CAL|AMD Radeon R7 200 Series|1|
+    535 [CAL|AMD Radeon HD 6790/6850/6870 series (Barts)|1|
+    527 [CAL|ATI Radeon HD 4350/4550 (R710)|1|
+    499 [CAL|Kalindi|1|
+    486 [CAL|AMD Radeon HD 7700/R7 250X/R9 255 series (Capeverde)|1|
+    473 [CAL|ATI Radeon HD 4600 series (R730)|1|
+    435 [CAL|AMD Radeon(TM) R7 Graphics|1|
+    434 [CAL|AMD Radeon R9 M395X Compute Engine|1|
+    422 [CAL|AMD Radeon HD 6520G/6530D/6550D/6620G (SuperSumo)|1|
+    403 [CAL|AMD Radeon HD 7870/7950/7970/R9 280/R9 280X series (Tahiti)|1|
+    395 [CAL|Pitcairn|1|
+    379 [CAL|Ellesmere|1|
+    375 [CAL|ATI Radeon HD 4700/4800 (RV740/RV770)|1|
+    373 [CAL|AMD Radeon HD 7700 series (Capeverde)|1|
+    368 [CAL|Bonaire|1|
+    365 [CAL|AMD Radeon HD 6900 series (Cayman)|1|
+    363 [CAL|ATI Radeon HD 6750M|1|
+    359 [CAL|Capeverde|1|
+    356 [CAL|ATI Radeon HD 5800/5900 series (Cypress/Hemlock)|1|
+    338 [CAL|AMD Radeon HD 7800 Series|1|
+    333 [CAL|AMD Radeon(TM) R5 Graphics|1|
+    328 [CAL|Hainan|1|
+    323 [CAL|Radeon RX 580 Series|1|
+    319 [CAL|Baffin|1|
+    315 [CAL|AMD Radeon (TM) R9 380 Series|1|
+    296 [CAL|ATI unknown|1|
+    292 [CAL|AMD Radeon HD 7700 Series|1|
+    279 [CAL|Radeon RX 560 Series|1|
+    251 [CAL|AMD Radeon HD 6200/6300/7200/7300 series (Wrestler)|1|
+    248 [CAL|ATI Radeon HD 6770M|1|
+    241 [CAL|AMD Radeon (TM) R9 390 Series|1|
+    240 [CAL|ATI Radeon HD5x00 series (Cedar)|1|
+    229 [CAL|Tahiti|1|
+    222 [CAL|AMD Radeon R9 M370X Compute Engine|1|
+    220 [CAL|ATI Radeon HD 2600/3650 (RV630/RV635)|1|
+    213 [CAL|ATI Radeon HD 5700 series (Juniper)|1|
+    211 [CAL|AMD Radeon HD 6200/6300/7300 series (Wrestler)|1|
+    203 [CAL|Radeon(TM) RX 460 Graphics|1|
+    201 [CAL|Hawaii|1|
+    200 [CAL|ATI Radeon HD 5770|1|
+    190 [CAL|Radeon HD 4670|1|
+    173 [CAL|AMD Radeon Pro 560 Compute Engine|1|
+    166 [CAL|AMD Radeon HD 6370D/6380G/6410D/6480G (Sumo)|1|
+    164 [CAL|Radeon (TM) RX 470 Graphics|1|
+    159 [CAL|ATI Radeon HD 6970M|1|
+    157 [CAL|AMD Radeon(TM) R4 Graphics|1|
+    156 [CAL|Tonga|1|
+    155 [CAL|Iceland|1|
+    142 [CAL|AMD Radeon HD 7900 Series|1|
+    128 [CAL|AMD Radeon (TM) R9 Fury Series|1|
+    122 [CAL|AMD Radeon R9 200 / HD 7900 Series|1|
+    119 [CAL|ATI Radeon HD 2300/2400/3200 (RV610)|1|
+    116 [CAL|Radeon RX Vega|1|
+    113 [CAL|Radeon RX 570 Series|1|
+    108 [CAL|AMD Radeon R9 M395 Compute Engine|1|
+    103 [CAL|Radeon HD 4850|1|
+    103 [CAL|AMD Radeon HD - FirePro D300 Compute Engine|2|
+    101 [CAL|AMD Radeon(TM) R2 Graphics|1|
+     99 [CAL|AMD Radeon R9 M290X Compute Engine|1|
+     99 [CAL|AMD Radeon R9 200 Series|2|
+     98 [CAL|AMD Radeon (TM) R9 200 Series|1|
+     97 [CAL|AMD Radeon R9 M390 Compute Engine|1|
+     95 [CAL|AMD Radeon Pro 580 Compute Engine|1|
+     93 [CAL|AMD Radeon HD - FirePro D500 Compute Engine|2|
+     93 [CAL|AMD Radeon HD 8400 / R3 Series|1|
+     91 [CAL|ATI Radeon HD 5750|1|
+     90 [CAL|AMD Radeon (TM) R7 360 Series|1|
+     88 [CAL|gfx804|1|
+     87 [CAL|AMD Radeon (TM) R7 370 Series|1|
+     81 [CAL|ATI Radeon HD 5800/5900 series (Cypress/Hemlock)|2|
+     81 [CAL|AMD Radeon R7 Graphics|1|
+     81 [CAL|AMD Radeon Pro 570 Compute Engine|1|
+     80 [CAL|AMD Radeon HD 8330|1|
+     80 [CAL|AMD Radeon HD 7870/7950/7970/R9 280X series (Tahiti)|1|
+     79 [CAL|Bristol Ridge|1|
+     79 [CAL|AMD Radeon HD 7870/7950/7970/R9 280/R9 280X series (Tahiti)|2|
+     77 [CAL|ATI Radeon HD 5670|1|
+     77 [CAL|AMD Radeon(TM) R5 M330|1|
+     76 [CAL|Radeon RX 580 Series|2|
+     74 [CAL|ATI Radeon HD 6630M|1|
+     74 [CAL|AMD Radeon(TM) R3 Graphics|1|
+     73 [CAL|AMD Radeon Pro 455 Compute Engine|1|
+     70 [CAL|AMD Radeon(TM) R5 M430|1|
+     70 [CAL|AMD Radeon R9 M295X Compute Engine|1|
+     68 [CAL|ATI Radeon HD 5870|1|
+     68 [CAL|AMD Radeon R9 M380 Compute Engine|1|
+     67 [CAL|Radeon RX 550 Series|1|
+     63 [CAL|AMD Radeon Pro 555 Compute Engine|1|
+     61 [CAL|AMD Radeon R5 M330|1|
+     61 [CAL|AMD Radeon HD 8400|1|
+     60 [CAL|Radeon (TM) RX 480 Graphics|2|
+     60 [CAL|AMD Radeon(TM) RX Vega 11 Graphics|1|
+     60 [CAL|AMD Radeon(TM) R5 240|1|
+     60 [CAL|AMD Radeon Pro 460 Compute Engine|1|
+     60 [CAL|AMD Radeon HD - FirePro D700 Compute Engine|2|
+     59 [CAL|AMD Radeon R5 M230|1|
+     56 [CAL|ATI Radeon HD 3800 (RV670)|1|
+     54 [CAL|AMD Radeon Pro 575 Compute Engine|1|
+     53 [CAL|Stoney|1|
+     53 [CAL|Spectre|2|
+     48 [CAL|AMD Radeon R7 240|1|
+     47 [CAL|AMD Radeon HD 7870/7950/7970 series (Tahiti)|1|
+     46 [CAL|Radeon (TM) R7 M445|1|
+     46 [CAL|Radeon RX 560 Series|2|
+     44 [CAL|AMD Radeon R5 M335|1|
+     43 [CAL|AMD Radeon(TM) R6 Graphics|1|
+     42 [CAL|AMD Radeon (TM) R5 M430|1|
+     40 [CAL|AMD Radeon R7 A265|1|
+     37 [CAL|Radeon(TM) 520|1|
+     37 [CAL|AMD Radeon HD 8750M|1|
+     37 [CAL|AMD Radeon HD 8670M|1|
+     37 [CAL|AMD Radeon HD 7850/7870 series (Pitcairn)|2|
+     36 [CAL|AMD Radeon (TM) RX 480|1|
+     35 [CAL|AMD Radeon HD 6350/6450/7450/7470/R5 230 series (Caicos)|2|
+     34 [CAL|Radeon 550 Series|1|
+     33 [CAL|ATI Radeon HD5700 series (Juniper)|1|
+     33 [CAL|ATI Radeon HD 2600 (RV630)|1|
+     32 [CAL|AMD Radeon R7 M260|1|
+     32 [CAL|AMD Radeon R7 250 Series|1|
+     32 [CAL|AMD Radeon HD 6570/6670/7570/7670 series (Turks)|2|
+     31 [CAL|Radeon (TM) R5 M430|1|
+     31 [CAL|Radeon (TM) HD 8670M|1|
+     31 [CAL|Oland|2|
+     31 [CAL|ATI Radeon HD5x00 series (Redwood)|1|
+     30 [CAL|AMD Radeon (TM) R5 M330|1|
+     30 [CAL|AMD Radeon Pro 450 Compute Engine|1|
+     29 [CAL|Radeon RX 570 Series|2|
+     29 [CAL|AMD Radeon HD 8790M|1|
+     28 [CAL|Carrizo|1|
+     28 [CAL|ATI Radeon HD 5700/6750/6770 series (Juniper)|2|
+     28 [CAL|AMD Radeon (TM) RX 480 Graphics|2|
+     28 [CAL|AMD Radeon(TM) R7 350X|1|
+     28 [CAL|AMD Radeon R7 M360|1|
+     28 [CAL|AMD Radeon R7 M265 Series|1|
+     27 [CAL|AMD Radeon(TM) R5 340X|1|
+     26 [CAL|AMD Radeon (TM) R9 360|1|
+     26 [CAL|AMD Radeon(TM) R7 M440|1|
+     26 [CAL|AMD Radeon HD 8600/8700M|1|
+     26 [CAL|AMD Radeon HD 8200 / R3 Series|1|
+     25 [CAL|AMD Radeon HD 7900 Series|2|
+     25 [CAL|AMD Radeon HD 6900 series (Cayman)|2|
+     24 [CAL|Radeon(TM) 530|1|
+     24 [CAL|Hainan|2|
+     24 [CAL|AMD Radeon HD 8570|1|
+     24 [CAL|AMD Radeon HD 7800 Series|2|
+     23 [CAL|Radeon HD 4870|1|
+     23 [CAL|AMD Radeon R5 M255|1|
+     22 [CAL|ATI Radeon HD 5400/R5 210 series (Cedar)|2|
+     22 [CAL|ASUS R9 280 Series|1|
+     22 [CAL|AMD Radeon HD 8600M Series|1|
+     22 [CAL|AMD Radeon HD 8240|1|
+     21 [CAL|Radeon (TM) Pro WX 5100 Graphics|1|
+     21 [CAL|AMD Radeon Pro Vega 56 Compute Engine|1|
+     21 [CAL|67EF:CF|1|
+     20 [CAL|Radeon RX 560 Series|3|
+     20 [CAL|Mullins|2|
+     20 [CAL|ATI Radeon HD 6490M|1|
+     20 [CAL|AMD Radeon(TM) R7 250|1|
+     20 [CAL|AMD Radeon R9 200 / HD 7900 Series|2|
+     20 [CAL|AMD Radeon R5 Graphics|1|
+     19 [CAL|AMD Radeon(TM) R9 270|1|
+     19 [CAL|AMD Radeon (TM) R7 M360|1|
+     19 [CAL|AMD Radeon R9 M290 Compute Engine|1|
+     19 [CAL|AMD Radeon R7 M340|1|
+     19 [CAL|AMD Radeon Pro Vega 64 Compute Engine|1|
+     19 [CAL|AMD Radeon HD 6790/6850/6870 series (Barts)|2|
+     18 [CAL|Tahiti|2|
+     18 [CAL|Ellesmere|2|
+     18 [CAL|AMD Radeon R5 430|1|
+     18 [CAL|AMD Radeon R5 330|1|
+     18 [CAL|AMD Radeon HD 8210|1|
+     17 [CAL|ATI Radeon HD 5770|2|
+     17 [CAL|AMD Radeon (TM) RX 580|1|
+     17 [CAL|AMD Radeon (TM) RX 570|1|
+     17 [CAL|AMD Radeon (TM) R9 390 Series|2|
+     17 [CAL|AMD Radeon R7 M265|1|
+     17 [CAL|AMD Radeon R7 200 Series|2|
+     17 [CAL|AMD Radeon HD (unknown)|1|
+     17 [CAL|AMD Radeon HD 7870/7950/7970/R9 280X series (Tahiti)|2|
+     17 [CAL|AMD Radeon HD 7770 GHz Edition|1|
+     17 [CAL|AMD Radeon HD 7700/R7 250X/R9 255 series (Capeverde)|2|
+     17 [CAL|AMD FirePro W2100|1|
+     16 [CAL|Radeon RX 560|1|
+     16 [CAL|Fiji|1|
+     16 [CAL|AMD Radeon R7 M370|1|
+     16 [CAL|AMD FirePro W4170M (FireGL V)|1|
+     15 [CAL|Radeon(TM) RX 580|1|
+     15 [CAL|AMD Radeon (TM) RX 460 Graphics|1|
+     15 [CAL|AMD Radeon R5|1|
+     14 [CAL|Radeon (TM) 530|1|
+     14 [CAL|ATI Radeon HD5800 series (Cypress)|1|
+     14 [CAL|AMD Radeon (TM) RX 560|1|
+     14 [CAL|AMD Radeon (TM) RX 480 Graphics|1|
+     14 [CAL|AMD Radeon (TM) R9 380 Series|2|
+     14 [CAL|AMD Radeon HD 8730M|1|
+     14 [CAL|AMD Radeon HD 8570M|1|
+     14 [CAL|AMD Radeon HD 8570 Graphics|1|
+     14 [CAL|AMD Radeon HD 8250|1|
+     14 [CAL|AMD Radeon HD 7950 Compute Engine|1|
+     13 [CAL|Radeon Vega Frontier Edition|1|
+     13 [CAL|Radeon RX 580 Series|6|
+     13 [CAL|AMD Radeon (TM) R9 Fury Series|2|
+     13 [CAL|AMD Radeon(TM) R9 290X|1|
+     12 [CAL|AMD RadeonT R5 430|1|
+     12 [CAL|AMD Radeon(TM) RX 560 Series|1|
+     12 [CAL|AMD Radeon (TM) R7 M340|1|
+     12 [CAL|AMD Radeon (TM) R5 M335|1|
+     12 [CAL|AMD Radeon R9 200 / HD 7900 Series|3|
+     12 [CAL|AMD Radeon R6 Graphics|1|
+     12 [CAL|AMD Radeon HD Tahiti XT Prototype Compute Engine|1|
+     12 [CAL|AMD Radeon HD8350|1|
+     12 [CAL|AMD Radeon HD 6350/6450/7450/7470 series (Caicos)|2|
+     11 [CAL|Radeon (TM) RX 470 Graphics|2|
+     11 [CAL|Radeon RX 570 Series|3|
+     11 [CAL|ATI Radeon HD 3800 (RV670)|2|
+     11 [CAL|AMD Radeon(TM) R8 M445DX|2|
+     11 [CAL|AMD Radeon R7 Series|1|
+     11 [CAL|AMD Radeon R7 450|1|
+     11 [CAL|AMD Radeon R5 M240|1|
+     11 [CAL|AMD Radeon HD 8500M|1|
+     11 [CAL|AMD Radeon HD 7870/7950/7970/R9 280/R9 280X series (Tahiti)|3|
+     11 [CAL|AMD FirePro M4150|1|
+     10 [CAL|Radeon(TM) RX 560 Graphics|1|
+     10 [CAL|ATI unknown|2|
+     10 [CAL|ATI Radeon HD 2300/2400/3200/4200 (RV610)|2|
+     10 [CAL|AMD Radeon (TM) R9 370|1|
+     10 [CAL|AMD Radeon(TM) R7 M360|1|
+     10 [CAL|AMD Radeon(TM) R7 Graphics|2|
+     10 [CAL|AMD Radeon R7 M365X|1|
+     10 [CAL|AMD Radeon HD 8690M|1|
+     10 [CAL|AMD FirePro W4100|1|
+      9 [CAL|Radeon RX 550 Series|2|
+      9 [CAL|AMD Radeon(TM) Vega 8 Graphics|1|
+      9 [CAL|AMD Radeon (TM) R7 M370|1|
+      9 [CAL|AMD Radeon(TM) R5 Graphics|2|
+      9 [CAL|AMD Radeon R9 M370X Compute Engine|1|-
+      9 [CAL|AMD Radeon R7 M270|1|
+      9 [CAL|AMD Radeon HD 7870/7950/7970/R9 280/R9 280X series (Tahiti)|4|
+      9 [CAL|AMD Radeon HD 7850/7870 series (Pitcairn)|3|
+      9 [CAL|AMD FirePro W2100 (FireGL V) Graphics Adapter|1|
+      8 [CAL|Radeon (TM) RX 550|1|
+      8 [CAL|Radeon (TM) R7 M440|1|
+      8 [CAL|Radeon RX 570 Series|6|
+      8 [CAL|Radeon 500 Series|1|
+      8 [CAL|Hawaii|2|
+      8 [CAL|gfx900|1|
+      8 [CAL|Capeverde|2|
+      8 [CAL|Baffin|2|
+      8 [CAL|ATI Radeon HD 5500/5600 series (Redwood)|2|
+      8 [CAL|AMD Radeon (TM) RX 460 Graphics|2|
+      8 [CAL|AMD Radeon (TM) R7 M460|1|
+      8 [CAL|AMD Radeon(TM) R5 240|2|
+      8 [CAL|AMD Radeon (TM) HD 8750M|1|
+      8 [CAL|AMD Radeon(TM) 530|1|
+      8 [CAL|AMD Radeon R9 M275X|1|
+      8 [CAL|AMD Radeon R9 200 Series|4|
+      8 [CAL|AMD Radeon R7 A360|1|
+      8 [CAL|AMD Radeon HD 7700 Series|2|
+      8 [CAL|AMD Radeon HD 6570/6670/7570/7670 series (Turks)|3|
+      8 [CAL|AMD Radeon HD 6300 series (Caicos)|1|
+      8 [CAL|AMD JUNIPER (DRM 2.50.0 / 4.13.0-37-generic, LLVM 5.0.0)|1|
+      7 [CAL|Radeon (TM) RX 470 Graphics|3|
+      7 [CAL|Radeon(TM) RX 460 Graphics|2|
+      7 [CAL|Radeon RX Vega|2|
+      7 [CAL|Radeon RX 580 Series|5|
+      7 [CAL|Radeon RX 560 Series|4|
+      7 [CAL|ATI Radeon HD 5x00 series (Cedar)|1|
+      7 [CAL|ATI Radeon HD 4700/4800 (RV740/RV770)|2|
+      7 [CAL|AMD Radeon (TM) RX 460|1|
+      7 [CAL|AMD Radeon (TM) R9 255|1|
+      7 [CAL|AMD Radeon (TM) R7 350|1|
+      7 [CAL|AMD Radeon (TM) R6 Graphics|1|
+      7 [CAL|AMD Radeon R9 M200X Series|1|
+      7 [CAL|AMD Radeon R6|1|
+      7 [CAL|AMD Radeon HD 8500M Series|1|
+      7 [CAL|AMD Radeon HD 7870/7950/7970/R9 280/R9 280X series (Tahiti)|8|
+      7 [CAL|AMD Radeon HD 7790 series (Bonaire)|1|
+      7 [CAL|AMD KABINI (DRM 2.50.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      7 [CAL|AMD FirePro W2100 Graphics Adapter|1|
+      7 [CAL|AMD CARRIZO (DRM 3.18.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      7 [CAL|67FF:CF|3|
+      6 [CAL|Radeon RX 580 Series|4|
+      6 [CAL|ATI Radeon HD 5400 series (Cedar)|2|
+      6 [CAL|AMD Radeon (TM) R9 380 Series|6|
+      6 [CAL|AMD Radeon(TM) R9 290X|2|
+      6 [CAL|AMD Radeon (TM) R7 M260|2|
+      6 [CAL|AMD Radeon(TM) R7 Graphics|3|
+      6 [CAL|AMD Radeon R7 Graphics + R5 330 Dual Graphics|1|
+      6 [CAL|AMD Radeon R5 M445 Series|1|
+      6 [CAL|AMD Radeon R5 M200 Series|1|
+      6 [CAL|AMD Radeon R5 435|1|
+      6 [CAL|AMD Radeon HD - FirePro D300 Compute Engine|2|-
+      6 [CAL|AMD Radeon HD 8750M|2|
+      6 [CAL|AMD Radeon HD 7700 series (Cape Verde)|1|
+      6 [CAL|AMD Radeon HD 7700M Series|1|
+      6 [CAL|AMD FirePro W5130M|1|
+      6 [CAL|AMD FirePro W5100 Graphics Adapter|1|
+      6 [CAL|AMD FirePro W5100 (FireGL V) Graphics Adapter|1|
+      6 [CAL|AMD FirePro W5100|1|
+      6 [CAL|AMD FirePro M6100|1|
+      6 [CAL|AMD BONAIRE (DRM 2.50.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      5 [CAL|Radeon (TM) RX 480 Graphics|4|
+      5 [CAL|Radeon (TM) RX 480 Graphics|3|
+      5 [CAL|Radeon RX 580 Series|3|
+      5 [CAL|Radeon Pro 580|1|
+      5 [CAL|Ellesmere|6|
+      5 [CAL|ATI Radeon HD 5800 series (Cypress)|1|
+      5 [CAL|ATI Radeon HD 2900 (RV600)|1|
+      5 [CAL|ASUS R7 250X Series|1|
+      5 [CAL|AMD Radeon (TM) RX 580|4|
+      5 [CAL|AMD Radeon (TM) R9 M360|1|
+      5 [CAL|AMD Radeon (TM) R7 M260|1|
+      5 [CAL|AMD Radeon(TM) R7 200 Series Graphics|1|
+      5 [CAL|AMD Radeon (TM) 535DX|2|
+      5 [CAL|AMD Radeon RX Vega 64|1|
+      5 [CAL|AMD Radeon R9 M395 Compute Engine|1|-
+      5 [CAL|AMD Radeon R7 350 Series|1|
+      5 [CAL|AMD Radeon R7 240 Series|1|
+      5 [CAL|AMD Radeon  R2 Series|1|
+      5 [CAL|AMD Radeon HD Pitcairn PRO Prototype Compute Engine|1|
+      5 [CAL|AMD Radeon HD 8280|1|
+      5 [CAL|AMD Radeon HD 7800 Series|6|
+      5 [CAL|AMD Radeon HD 7400/7500/7600 series (Trinity)|1|
+      5 [CAL|AMD Radeon HD 6x00 series (Turks)|1|
+      5 [CAL|AMD Radeon HD 6900 series (Cayman)|4|
+      5 [CAL|AMD Radeon HD 6350/6450/7450/7470/R5 230 series (Caicos)|4|
+      5 [CAL|AMD Radeon HD 6350/6450/7450/7470/R5 230 series (Caicos)|3|
+      5 [CAL|AMD FirePro W8100|1|
+      5 [CAL|AMD FirePro W7100|1|
+      5 [CAL|AMD Firepro W4190M|1|
+      5 [CAL|AMD FirePro (TM) W4190M|1|
+      4 [CAL|Radeon (TM) RX 480 Graphics|5|
+      4 [CAL|Radeon (TM) R9 M470X|1|
+      4 [CAL|Radeon RX 580 Series (AMD POLARIS10 / DRM 3.18.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      4 [CAL|Radeon RX 580 Series (AMD POLARIS10 / DRM 3.18.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      4 [CAL|Radeon RX 580 Series|8|
+      4 [CAL|Radeon R5 series|1|
+      4 [CAL|Pitcairn|2|
+      4 [CAL|Iceland|2|
+      4 [CAL|Hawaii|3|
+      4 [CAL|Fiji|2|
+      4 [CAL|Device 687f|1|
+      4 [CAL|Devastator|2|
+      4 [CAL|Devastator|1|
+      4 [CAL|Bonaire|2|
+      4 [CAL|Baffin [Polaris11]
+      4 [CAL|ATI Radeon HD 5x00 series (Redwood)|1|
+      4 [CAL|ATI Radeon HD 5800/5900 series (Cypress/Hemlock)|4|
+      4 [CAL|ATI Radeon Barts XT Prototype|1|
+      4 [CAL|ASUS R7 265 Series|1|
+      4 [CAL|AMD TURKS (DRM 2.50.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      4 [CAL|AMD TURKS (DRM 2.50.0 / 4.13.0-37-generic, LLVM 5.0.0)|1|
+      4 [CAL|AMD RadeonT R7 450|1|
+      4 [CAL|AMD Radeon (TM) R7 300 Series|1|
+      4 [CAL|AMD Radeon (TM) R5 M315|1|
+      4 [CAL|AMD Radeon (TM) Pro WX 7100 Graphics|1|
+      4 [CAL|AMD Radeon (TM) Pro WX 5100 Graphics (POLARIS10 / DRM 3.8.0 / 4.9.95-gentoo, LLVM 5.0.1)|1|
+      4 [CAL|AMD Radeon (TM) 530|1|
+      4 [CAL|AMD Radeon RX 580 Compute Engine|1|
+      4 [CAL|AMD Radeon R9 M390 Compute Engine|1|-
+      4 [CAL|AMD Radeon R9 360|1|
+      4 [CAL|AMD Radeon R7 M260X|1|
+      4 [CAL|AMD Radeon R5 M465 Series|1|
+      4 [CAL|AMD Radeon R5 M435 Series|1|
+      4 [CAL|AMD Radeon R5 430|2|
+      4 [CAL|AMD Radeon R5 340|1|
+      4 [CAL|AMD Radeon HD 8700M Series|1|
+      4 [CAL|AMD Radeon HD 8650G|2|
+      4 [CAL|AMD Radeon HD 7850/7870 series (Pitcairn)|4|
+      4 [CAL|AMD Radeon HD 7700 series (Capeverde)|2|
+      4 [CAL|AMD Radeon HD 7700 Series (AMD CAPE VERDE / DRM 3.10.0 / 4.11.0-13-generic, LLVM 4.0.0)|1|
+      4 [CAL|AMD Radeon Graphics|1|
+      4 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.16.3-1-ARCH, LLVM 6.0.0)|1|
+      4 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      4 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.13.0-36-generic, LLVM 7.0.0)|1|
+      4 [CAL|AMD MULLINS (DRM 2.50.0 / 4.15.0-13-generic, LLVM 5.0.0)|1|
+      4 [CAL|AMD FirePro W5170M|1|
+      4 [CAL|AMD FirePro W5000|1|
+      4 [CAL|AMD FirePro W4100 Graphics Adapter|1|
+      4 [CAL|AMD FirePro S9150 (FireGL V)|1|
+      4 [CAL|AMD CARRIZO (DRM 3.8.0 / 4.9.0-4-amd64, LLVM 3.9.1)|1|
+      4 [CAL|AMD CAICOS (DRM 2.50.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      4 [CAL|687F:C1|4|
+      3 [CAL|Tonga|2|
+      3 [CAL|Radeon (TM) RX 570|1|
+      3 [CAL|Radeon(TM) RX 480|1|
+      3 [CAL|Radeon (TM) R5 M420|1|
+      3 [CAL|Radeon (TM) Pro Duo|2|
+      3 [CAL|Radeon RX Vega (VEGA10 / DRM 3.25.0 / 4.17.0-041700rc1-generic, LLVM 6.0.0)|1|
+      3 [CAL|Radeon RX Vega (VEGA10 / DRM 3.23.0 / 4.16.3-gentoo, LLVM 5.0.1)|1|
+      3 [CAL|Radeon RX 580 Series (POLARIS10 / DRM 3.23.0 / 4.15.0-20-generic, LLVM 6.0.0)|1|
+      3 [CAL|Radeon RX 580 Series|7|
+      3 [CAL|Radeon RX 550 Series (AMD POLARIS12 / DRM 3.20.0 / 4.13.0-38-generic, LLVM 5.0.0)|2|
+      3 [CAL|Radeon 500 Series|2|
+      3 [CAL|gfx902|1|
+      3 [CAL|Caicos|2|
+      3 [CAL|ATI Radeon HD 6970M|1|-
+      3 [CAL|ATI Radeon Barts PRO Prototype|1|
+      3 [CAL|AMD TAHITI (DRM 2.50.0 / 4.16.3-1-ARCH, LLVM 6.0.0)|1|
+      3 [CAL|AMD Radeon(TM) Vega 8 Mobile Graphics|1|
+      3 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.23.0 / 4.15.16-300.fc27.x86_64, LLVM 5.0.1)|1|
+      3 [CAL|AMD Radeon (TM) R9 200 Series|2|
+      3 [CAL|AMD Radeon (TM) R7 M340|2|
+      3 [CAL|AMD Radeon (TM) R7 370 Series|2|
+      3 [CAL|AMD Radeon (TM) R5 A330|1|
+      3 [CAL|AMD Radeon (TM) HD 8670M|1|
+      3 [CAL|AMD Radeon (TM) HD8530M|1|
+      3 [CAL|AMD Radeon (TM) HD 8500M/8700M|1|
+      3 [CAL|AMD Radeon (TM) 535DX|1|
+      3 [CAL|AMD Radeon RX Vega10 XLA Prototype Compute Engine|1|
+      3 [CAL|AMD Radeon R8 M365DX|2|
+      3 [CAL|AMD Radeon R7 M260 Series|1|
+      3 [CAL|AMD Radeon R5 M315|1|
+      3 [CAL|AMD Radeon R5 M230|2|
+      3 [CAL|AMD Radeon R4|1|
+      3 [CAL|AMD Radeon Pro 450|1|
+      3 [CAL|AMD Radeon HD Tonga XT Prototype Compute Engine|1|
+      3 [CAL|AMD Radeon HD - FirePro D700 Compute Engine|2|-
+      3 [CAL|AMD Radeon HD 8950|1|
+      3 [CAL|AMD Radeon HD 8750A|1|
+      3 [CAL|AMD Radeon HD 8570|2|
+      3 [CAL|AMD Radeon HD 8180|1|
+      3 [CAL|AMD Radeon HD 7900 Series|5|
+      3 [CAL|AMD Radeon HD 7500/7600/8500/8600 series (Devastator)|2|
+      3 [CAL|AMD Radeon HD 6520G/6530D/6550D/6620G (SuperSumo)|2|
+      3 [CAL|AMD Radeon HD 6300/6400/6500/6600 series (Sumo)|1|
+      3 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.16.2-2-ARCH, LLVM 6.0.0)|1|
+      3 [CAL|AMD OLAND (DRM 2.50.0 / 4.15.0-2-amd64, LLVM 5.0.1)|1|
+      3 [CAL|AMD JUNIPER (DRM 2.50.0 / 4.16.3-gentoo, LLVM 6.0.0)|1|
+      3 [CAL|AMD HAWAII (DRM 2.50.0, 4.17.0-041700rc2-generic, LLVM 6.0.0)|1|
+      3 [CAL|AMD FirePro W8100 Graphic Adapter|1|
+      3 [CAL|AMD FirePro W7170M|1|
+      3 [CAL|AMD FirePro W4300|1|
+      3 [CAL|AMD FirePro S9150|2|
+      3 [CAL|AMD FirePro S9150|1|
+      3 [CAL|AMD CYPRESS (DRM 2.49.0 / 4.10.0-38-generic, LLVM 5.0.0)|1|
+      3 [CAL|AMD CARRIZO (DRM 3.18.0 / 4.13.0-37-generic, LLVM 5.0.0)|1|
+      3 [CAL|AMD CAPE VERDE (DRM 2.50.0 / 4.13.0-36-generic, LLVM 5.0.0)|1|
+      3 [CAL|AMD CAICOS (DRM 2.50.0 / 4.16.3-1-ARCH, LLVM 6.0.0)|1|
+      3 [CAL|AMD CAICOS (DRM 2.49.0 / 4.9.0-6-amd64, LLVM 3.9.1)|2|
+      3 [CAL|AMD CAICOS (DRM 2.49.0 / 4.11.0-0.bpo.1-amd64, LLVM 3.9.1)|2|
+      3 [CAL|687F:C1|2|
+      3 [CAL|687F:C1|1|
+      3 [CAL|687F:C0|1|
+      3 [CAL|67FF:CF|2|
+      3 [CAL|67EF:CF|2|
+      2 [CAL|Scrapper|1|
+      2 [CAL|Redwood|1|
+      2 [CAL|Radeon(TM) RX580|1|
+      2 [CAL|Radeon (TM) RX 480 Graphics|6|
+      2 [CAL|Radeon (TM) RX 460|1|
+      2 [CAL|Radeon (TM) Pro WX 7100 Graphics|1|
+      2 [CAL|Radeon (TM) Pro Duo|4|
+      2 [CAL|Radeon RX 570 Series|4|
+      2 [CAL|Radeon RX 560 Series|6|
+      2 [CAL|Radeon RX 550 Series (POLARIS12 / DRM 3.23.0 / 4.15.0-1-amd64, LLVM 5.0.1)|1|
+      2 [CAL|Radeon RX 550 Series|6|
+      2 [CAL|Radeon Pro 560|1|
+      2 [CAL|KV SPECTRE DESKTOP 65W/100W (130F)|1|
+      2 [CAL|Hawaii|4|
+      2 [CAL|gfx901|1|
+      2 [CAL|gfx900|9|
+      2 [CAL|Ellesmere|5|
+      2 [CAL|Ellesmere|3|
+      2 [CAL|Dogs|1|
+      2 [CAL|Cayman|3|
+      2 [CAL|Carrizo|2|
+      2 [CAL|Baffin|4|
+      2 [CAL|ATI Radeon Turks XT Prototype|1|
+      2 [CAL|ATI Radeon Redwood XT Prototype|1|
+      2 [CAL|ATI Radeon HD 5800 Series|1|
+      2 [CAL|ATI Radeon HD 4700/4800 (RV740/RV770)|4|
+      2 [CAL|ATI Radeon HD 4600 series (R730)|2|
+      2 [CAL|AMD TURKS (DRM 2.50.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      2 [CAL|AMD TURKS (DRM 2.50.0 / 4.13.0-38-generic, LLVM 6.0.0)|1|
+      2 [CAL|AMD TURKS (DRM 2.50.0 / 4.13.0-37-lowlatency, LLVM 7.0.0)|1|
+      2 [CAL|AMD SUMO2 (DRM 2.50.0 / 4.15.14-1-ARCH, LLVM 6.0.0)|1|
+      2 [CAL|AMD Radeon Vega Frontier Edition Compute Engine|1|
+      2 [CAL|AMD Radeon (TM) RX 580|3|
+      2 [CAL|AMD Radeon(TM) RX 560 Series|5|
+      2 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.23.0 / 4.15.14-300.fc27.x86_64, LLVM 5.0.1)|1|
+      2 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10, DRM 3.23.0, 4.15.0-20-generic, LLVM 6.0.0)|1|
+      2 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.18.0 / 4.13.0-38-generic, LLVM 6.0.0)|1|
+      2 [CAL|AMD Radeon (TM) RX 460 Graphics (POLARIS11 / DRM 3.23.0 / 4.16.3-200.fc27.x86_64, LLVM 5.0.1)|1|
+      2 [CAL|AMD Radeon (TM) RX 460 Graphics (POLARIS11 / DRM 3.23.0 / 4.15.17-300.fc27.x86_64, LLVM 5.0.1)|1|
+      2 [CAL|AMD Radeon(TM) R9 M470|1|
+      2 [CAL|AMD Radeon (TM) R9 M375X|1|
+      2 [CAL|AMD Radeon (TM) R9 Fury Series|3|
+      2 [CAL|AMD Radeon (TM) R9 370 Series|1|
+      2 [CAL|AMD Radeon (TM) R9 200 Series|6|
+      2 [CAL|AMD Radeon(TM) R8 M445DX Graphics|1|
+      2 [CAL|AMD Radeon (TM) R8 M445DX|2|
+      2 [CAL|AMD Radeon(TM) R8 M445DX|1|
+      2 [CAL|AMD Radeon (TM) R7 M350|1|
+      2 [CAL|AMD Radeon (TM) R7 360 Series|2|
+      2 [CAL|AMD Radeon(TM) R7 360 Series|1|
+      2 [CAL|AMD Radeon (TM) R5 M320|1|
+      2 [CAL|AMD Radeon(TM) R5 M240|2|
+      2 [CAL|AMD Radeon(TM) R5 340X|2|
+      2 [CAL|AMD Radeon (TM) Pro WX 7100 Graphics|2|
+      2 [CAL|AMD Radeon(TM) M535DX|1|
+      2 [CAL|AMD Radeon(TM) HD8570|1|
+      2 [CAL|AMD Radeon RX Vega 56 Compute Engine|1|
+      2 [CAL|AMD Radeon RX 560 Compute Engine|1|
+      2 [CAL|AMD Radeon RX 480 Compute Engine|1|
+      2 [CAL|AMD RADEON R9 M395X|1|
+      2 [CAL|AMD Radeon R9 M370X|1|
+      2 [CAL|AMD Radeon R9 260|1|
+      2 [CAL|AMD Radeon R9 200 Series|7|
+      2 [CAL|AMD Radeon R9 200 Series|3|
+      2 [CAL|AMD Radeon R9 200 / HD 7900 Series|5|
+      2 [CAL|AMD Radeon R8 M535DX|1|
+      2 [CAL|AMD Radeon R7 Graphics|2|
+      2 [CAL|AMD Radeon R5 M435|1|
+      2 [CAL|AMD Radeon R5 M420|1|
+      2 [CAL|AMD Radeon Pro WX 3100|3|
+      2 [CAL|AMD Radeon Pro WX 3100|1|
+      2 [CAL|AMD Radeon Pro 455 Compute Engine|1|-
+      2 [CAL|AMD Radeon Pro 450 Compute Engine|1|-
+      2 [CAL|AMD Radeon HD Verde PRO Prototype Compute Engine|1|
+      2 [CAL|AMD Radeon HD - FirePro D700 Compute Engine|1|
+      2 [CAL|AMD Radeon HD - FirePro D300 Compute Engine|1|
+      2 [CAL|AMD Radeon HD 8760|1|
+      2 [CAL|AMD Radeon HD 8610G|2|
+      2 [CAL|AMD Radeon HD 8600 Series|1|
+      2 [CAL|AMD Radeon HD 8600M Series|2|
+      2 [CAL|AMD Radeon HD 8500 Series|1|
+      2 [CAL|AMD Radeon HD 8500M|2|
+      2 [CAL|AMD Radeon HD 7950|1|
+      2 [CAL|AMD Radeon HD 7900 Series|3|
+      2 [CAL|AMD Radeon HD 7870/7950/7970/R9 280/R9 280X series (Tahiti)|5|
+      2 [CAL|AMD Radeon HD 7800 Series|5|
+      2 [CAL|AMD Radeon HD 7700 series (Cape Verde)|2|
+      2 [CAL|AMD Radeon Graphics|2|
+      2 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.16.5-1-hardened, LLVM 6.0.0)|1|
+      2 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.15.0-13-generic, LLVM 5.0.0)|1|
+      2 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.13.0-39-lowlatency, LLVM 5.0.0)|1|
+      2 [CAL|AMD PITCAIRN (DRM 2.49.0 / 4.10.0-38-generic, LLVM 5.0.0)|1|
+      2 [CAL|AMD PALM (DRM 2.50.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      2 [CAL|AMD KABINI (DRM 2.50.0 / 4.15.7-1-ARCH, LLVM 5.0.1)|1|
+      2 [CAL|AMD JUNIPER (DRM 2.50.0 / 4.15.17-300.fc27.x86_64, LLVM 5.0.1)|1|
+      2 [CAL|AMD HAWAII (DRM 2.50.0 / 4.13.0-37-generic, LLVM 5.0.0)|1|
+      2 [CAL|AMD FirePro W7000|1|
+      2 [CAL|AMD Firepro W5170M|1|
+      2 [CAL|AMD FirePro W5100 (FireGL V)|1|
+      2 [CAL|AMD FirePro W5000|2|
+      2 [CAL|AMD FirePro M6100 FireGL V|1|
+      2 [CAL|AMD Firepro M6100|1|
+      2 [CAL|AMD FirePro M4000|1|
+      2 [CAL|AMD FirePro D300 (FireGL V)|2|
+      2 [CAL|AMD CAPE VERDE (DRM 2.49.0 / 4.9.0-6-amd64, LLVM 3.9.1)|1|
+      2 [CAL|AMD CAICOS (DRM 2.50.0 / 4.16.5-041605-generic, LLVM 5.0.0)|1|
+      2 [CAL|AMD CAICOS (DRM 2.50.0 / 4.16.3-jpmr, LLVM 6.0.0)|2|
+      2 [CAL|AMD CAICOS (DRM 2.50.0 / 4.14.0-0.bpo.3-amd64, LLVM 3.9.1)|1|
+      2 [CAL|AMD ARUBA (DRM 2.50.0 / 4.16.3-200.fc27.x86_64, LLVM 5.0.1)|1|
+      2 [CAL|AMD ARUBA (DRM 2.50.0 / 4.15.17-300.fc27.x86_64, LLVM 5.0.1)|1|
+      2 [CAL|AMD ARUBA (DRM 2.50.0 / 4.15.0-20-generic, LLVM 6.0.0)|1|
+      2 [CAL|AMD A6 Micro-6500T Quad-Core APU with Radeon(TM)R4 Graphics|1|
+      2 [CAL|67FF:CF|1|
+      1 [CAL|Turks|2|
+      1 [CAL|Tahiti|7|
+      1 [CAL|Tahiti|3|
+      1 [CAL|Stoney|2|
+      1 [CAL|Radeon (TM) RX 580 Graphics|1|
+      1 [CAL|Radeon (TM) RX 470 Graphics|4|
+      1 [CAL|Radeon (TM) RX 460|2|
+      1 [CAL|Radeon(TM) RX 460|1|
+      1 [CAL|Radeon(TM) R7 M530 (R17M-M1-70)|1|
+      1 [CAL|Radeon(TM) R7 M465|1|
+      1 [CAL|Radeon (TM) R7 M445|2|
+      1 [CAL|Radeon (TM) Pro WX 7100 Graphics (POLARIS10 / DRM 3.23.0 / 4.15.0-20-generic, LLVM 6.0.0)|1|
+      1 [CAL|Radeon (TM) Pro WX 4100|1|
+      1 [CAL|Radeon (TM) Pro Duo|8|
+      1 [CAL|Radeon Sky 900|2|
+      1 [CAL|Radeon RX Vega (VEGA10, DRM 3.23.0, 4.16.5-gentoo, LLVM 6.0.0)|1|
+      1 [CAL|Radeon RX Vega (VEGA10, DRM 3.23.0, 4.16.4-gentoo, LLVM 6.0.0)|1|
+      1 [CAL|Radeon RX Vega (VEGA10 / DRM 3.23.0 / 4.16.3extratemps-1-default, LLVM 6.0.0)|3|
+      1 [CAL|Radeon RX 580 Series (POLARIS10 / DRM 3.23.0 / 4.15.7-1-zen, LLVM 7.0.0)|1|
+      1 [CAL|Radeon RX 580 Series (POLARIS10 / DRM 3.18.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      1 [CAL|Radeon RX 580 Series|11|
+      1 [CAL|Radeon RX 580 Series|10|
+      1 [CAL|Radeon RX 570|1|
+      1 [CAL|Radeon RX 560 Series (POLARIS11, DRM 3.23.0, 4.16.3, LLVM 6.0.0)|1|
+      1 [CAL|Radeon RX 560 Series (POLARIS11 / DRM 3.23.0 / 4.16.3-gentoo, LLVM 6.0.0)|1|
+      1 [CAL|Radeon RX 560 Series (POLARIS11 / DRM 3.23.0 / 4.15.0-1-amd64, LLVM 5.0.1)|1|
+      1 [CAL|Radeon RX 560 Series (POLARIS11 / DRM 3.19.0 / 4.14.34-1-MANJARO, LLVM 6.0.0)|1|
+      1 [CAL|Radeon RX 560 Series (AMD POLARIS11 / DRM 3.19.0 / 4.14.0-0.bpo.3-amd64, LLVM 5.0.0)|1|
+      1 [CAL|Radeon RX 560 Series|5|
+      1 [CAL|Radeon RX 550 Series (POLARIS12 / DRM 3.23.0 / 4.16.3-200.fc27.x86_64, LLVM 5.0.1)|1|
+      1 [CAL|Radeon RX480|1|
+      1 [CAL|Radeon Pro WX 5100|1|
+      1 [CAL|Radeon Pro WX 3100|1|
+      1 [CAL|Radeon Pro 570|1|
+      1 [CAL|Radeon Pro 555|1|
+      1 [CAL|Radeon 550 Series|2|
+      1 [CAL|Radeon 500 Series (POLARIS12 / DRM 3.23.0 / 4.15.14-300.fc27.x86_64, LLVM 5.0.1)|1|
+      1 [CAL|Raccoons|1|
+      1 [CAL|Kalindi|2|
+      1 [CAL|Hawaii|6|
+      1 [CAL|gfx900|2|
+      1 [CAL|gfx804|2|
+      1 [CAL|Ellesmere|12|
+      1 [CAL|Device 6863|1|
+      1 [CAL|Device 67df|1|
+      1 [CAL|Caicos|1|
+      1 [CAL|Barco MXRT 7500 (WDDM)|1|
+      1 [CAL|Baffin [Polaris11]|1|
+      1 [CAL|ATI Radeon HD5800 series (Cypress)|2|
+      1 [CAL|ATI Radeon HD 5800/5900 series (Cypress/Hemlock)|3|
+      1 [CAL|ATI Radeon HD5700 series (Juniper)|2|
+      1 [CAL|ATI Radeon HD 4700/4800 (RV740/RV770)|3|
+      1 [CAL|ATI Radeon HD 2300/2400/3200 (RV610)|2|
+      1 [CAL|ATI Radeon Caicos Unknown Prototype|1|
+      1 [CAL|ATI Radeon Caicos PRO Prototype|1|
+      1 [CAL|ASUS R7 240 Series|1|
+      1 [CAL|AMD TURKS (DRM 2.50.0 / 4.15.4-300.fc27.x86_64, LLVM 5.0.1)|1|
+      1 [CAL|AMD TURKS (DRM 2.50.0 / 4.13.0-38-generic, LLVM 5.0.0)|2|
+      1 [CAL|AMD TURKS (DRM 2.50.0 / 4.13.0-21-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD TURKS (DRM 2.43.0 / 4.4.0-116-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD TAHITI (DRM 2.50.0 / 4.15.15-1-ARCH, LLVM 6.0.0)|1|
+      1 [CAL|AMD TAHITI (DRM 2.50.0 / 4.13.0-39-generic, LLVM 5.0.0)|2|
+      1 [CAL|AMD TAHITI (DRM 2.50.0 / 4.13.0-26-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD TAHITI (DRM 2.50.0 / 4.13.0-1-amd64, LLVM 5.0.0)|1|
+      1 [CAL|AMD TAHITI (DRM 2.46.0 / 4.8.0-59-generic, LLVM 4.0.1)|1|
+      1 [CAL|AMD SUPERSUMO|1|
+      1 [CAL|AMD SUMO|1|
+      1 [CAL|AMD REDWOOD (DRM 2.50.0 / 4.16.4-300.fc28.x86_64, LLVM 6.0.0)|1|
+      1 [CAL|AMD RAVEN (DRM 3.23.0 / 4.15.0-20-generic, LLVM 6.0.0)|1|
+      1 [CAL|AMD Radeon(TM) Vega 10 Mobile Graphics|1|
+      1 [CAL|AMD Radeon (TM) RX 580|2|
+      1 [CAL|AMD Radeon (TM) RX 570|4|
+      1 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.23.0 / 4.15.0-20-generic, LLVM 6.0.0)|2|
+      1 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.23.0 / 4.15.0-15-generic, LLVM 6.0.0)|2|
+      1 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.23.0 / 4.15.0-15-generic, LLVM 6.0.0)|1|
+      1 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.23.0 / 4.15.0-13-generic, LLVM 6.0.0)|2|
+      1 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.23.0 / 4.15.0-12-generic, LLVM 5.0.1)|2|
+      1 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.10.0 / 4.11.8-300.fc26.x86_64, LLVM 5.0.1)|1|
+      1 [CAL|AMD Radeon (TM) RX 480 Graphics|3|
+      1 [CAL|AMD Radeon (TM) RX 470 Graphics (AMD POLARIS10 / DRM 3.18.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD Radeon (TM) RX 470 Graphics|3|
+      1 [CAL|AMD Radeon (TM) RX 470 Graphics|1|
+      1 [CAL|AMD Radeon (TM) RX 460 Graphics (POLARIS11 / DRM 3.23.0 / 4.16.5, LLVM 5.0.1)|1|
+      1 [CAL|AMD Radeon (TM) RX 460 Graphics (POLARIS11 / DRM 3.19.0 / 4.14.0-3-amd64, LLVM 5.0.1)|1|
+      1 [CAL|AMD Radeon(TM) RX460|1|
+      1 [CAL|AMD Radeon (TM) R9 M390X|1|
+      1 [CAL|AMD Radeon (TM)  R9 M385X|2|
+      1 [CAL|AMD Radeon (TM)  R9 M385X|1|
+      1 [CAL|AMD Radeon (TM) R9 M375|1|
+      1 [CAL|AMD Radeon (TM) R9 Fury Series|6|
+      1 [CAL|AMD Radeon (TM) R9 Fury Series|4|
+      1 [CAL|AMD Radeon (TM) R9 380 Series (TONGA / DRM 3.8.0 / 4.9.82-1-MANJARO, LLVM 5.0.1)|1|
+      1 [CAL|AMD Radeon (TM) R9 380 Series|5|
+      1 [CAL|AMD Radeon (TM) R9 380 Series|4|
+      1 [CAL|AMD Radeon (TM) R9 360 Series|1|
+      1 [CAL|AMD Radeon (TM) R9 300 Series|1|
+      1 [CAL|AMD Radeon(TM) R9 270|2|
+      1 [CAL|AMD Radeon (TM) R9 200 Series|5|
+      1 [CAL|AMD Radeon(TM) R8 M365DX|2|
+      1 [CAL|AMD Radeon (TM) R7 M460|2|
+      1 [CAL|AMD Radeon (TM) R7 M360|2|
+      1 [CAL|AMD Radeon (TM) R7 M350|2|
+      1 [CAL|AMD Radeon(TM) R7 430|1|
+      1 [CAL|AMD Radeon(TM) R6 Graphics|2|
+      1 [CAL|AMD Radeon(TM) R6|1|
+      1 [CAL|AMD Radeon (TM) R5 Graphics|1|
+      1 [CAL|AMD Radeon(TM) R5 430M|1|
+      1 [CAL|AMD Radeon (TM) Pro WX 5100 Graphics|1|
+      1 [CAL|AMD Radeon(TM) Pro Duo|2|
+      1 [CAL|AMD Radeon(TM) HD8800 Series (AMD PITCAIRN / DRM 3.18.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD Radeon (TM) HD 8550M|1|
+      1 [CAL|AMD Radeon Series|1|
+      1 [CAL|AMD Radeon RX Vega 64 Compute Engine|1|
+      1 [CAL|AMD Radeon RX Vega 64|2|
+      1 [CAL|AMD RADEON R9 M395|1|
+      1 [CAL|AMD Radeon R9 M290X Compute Engine|1|-
+      1 [CAL|AMD Radeon R9 380 (Tonga)|2|
+      1 [CAL|AMD Radeon R9 380 (Tonga)|1|
+      1 [CAL|AMD Radeon R9 380|1|
+      1 [CAL|AMD Radeon R9 370|1|
+      1 [CAL|AMD Radeon R9 290 Series|2|
+      1 [CAL|AMD Radeon R9 270|1|
+      1 [CAL|AMD Radeon R9 200 Series (TONGA / DRM 3.23.0 / 4.15.0-20-generic, LLVM 6.0.0)|1|
+      1 [CAL|AMD Radeon R9 200 Series (AMD TONGA / DRM 3.18.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD Radeon R9 200 / HD 7900 Series|4|
+      1 [CAL|AMD Radeon R8 M535DX|2|
+      1 [CAL|AMD Radeon R7 Series / HD 9000 Series|1|
+      1 [CAL|AMD Radeon R7 M260|2|
+      1 [CAL|AMD Radeon R7 A370|1|
+      1 [CAL|AMD Radeon R7 430|1|
+      1 [CAL|AMD Radeon R7 240 + HD 8570D Dual Graphics|2|
+      1 [CAL|AMD Radeon R7 240 + HD 8570D Dual Graphics|1|
+      1 [CAL|AMD Radeon  R7 240|1|
+      1 [CAL|AMD Radeon R5 Series|1|
+      1 [CAL|AMD Radeon R5 M240 Series|1|
+      1 [CAL|AMD Radeon R5 M230 Series|1|
+      1 [CAL|AMD Radeon R5 M200 Series|2|
+      1 [CAL|AMD Radeon R5 Graphics|2|
+      1 [CAL|AMD Radeon R3|1|
+      1 [CAL|AMD Radeon R2|1|
+      1 [CAL|AMD Radeon Pro WX 3100|2|
+      1 [CAL|AMD Radeon Pro WX 2100|1|
+      1 [CAL|AMD Radeon Pro 555 Compute Engine|1|-
+      1 [CAL|AMD Radeon Pro 460|1|
+      1 [CAL|AMD Radeon Pro 455|1|
+      1 [CAL|AMD Radeon HD Vega10 GL XT Prototype Compute Engine|1|
+      1 [CAL|AMD Radeon HD (unknown)|2|
+      1 [CAL|AMD Radeon HD Tonga PRO Prototype Compute Engine|1|
+      1 [CAL|AMD Radeon HD - FirePro D500 Compute Engine|1|
+      1 [CAL|AMD Radeon HD 8990|2|
+      1 [CAL|AMD Radeon HD 8690A|1|
+      1 [CAL|AMD Radeon HD 8650G + R5 M200 Dual Graphics|2|
+      1 [CAL|AMD Radeon HD 8610G|1|
+      1 [CAL|AMD Radeon HD 8570M|2|
+      1 [CAL|AMD Radeon HD 8570 Graphics|2|
+      1 [CAL|AMD Radeon HD 8550G|1|
+      1 [CAL|AMD Radeon HD 8500 Series (OLAND / DRM 3.23.0 / 4.15.6-gentoo, LLVM 5.0.1)|1|
+      1 [CAL|AMD Radeon HD 8500 series|1|
+      1 [CAL|AMD Radeon HD 8350G|1|
+      1 [CAL|AMD Radeon HD 7970M|1|
+      1 [CAL|AMD Radeon HD 7950 Compute Engine|1|-
+      1 [CAL|AMD Radeon HD 7900 Series|6|
+      1 [CAL|AMD Radeon HD 7800 series (Pitcairn)|1|
+      1 [CAL|AMD Radeon HD 7800M Series|1|
+      1 [CAL|AMD Radeon HD 7790/R7 260/R7 260X/R9 360 (Bonaire)|1|
+      1 [CAL|AMD Radeon HD 7620G|2|
+      1 [CAL|AMD Radeon HD 7600G|1|
+      1 [CAL|AMD Radeon HD 7400/7500/7600/8300/8400/8500/8600 series (Trinity/Richland)|1|
+      1 [CAL|AMD Radeon HD 6900 series (Cayman)|3|
+      1 [CAL|AMD Radeon HD 6800 series (Barts)|1|
+      1 [CAL|AMD Radeon HD 6500M/5600/5700 Series|1|
+      1 [CAL|AMD Radeon HD 6250/6310 (Wrestler)|1|
+      1 [CAL|AMD Radeon HD 5800 Series|2|
+      1 [CAL|AMD Radeon HD 5800 Series|1|
+      1 [CAL|AMD Radeon HD 5450|1|
+      1 [CAL|AMD Radeon FirePro W8100|1|
+      1 [CAL|AMD POLARIS11 (DRM 3.18.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD POLARIS10 (DRM 3.8.0 / 4.9.0-6-amd64, LLVM 3.9.1)|1|
+      1 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.15.3-1-ARCH, LLVM 5.0.1)|1|
+      1 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.15.15-1-ARCH, LLVM 6.0.0)|1|
+      1 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.15.11-1-ARCH, LLVM 5.0.1)|1|
+      1 [CAL|AMD PITCAIRN (DRM 2.43.0, LLVM 3.8.0)|1|
+      1 [CAL|AMD PITCAIRN (DRM 2.43.0 / 4.4.0-116-generic, LLVM 7.0.0)|1|
+      1 [CAL|AMD PALM (DRM 2.50.0 / 4.14.34-1-lts, LLVM 6.0.0)|1|
+      1 [CAL|AMD PALM (DRM 2.50.0 / 4.14.33-1-lts, LLVM 6.0.0)|1|
+      1 [CAL|AMD PALM (DRM 2.49.0 / 4.9.0-6-amd64, LLVM 3.9.1)|1|
+      1 [CAL|AMD OLAND (DRM 2.50.0 / 4.16.4-1-ARCH, LLVM 6.0.0)|1|
+      1 [CAL|AMD OLAND (DRM 2.50.0 / 4.16.3-1-ARCH, LLVM 6.0.0)|1|
+      1 [CAL|AMD OLAND (DRM 2.50.0 / 4.15.0-3-amd64, LLVM 5.0.1)|1|
+      1 [CAL|AMD OLAND (DRM 2.50.0 / 4.14.0-3-amd64, LLVM 5.0.1)|1|
+      1 [CAL|AMD OLAND (DRM 2.43.0 / 4.4.0-119-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD MULLINS (DRM 2.50.0 / 4.13.0-39-generic, LLVM 5.0.1)|1|
+      1 [CAL|AMD MULLINS (DRM 2.49.0 / 4.9.0-6-amd64, LLVM 3.9.1)|1|
+      1 [CAL|AMD KAVERI (DRM 3.23.0 / 4.16.4-1-ARCH, LLVM 6.0.0)|1|
+      1 [CAL|AMD KAVERI (DRM 2.50.0 / 4.15.9, LLVM 6.0.0)|1|
+      1 [CAL|AMD KAVERI (DRM 2.50.0 / 4.14.5-hook, LLVM 5.0.0)|1|
+      1 [CAL|AMD KAVERI (DRM 2.50.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD JUNIPER (DRM 2.50.0 / 4.15.17-200.fc26.x86_64, LLVM 4.0.1)|1|
+      1 [CAL|AMD JUNIPER (DRM 2.50.0 / 4.15.13-2-default, LLVM 6.0.0)|1|
+      1 [CAL|AMD JUNIPER (DRM 2.50.0 / 4.15.0-2-amd64, LLVM 5.0.1)|1|
+      1 [CAL|AMD JUNIPER (DRM 2.50.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD HAWAII (DRM 2.50.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD HAWAII (DRM 2.50.0 / 4.13.0-36-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD HAWAII (DRM 2.43.0 / 4.4.0-119-generic, LLVM 5.0.0)|2|
+      1 [CAL|AMD HAINAN (DRM 2.50.0 / 4.16.2-1-default, LLVM 6.0.0)|1|
+      1 [CAL|AMD HAINAN (DRM 2.50.0 / 4.15.17-300.fc27.x86_64, LLVM 5.0.1)|2|
+      1 [CAL|AMD Firepro W6150M|1|
+      1 [CAL|AMD FirePro S9150 (FireGL V)|3|
+      1 [CAL|AMD FirePro S9100|1|
+      1 [CAL|AMD FirePro M5100|1|
+      1 [CAL|AMD Firepro M4100 FireGL V|1|
+      1 [CAL|AMD CYPRESS (DRM 2.50.0 / 4.15.12-1-ARCH, LLVM 6.0.0)|1|
+      1 [CAL|AMD CEDAR (DRM 2.50.0 / 4.15.0-20-generic, LLVM 6.0.0)|1|
+      1 [CAL|AMD CEDAR (DRM 2.50.0 / 4.15.0-1-amd64, LLVM 5.0.1)|1|
+      1 [CAL|AMD CEDAR (DRM 2.50.0 / 4.14.16-300.fc27.x86_64, LLVM 5.0.0)|1|
+      1 [CAL|AMD CEDAR (DRM 2.50.0 / 4.13.16-1-pve, LLVM 3.9.1)|1|
+      1 [CAL|AMD CEDAR (DRM 2.50.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD CEDAR (DRM 2.49.0 / 4.9.0-6-686-pae, LLVM 3.9.1)|1|
+      1 [CAL|AMD CAYMAN (DRM 2.50.0 / 4.13.0-38-lowlatency, LLVM 5.0.0)|1|
+      1 [CAL|AMD CAYMAN (DRM 2.43.0 / 4.4.0-119-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD CAYMAN (DRM 2.43.0 / 4.4.0-101-generic, LLVM 6.0.0)|1|
+      1 [CAL|AMD CARRIZO (DRM 3.18.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD CAPE VERDE (DRM 2.50.0 / 4.16.3-301.fc28.x86_64, LLVM 6.0.0)|1|
+      1 [CAL|AMD CAPE VERDE (DRM 2.50.0 / 4.16.0-rc6-amd64, LLVM 6.0.0)|1|
+      1 [CAL|AMD CAPE VERDE (DRM 2.50.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD CAPE VERDE (DRM 2.49.0 / 4.9.0-5-rt-amd64, LLVM 3.9.1)|1|
+      1 [CAL|AMD CAPE VERDE (DRM 2.49.0 / 4.10.0-42-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD CAICOS (DRM 2.50.0 / 4.15.0-20-generic, LLVM 6.0.0)|2|
+      1 [CAL|AMD CAICOS (DRM 2.50.0 / 4.14.8-gentoo-r1, LLVM 4.0.1)|1|
+      1 [CAL|AMD CAICOS (DRM 2.50.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD CAICOS (DRM 2.50.0 / 4.13.0-37-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD BONAIRE (DRM 2.50.0 / 4.14.18-gentoo, LLVM 5.0.1)|1|
+      1 [CAL|AMD BONAIRE (DRM 2.49.0 / 4.9.0-6-amd64, LLVM 3.9.1)|1|
+      1 [CAL|AMD BARTS (DRM 2.49.0 / 4.10.0-37-generic, LLVM 4.0.0)|1|
+      1 [CAL|AMD BARTS (DRM 2.43.0 / 4.4.0-121-generic, LLVM 6.0.0)|1|
+      1 [CAL|AMD BARTS (DRM 2.43.0 / 4.4.0-119-generic, LLVM 6.0.0)|1|
+      1 [CAL|AMD ARUBA (DRM 2.50.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      1 [CAL|687F:C3|6|
+      1 [CAL|687F:C3|2|
+      1 [CAL|687F:C3|1|
+      1 [CAL|687F:C1|5|
+      1 [CAL|67EF:CF|3|

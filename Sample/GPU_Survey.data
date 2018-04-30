@@ -1,0 +1,1602 @@
+   8894 [INTEL|Intel(R) HD Graphics 4600|1|
+   6955 [INTEL|Intel(R) HD Graphics|1|
+   6703 [INTEL|Intel(R) HD Graphics 4400|1|
+   6417 [INTEL|Intel(R) HD Graphics 530|1|
+   4638 [INTEL|Intel(R) HD Graphics 2500|1|
+   3637 [INTEL|Intel(R) HD Graphics 4000|1|
+   3491 [INTEL|Intel(R) HD Graphics 630|1|
+   3379 [CUDA|Quadro K1100M|1|
+   3204 [CUDA|GeForce GTX 750 Ti|1|
+   3183 [CUDA|GeForce GTX 970|1|
+   3154 [CUDA|GeForce GTX 1050 Ti|1|
+   2976 [CUDA|GeForce GT 730|1|
+   2920 [CUDA|GeForce GTX 1060 6GB|1|
+   2612 [CUDA|GeForce GTX 960|1|
+   2543 [CUDA|GeForce GTX 1070|1|
+   2300 [INTEL|Intel(R) HD Graphics 520|1|
+   2260 [CUDA|GeForce GTX 1080|1|
+   2124 [CUDA|GeForce 210|1|
+   1998 [CAL|AMD Radeon HD 6570/6670/7570/7670 series (Turks)|1|
+   1963 [CAL|ATI Radeon HD 2300/2400/3200/4200 (RV610)|1|
+   1845 [CUDA|GeForce GTX 1050|1|
+   1731 [INTEL|Intel(R) HD Graphics 5500|1|
+   1578 [INTEL|Intel(R) HD Graphics 620|1|
+   1545 [CUDA|GeForce GT 610|1|
+   1492 [CUDA|GeForce GTX 1060 3GB|1|
+   1434 [CUDA|GeForce GT 630|1|
+   1392 [CUDA|Quadro K1000M|1|
+   1322 [CUDA|GeForce GT 710|1|
+   1243 [CAL|ATI Radeon HD 5400 series (Cedar)|1|
+   1240 [CAL|AMD Radeon HD 7500/7600/8500/8600 series (Devastator)|1|
+   1148 [CUDA|GeForce GTX 1080 Ti|1|
+   1114 [CAL|Oland|1|
+   1104 [CAL|ATI Radeon HD 5400/R5 210 series (Cedar)|1|
+   1088 [CAL|AMD Radeon HD 6350/6450/7450/7470 series (Caicos)|1|
+   1081 [CUDA|GeForce GTX 760|1|
+   1072 [CUDA|GeForce GTX 650|1|
+   1047 [CUDA|NVS 5400M|1|
+    944 [CAL|AMD Radeon HD 6350/6450/7450/7470/R5 230 series (Caicos)|1|
+    939 [CUDA|GeForce GTX 660|1|
+    918 [CUDA|GeForce GTX 750|1|
+    905 [CUDA|GeForce GTX 950|1|
+    895 [CAL|Mullins|1|
+    880 [CAL|AMD Radeon HD 7400/7500/8300/8400 series (Scrapper)|1|
+    877 [CUDA|Quadro M1000M|1|
+    855 [INTEL|Intel(R) HD Graphics 510|1|
+    843 [CUDA|GeForce 940MX|1|
+    843 [CAL|AMD Radeon R9 200 Series|1|
+    842 [CUDA|GeForce GTX 980|1|
+    815 [CUDA|GeForce GT 640|1|
+    794 [CAL|Spectre|1|
+    768 [CUDA|GeForce GTX 960M|1|
+    734 [CUDA|GeForce GTX 745|1|
+    724 [CAL|AMD Radeon HD 7850/7870 series (Pitcairn)|1|
+    703 [CUDA|GeForce GTX 770|1|
+    703 [CUDA|GeForce GTX 550 Ti|1|
+    655 [CUDA|GeForce GTX 980 Ti|1|
+    639 [CUDA|GeForce GT 720|1|
+    630 [CAL|Radeon (TM) RX 480 Graphics|1|
+    614 [INTEL|HD Graphics 4000|1|
+    607 [CAL|ATI Radeon HD 5700/6750/6770 series (Juniper)|1|
+    594 [CAL|ATI Radeon HD 5500/5600 series (Redwood)|1|
+    588 [CUDA|GeForce GT 620|1|
+    565 [CAL|AMD Radeon R7 200 Series|1|
+    558 [INTEL|Iris Pro|1|
+    555 [CUDA|GeForce GT 750M|1|
+    535 [CAL|AMD Radeon HD 6790/6850/6870 series (Barts)|1|
+    527 [CAL|ATI Radeon HD 4350/4550 (R710)|1|
+    520 [CUDA|GeForce GT 1030|1|
+    519 [CUDA|GeForce GTX 650 Ti|1|
+    518 [CUDA|GeForce GT 430|1|
+    500 [CUDA|GeForce GTX 950M|1|
+    499 [CAL|Kalindi|1|
+    488 [CUDA|NVS 4200M|1|
+    486 [CAL|AMD Radeon HD 7700/R7 250X/R9 255 series (Capeverde)|1|
+    481 [CUDA|GeForce GT 740|1|
+    473 [CAL|ATI Radeon HD 4600 series (R730)|1|
+    472 [CUDA|GeForce GT 520|1|
+    471 [CUDA|GeForce GT 650M|1|
+    466 [CUDA|Quadro 1000M|1|
+    454 [CUDA|GeForce GTS 450|1|
+    450 [CUDA|GeForce 840M|1|
+    435 [CAL|AMD Radeon(TM) R7 Graphics|1|
+    434 [CAL|AMD Radeon R9 M395X Compute Engine|1|
+    422 [CAL|AMD Radeon HD 6520G/6530D/6550D/6620G (SuperSumo)|1|
+    406 [CUDA|GeForce GTX 560 Ti|1|
+    403 [CAL|AMD Radeon HD 7870/7950/7970/R9 280/R9 280X series (Tahiti)|1|
+    399 [CUDA|GeForce 9500 GT|1|
+    395 [CAL|Pitcairn|1|
+    383 [INTEL|Intel(R) Iris(TM) Graphics 6100|1|
+    381 [CUDA|GeForce GTX 680|1|
+    379 [CAL|Ellesmere|1|
+    375 [CUDA|GeForce GTX 660 Ti|1|
+    375 [CAL|ATI Radeon HD 4700/4800 (RV740/RV770)|1|
+    373 [CAL|AMD Radeon HD 7700 series (Capeverde)|1|
+    372 [CUDA|Quadro 600|1|
+    370 [CUDA|GeForce 9400|1|
+    368 [CAL|Bonaire|1|
+    365 [CAL|AMD Radeon HD 6900 series (Cayman)|1|
+    363 [CUDA|GeForce GT 740M|1|
+    363 [CAL|ATI Radeon HD 6750M|1|
+    359 [CAL|Capeverde|1|
+    356 [CAL|ATI Radeon HD 5800/5900 series (Cypress/Hemlock)|1|
+    352 [CUDA|GeForce GT 220|1|
+    343 [CUDA|GeForce 920M|1|
+    338 [CAL|AMD Radeon HD 7800 Series|1|
+    335 [CUDA|GeForce 940M|1|
+    334 [INTEL|Intel(R) HD Graphics 400|1|
+    333 [CAL|AMD Radeon(TM) R5 Graphics|1|
+    332 [CUDA|GeForce GTX 460|1|
+    331 [CUDA|GeForce GTX 670|1|
+    331 [CUDA|GeForce GT 540M|1|
+    330 [CUDA|GeForce 820M|1|
+    328 [CAL|Hainan|1|
+    323 [CAL|Radeon RX 580 Series|1|
+    322 [CUDA|Quadro K620|1|
+    321 [CUDA|GeForce GTX 1070|2|
+    320 [CUDA|GeForce GTX 1080 Ti|2|
+    319 [CAL|Baffin|1|
+    317 [CUDA|GeForce GT 705|1|
+    315 [CAL|AMD Radeon (TM) R9 380 Series|1|
+    313 [CUDA|GeForce GT 640M|1|
+    304 [INTEL|Iris|1|
+    301 [CUDA|GeForce 9600 GT|1|
+    300 [CUDA|GeForce GTX 780|1|
+    296 [CAL|ATI unknown|1|
+    294 [CUDA|GeForce GTX 560|1|
+    293 [CUDA|GeForce GT 440|1|
+    292 [CAL|AMD Radeon HD 7700 Series|1|
+    291 [INTEL|Intel(R) HD Graphics 405|1|
+    279 [CAL|Radeon RX 560 Series|1|
+    277 [CUDA|GeForce GTX 1080|2|
+    275 [INTEL|Intel(R) HD Graphics 610|1|
+    269 [INTEL|Intel(R) UHD Graphics 620|1|
+    267 [CUDA|GeForce 8400 GS|1|
+    264 [CUDA|GeForce GT 630M|1|
+    264 [CUDA|GeForce 8400GS|1|
+    262 [CUDA|GeForce GTX 970|2|
+    251 [CAL|AMD Radeon HD 6200/6300/7200/7300 series (Wrestler)|1|
+    248 [CAL|ATI Radeon HD 6770M|1|
+    243 [CUDA|GeForce 320M|1|
+    241 [CAL|AMD Radeon (TM) R9 390 Series|1|
+    240 [CUDA|GeForce GTX 1060|1|
+    240 [CAL|ATI Radeon HD5x00 series (Cedar)|1|
+    239 [CUDA|GeForce GTX 570|1|
+    236 [CUDA|GeForce GTX 860M|1|
+    233 [CUDA|GeForce GTS 250|1|
+    232 [CUDA|Quadro K2000|1|
+    232 [CUDA|GeForce 920MX|1|
+    229 [CUDA|GeForce GTX 980M|1|
+    229 [CAL|Tahiti|1|
+    222 [CAL|AMD Radeon R9 M370X Compute Engine|1|
+    221 [CUDA|GeForce GTX 970M|1|
+    220 [CAL|ATI Radeon HD 2600/3650 (RV630/RV635)|1|
+    218 [CUDA|GeForce 610M|1|
+    213 [CUDA|GeForce 9800 GT|1|
+    213 [CAL|ATI Radeon HD 5700 series (Juniper)|1|
+    211 [CAL|AMD Radeon HD 6200/6300/7300 series (Wrestler)|1|
+    210 [CUDA|Quadro 2000|1|
+    206 [CUDA|GeForce GT 755M|1|
+    205 [INTEL|HD Graphics 5000|1|
+    205 [CUDA|GeForce GTX 1070 Ti|1|
+    203 [CAL|Radeon(TM) RX 460 Graphics|1|
+    201 [CAL|Hawaii|1|
+    200 [CAL|ATI Radeon HD 5770|1|
+    197 [CUDA|GeForce 9400 GT|1|
+    195 [CUDA|GeForce GT 720M|1|
+    192 [CUDA|NVS 3100M|1|
+    190 [CAL|Radeon HD 4670|1|
+    188 [CUDA|Quadro K2200|1|
+    187 [CUDA|GeForce GT 240|1|
+    186 [opencl_gpu|Mali-T760|1|
+    182 [CUDA|GeForce 930MX|1|
+    176 [CUDA|GeForce GTX 780 Ti|1|
+    174 [CUDA|GeForce GTX 850M|1|
+    173 [CAL|AMD Radeon Pro 560 Compute Engine|1|
+    171 [opencl_gpu|Mali-T880|1|
+    170 [CUDA|GeForce GTX 260|1|
+    168 [CUDA|GeForce GTX 660M|1|
+    166 [INTEL|Intel(R) UHD Graphics 630|1|
+    166 [CAL|AMD Radeon HD 6370D/6380G/6410D/6480G (Sumo)|1|
+    164 [CUDA|GeForce GT 730M|1|
+    164 [CAL|Radeon (TM) RX 470 Graphics|1|
+    162 [CUDA|GeForce GTX 780M|1|
+    159 [CUDA|Quadro K600|1|
+    159 [CAL|ATI Radeon HD 6970M|1|
+    158 [CUDA|GeForce GT 635|1|
+    157 [CAL|AMD Radeon(TM) R4 Graphics|1|
+    156 [CAL|Tonga|1|
+    155 [CAL|Iceland|1|
+    154 [CUDA|GeForce 8600 GT|1|
+    145 [CUDA|Quadro 4000|1|
+    145 [CUDA|GeForce GTX 580|1|
+    143 [CUDA|Quadro K420|1|
+    143 [CUDA|GeForce GT 120|1|
+    142 [CAL|AMD Radeon HD 7900 Series|1|
+    141 [CUDA|NVS 300|1|
+    136 [CUDA|GeForce MX150|1|
+    136 [CUDA|GeForce GT 420|1|
+    135 [opencl_gpu|Mali-G71|1|
+    134 [CUDA|GeForce GT 530|1|
+    132 [CUDA|GeForce G210|1|
+    130 [CUDA|GeForce GTX 1050 Ti|2|
+    129 [CUDA|GeForce GT 525M|1|
+    129 [CUDA|GeForce 930M|1|
+    128 [CAL|AMD Radeon (TM) R9 Fury Series|1|
+    124 [CUDA|NVS 310|1|
+    124 [CUDA|GeForce GTX 980|2|
+    122 [CUDA|GeForce GTX 1060 6GB|2|
+    122 [CAL|AMD Radeon R9 200 / HD 7900 Series|1|
+    121 [CUDA|GeForce GTX 680MX|1|
+    120 [CUDA|GeForce GTX 775M|1|
+    119 [CAL|ATI Radeon HD 2300/2400/3200 (RV610)|1|
+    116 [CAL|Radeon RX Vega|1|
+    115 [CUDA|Quadro K2100M|1|
+    115 [CUDA|NVS 5200M|1|
+    114 [opencl_gpu|Mali-T830|1|
+    114 [INTEL|Intel(R) Iris(TM) Plus Graphics 640|1|
+    114 [CUDA|GeForce GT 635M|1|
+    113 [CUDA|Quadro M2000|1|
+    113 [CUDA|GeForce GTX 650 Ti BOOST|1|
+    113 [CAL|Radeon RX 570 Series|1|
+    111 [CUDA|GeForce GTX 645|1|
+    110 [CUDA|Quadro FX 580|1|
+    110 [CUDA|GeForce 8500 GT|1|
+    109 [CUDA|Quadro NVS 290|1|
+    109 [CUDA|GeForce GTX TITAN X|1|
+    109 [CUDA|GeForce 9400M|1|
+    108 [CUDA|Quadro FX 880M|1|
+    108 [CUDA|GeForce GT 330M|1|
+    108 [CUDA|GeForce 310|1|
+    108 [CAL|AMD Radeon R9 M395 Compute Engine|1|
+    104 [CUDA|GeForce GTX 760 (192-bit)|1|
+    104 [CUDA|GeForce 710M|1|
+    103 [CUDA|GeForce 8800 GT|1|
+    103 [CAL|Radeon HD 4850|1|
+    103 [CAL|AMD Radeon HD - FirePro D300 Compute Engine|2|
+    101 [CAL|AMD Radeon(TM) R2 Graphics|1|
+    100 [CUDA|GeForce GT 520M|1|
+     99 [CUDA|Quadro M2000M|1|
+     99 [CAL|AMD Radeon R9 M290X Compute Engine|1|
+     99 [CAL|AMD Radeon R9 200 Series|2|
+     98 [CAL|AMD Radeon (TM) R9 200 Series|1|
+     97 [CAL|AMD Radeon R9 M390 Compute Engine|1|
+     96 [CUDA|Quadro FX 1800|1|
+     95 [CAL|AMD Radeon Pro 580 Compute Engine|1|
+     94 [CUDA|GeForce GTX 980 Ti|2|
+     93 [CUDA|GeForce GTX 765M|1|
+     93 [CAL|AMD Radeon HD - FirePro D500 Compute Engine|2|
+     93 [CAL|AMD Radeon HD 8400 / R3 Series|1|
+     92 [CUDA|GeForce GTX 750 Ti|2|
+     91 [CUDA|GeForce 405|1|
+     91 [CAL|ATI Radeon HD 5750|1|
+     90 [CUDA|GeForce GTX 675MX|1|
+     90 [CAL|AMD Radeon (TM) R7 360 Series|1|
+     89 [CUDA|Quadro M500M|1|
+     88 [CAL|gfx804|1|
+     87 [CAL|AMD Radeon (TM) R7 370 Series|1|
+     86 [CUDA|Quadro K4000|1|
+     86 [CUDA|GeForce GTX 770M|1|
+     85 [INTEL|Intel(R) Iris(TM) Pro Graphics 6200|1|
+     84 [CUDA|GeForce GT 545|1|
+     81 [INTEL|Intel(R) HD Graphics 500|1|
+     81 [CAL|ATI Radeon HD 5800/5900 series (Cypress/Hemlock)|2|
+     81 [CAL|AMD Radeon R7 Graphics|1|
+     81 [CAL|AMD Radeon Pro 570 Compute Engine|1|
+     80 [INTEL|Intel HD Graphics Family|2|
+     80 [CAL|AMD Radeon HD 8330|1|
+     80 [CAL|AMD Radeon HD 7870/7950/7970/R9 280X series (Tahiti)|1|
+     79 [CUDA|GeForce GTX 1060 3GB|2|
+     79 [CUDA|GeForce GT 555M|1|
+     79 [CUDA|GeForce 310M|1|
+     79 [CAL|Bristol Ridge|1|
+     79 [CAL|AMD Radeon HD 7870/7950/7970/R9 280/R9 280X series (Tahiti)|2|
+     78 [CUDA|GeForce GT 620M|1|
+     78 [CUDA|GeForce 605|1|
+     77 [CAL|ATI Radeon HD 5670|1|
+     77 [CAL|AMD Radeon(TM) R5 M330|1|
+     76 [CAL|Radeon RX 580 Series|2|
+     75 [INTEL|Intel(R) HD Graphics 530|2|
+     74 [CUDA|GeForce 9600M GT|1|
+     74 [CAL|ATI Radeon HD 6630M|1|
+     74 [CAL|AMD Radeon(TM) R3 Graphics|1|
+     73 [CUDA|GeForce GTX 560M|1|
+     73 [CAL|AMD Radeon Pro 455 Compute Engine|1|
+     72 [CUDA|GeForce GTX 1080 Ti|3|
+     71 [CUDA|GeForce GTX 1070 Ti|2|
+     70 [CAL|AMD Radeon(TM) R5 M430|1|
+     70 [CAL|AMD Radeon R9 M295X Compute Engine|1|
+     68 [CUDA|GeForce GTX 960|2|
+     68 [CAL|ATI Radeon HD 5870|1|
+     68 [CAL|AMD Radeon R9 M380 Compute Engine|1|
+     67 [CAL|Radeon RX 550 Series|1|
+     66 [INTEL|Intel(R) HD Graphics 515|1|
+     64 [CUDA|GeForce GTX 965M|1|
+     63 [CUDA|GeForce GTX 285|1|
+     63 [CUDA|GeForce 315|1|
+     63 [CAL|AMD Radeon Pro 555 Compute Engine|1|
+     62 [CUDA|GeForce GTX TITAN|1|
+     62 [CUDA|GeForce 820A|1|
+     61 [INTEL|Intel(R) Iris(TM) Graphics 550|1|
+     61 [CAL|AMD Radeon R5 M330|1|
+     61 [CAL|AMD Radeon HD 8400|1|
+     60 [INTEL|Intel(R) HD Graphics 520|2|
+     60 [CUDA|Quadro M4000|1|
+     60 [CAL|Radeon (TM) RX 480 Graphics|2|
+     60 [CAL|AMD Radeon(TM) RX Vega 11 Graphics|1|
+     60 [CAL|AMD Radeon(TM) R5 240|1|
+     60 [CAL|AMD Radeon Pro 460 Compute Engine|1|
+     60 [CAL|AMD Radeon HD - FirePro D700 Compute Engine|2|
+     59 [CUDA|Quadro NVS 295|1|
+     59 [CAL|AMD Radeon R5 M230|1|
+     58 [INTEL|Intel(R) Iris(TM) Graphics 540|1|
+     58 [CUDA|Quadro K620M|1|
+     58 [CUDA|GeForce 9300 GE|1|
+     57 [CUDA|GeForce 410M|1|
+     56 [CAL|ATI Radeon HD 3800 (RV670)|1|
+     55 [INTEL|Intel(R) HD Graphics 5000|1|
+     55 [CUDA|ION|1|
+     55 [CUDA|GeForce GTX TITAN Black|1|
+     55 [CUDA|GeForce GT 820M|1|
+     55 [CUDA|GeForce GT 320|1|
+     54 [CUDA|GeForce GPU|1|
+     54 [CAL|AMD Radeon Pro 575 Compute Engine|1|
+     53 [CUDA|Quadro K1200|1|
+     53 [CUDA|Quadro FX 3800|1|
+     53 [CUDA|Quadro FX 1700|1|
+     53 [CUDA|GeForce GTX 275|1|
+     53 [CUDA|GeForce GTX 1060 6GB|3|
+     53 [CUDA|GeForce 920A|1|
+     53 [CUDA|GeForce 710A|1|
+     53 [CAL|Stoney|1|
+     53 [CAL|Spectre|2|
+     52 [CUDA|NVS 315|1|
+     52 [CUDA|GeForce GTX 1080|3|
+     52 [CUDA|GeForce 800M|1|
+     51 [CUDA|Quadro 2000M|1|
+     50 [CUDA|Quadro K2000M|1|
+     50 [CUDA|Quadro FX 570|1|
+     49 [CUDA|GeForce GTX 670M|1|
+     49 [CUDA|GeForce 8600M GT|1|
+     48 [INTEL|Intel(R) HD Graphics 5300|1|
+     48 [INTEL|Intel(R) HD Graphics 505|1|
+     48 [CUDA|TITAN X (Pascal)|1|
+     48 [CUDA|Quadro K4200|1|
+     48 [CUDA|GeForce GTX 470|1|
+     48 [CUDA|GeForce 9200|1|
+     48 [CAL|AMD Radeon R7 240|1|
+     47 [CUDA|Quadro FX 380|1|
+     47 [CUDA|GeForce GTX 480|1|
+     47 [CUDA|GeForce GT 230|1|
+     47 [CAL|AMD Radeon HD 7870/7950/7970 series (Tahiti)|1|
+     46 [CUDA|GeForce GTX 1070|3|
+     46 [CUDA|GeForce 9100|1|
+     46 [CAL|Radeon (TM) R7 M445|1|
+     46 [CAL|Radeon RX 560 Series|2|
+     45 [CUDA|NVS 510|1|
+     45 [CUDA|GeForce GT 625|1|
+     44 [INTEL|Intel(R) HD Graphics P530|1|
+     44 [CUDA|Quadro K2200|2|
+     44 [CAL|AMD Radeon R5 M335|1|
+     43 [CUDA|GeForce GTX 660|2|
+     43 [CUDA|GeForce 8800 GTS|1|
+     43 [CAL|AMD Radeon(TM) R6 Graphics|1|
+     42 [CUDA|NVIDIA Tegra K1|1|
+     42 [CAL|AMD Radeon (TM) R5 M430|1|
+     41 [CUDA|GeForce GTX 1060 with Max-Q Design|1|
+     41 [CUDA|GeForce 9300M GS|1|
+     40 [INTEL|Intel(R) Iris(TM) Graphics 650|1|
+     40 [CUDA|Quadro K5000|1|
+     40 [CUDA|GeForce GTX 1070|4|
+     40 [CUDA|GeForce GT 640M LE|1|
+     40 [CAL|AMD Radeon R7 A265|1|
+     39 [CUDA|GeForce GTX 680|2|
+     39 [CUDA|GeForce GT 425M|1|
+     39 [CUDA|GeForce GT 330|1|
+     39 [CUDA|GeForce 730A|1|
+     38 [INTEL|Intel(R) HD Graphics P4600|1|
+     38 [CUDA|GeForce GTX 870M|1|
+     38 [CUDA|GeForce GTX 780|2|
+     37 [CUDA|GeForce GTX 660 Ti|2|
+     37 [CAL|Radeon(TM) 520|1|
+     37 [CAL|AMD Radeon HD 8750M|1|
+     37 [CAL|AMD Radeon HD 8670M|1|
+     37 [CAL|AMD Radeon HD 7850/7870 series (Pitcairn)|2|
+     36 [CUDA|Quadro P4000|1|
+     36 [CUDA|Quadro P2000|1|
+     36 [CUDA|Quadro M2200|1|
+     36 [CUDA|GeForce GTX 460 SE|1|
+     36 [CAL|AMD Radeon (TM) RX 480|1|
+     35 [CUDA|Quadro M1200|1|
+     35 [CUDA|GeForce GTX 760|2|
+     35 [CAL|AMD Radeon HD 6350/6450/7450/7470/R5 230 series (Caicos)|2|
+     34 [CUDA|Quadro NVS 160M|1|
+     34 [CUDA|GeForce GT 730|2|
+     34 [CUDA|GeForce 615|1|
+     34 [CAL|Radeon 550 Series|1|
+     33 [CUDA|Quadro M620|1|
+     33 [CUDA|GeForce GTX 560 Ti|2|
+     33 [CUDA|GeForce GTX 460M|1|
+     33 [CUDA|GeForce GT 550M|1|
+     33 [CUDA|GeForce 930A|1|
+     33 [CAL|ATI Radeon HD5700 series (Juniper)|1|
+     33 [CAL|ATI Radeon HD 2600 (RV630)|1|
+     32 [INTEL|Intel(R) HD Graphics IvyBridge M GT2|1|
+     32 [CUDA|Quadro K3100M|1|
+     32 [CUDA|GeForce GTX 1050|2|
+     32 [CUDA|GeForce 830A|1|
+     32 [CAL|AMD Radeon R7 M260|1|
+     32 [CAL|AMD Radeon R7 250 Series|1|
+     32 [CAL|AMD Radeon HD 6570/6670/7570/7670 series (Turks)|2|
+     31 [INTEL|Intel(R) HD Graphics 6000|1|
+     31 [CUDA|GeForce GT 520MX|1|
+     31 [CUDA|GeForce GT 240M|1|
+     31 [CUDA|GeForce GT 1030|2|
+     31 [CAL|Radeon (TM) R5 M430|1|
+     31 [CAL|Radeon (TM) HD 8670M|1|
+     31 [CAL|Oland|2|
+     31 [CAL|ATI Radeon HD5x00 series (Redwood)|1|
+     30 [CUDA|TITAN Xp|1|
+     30 [CUDA|GeForce GTX 1080 Ti|4|
+     30 [CUDA|GeForce GT 745M|1|
+     30 [CUDA|GeForce GT 625 (OEM)|1|
+     30 [CAL|AMD Radeon (TM) R5 M330|1|
+     30 [CAL|AMD Radeon Pro 450 Compute Engine|1|
+     29 [INTEL|Intel(R) Iris(TM) Pro Graphics 5200|1|
+     29 [CUDA|GeForce GTX 690|2|
+     29 [CUDA|GeForce 8600 GTS|1|
+     29 [CAL|Radeon RX 570 Series|2|
+     29 [CAL|AMD Radeon HD 8790M|1|
+     28 [INTEL|Intel(R) Iris(TM) Graphics 5100|1|
+     28 [INTEL|Intel HD Graphics Family|1|
+     28 [CUDA|Quadro P600|1|
+     28 [CUDA|Quadro K610M|1|
+     28 [CUDA|Quadro FX 4600|1|
+     28 [CUDA|GeForce GTX 770|2|
+     28 [CUDA|GeForce 8200|1|
+     28 [CUDA|GeForce 810A|1|
+     28 [CAL|Carrizo|1|
+     28 [CAL|ATI Radeon HD 5700/6750/6770 series (Juniper)|2|
+     28 [CAL|AMD Radeon (TM) RX 480 Graphics|2|
+     28 [CAL|AMD Radeon(TM) R7 350X|1|
+     28 [CAL|AMD Radeon R7 M360|1|
+     28 [CAL|AMD Radeon R7 M265 Series|1|
+     27 [INTEL|Intel(R) HD Graphics Haswell GT2 Desktop|1|
+     27 [INTEL|Intel(R) HD Graphics 615|1|
+     27 [CUDA|Quadro 410|1|
+     27 [CUDA|GeForce GTX 950A|1|
+     27 [CUDA|GeForce GT 710M|1|
+     27 [CUDA|GeForce 9800 GTX/9800 GTX+|1|
+     27 [CUDA|GeForce 840A|1|
+     27 [CUDA|GeForce 830M|1|
+     27 [CAL|AMD Radeon(TM) R5 340X|1|
+     26 [opencl_gpu|Mali-T628|1|
+     26 [INTEL|Intel(R) HD Graphics Skylake Desktop GT2|1|
+     26 [INTEL|Intel(R) HD Graphics 5600|1|
+     26 [CUDA|Quadro 3000M|1|
+     26 [CUDA|GeForce GTX 880M|1|
+     26 [CUDA|GeForce GTX 1070 Ti|8|
+     26 [CUDA|GeForce GT 710|2|
+     26 [CAL|AMD Radeon (TM) R9 360|1|
+     26 [CAL|AMD Radeon(TM) R7 M440|1|
+     26 [CAL|AMD Radeon HD 8600/8700M|1|
+     26 [CAL|AMD Radeon HD 8200 / R3 Series|1|
+     25 [CUDA|GeForce GTX 670MX|1|
+     25 [CUDA|GeForce 9500 GS|1|
+     25 [CAL|AMD Radeon HD 7900 Series|2|
+     25 [CAL|AMD Radeon HD 6900 series (Cayman)|2|
+     24 [opencl_gpu|Mali-T720|1|
+     24 [CUDA|GeForce GT 720|2|
+     24 [CAL|Radeon(TM) 530|1|
+     24 [CAL|Hainan|2|
+     24 [CAL|AMD Radeon HD 8570|1|
+     24 [CAL|AMD Radeon HD 7800 Series|2|
+     23 [INTEL|Intel(R) Iris(R) Graphics 540|1|
+     23 [INTEL|Intel(R) HD Graphics 4200|1|
+     23 [CUDA|Quadro FX 4800|1|
+     23 [CUDA|GeForce GTX TITAN Black|2|
+     23 [CUDA|GeForce GTX 670|2|
+     23 [CUDA|GeForce G210M|1|
+     23 [CAL|Radeon HD 4870|1|
+     23 [CAL|AMD Radeon R5 M255|1|
+     22 [CUDA|Quadro 400|1|
+     22 [CUDA|GeForce GTX 760M|1|
+     22 [CUDA|GeForce GTX 750|2|
+     22 [CUDA|GeForce 8800 GTS 512|1|
+     22 [CAL|ATI Radeon HD 5400/R5 210 series (Cedar)|2|
+     22 [CAL|ASUS R9 280 Series|1|
+     22 [CAL|AMD Radeon HD 8600M Series|1|
+     22 [CAL|AMD Radeon HD 8240|1|
+     21 [opencl_gpu|Mali-T860|1|
+     21 [CAL|Radeon (TM) Pro WX 5100 Graphics|1|
+     21 [CAL|AMD Radeon Pro Vega 56 Compute Engine|1|
+     21 [CAL|67EF:CF|1|
+     20 [CUDA|Quadro 2000D|1|
+     20 [CUDA|NVIDIA Tegra X1|1|
+     20 [CUDA|GeForce GTX 950|2|
+     20 [CUDA|GeForce GTX 460 v2|1|
+     20 [CUDA|GeForce 9800 GTX+|1|
+     20 [CAL|Radeon RX 560 Series|3|
+     20 [CAL|Mullins|2|
+     20 [CAL|ATI Radeon HD 6490M|1|
+     20 [CAL|AMD Radeon(TM) R7 250|1|
+     20 [CAL|AMD Radeon R9 200 / HD 7900 Series|2|
+     20 [CAL|AMD Radeon R5 Graphics|1|
+     19 [CUDA|Quadro P400|1|
+     19 [CUDA|GeForce GTX 260|2|
+     19 [CAL|AMD Radeon(TM) R9 270|1|
+     19 [CAL|AMD Radeon (TM) R7 M360|1|
+     19 [CAL|AMD Radeon R9 M290 Compute Engine|1|
+     19 [CAL|AMD Radeon R7 M340|1|
+     19 [CAL|AMD Radeon Pro Vega 64 Compute Engine|1|
+     19 [CAL|AMD Radeon HD 6790/6850/6870 series (Barts)|2|
+     18 [opencl_gpu|Mali-G72|1|
+     18 [CUDA|Quadro M3000M|1|
+     18 [CUDA|GeForce GTX 1070|6|
+     18 [CUDA|GeForce GTS 240|1|
+     18 [CUDA|GeForce GT 230M|1|
+     18 [CUDA|GeForce 9600M GT|2|
+     18 [CUDA|GeForce 8800 GS|1|
+     18 [CUDA|GeForce 8400M GS|1|
+     18 [CUDA|GeForce 8200M G|1|
+     18 [CUDA|GeForce 315M|1|
+     18 [CAL|Tahiti|2|
+     18 [CAL|Ellesmere|2|
+     18 [CAL|AMD Radeon R5 430|1|
+     18 [CAL|AMD Radeon R5 330|1|
+     18 [CAL|AMD Radeon HD 8210|1|
+     17 [CUDA|Quadro K3000M|1|
+     17 [CUDA|Quadro FX 3700|1|
+     17 [CUDA|GeForce GTX 780 Ti|2|
+     17 [CUDA|GeForce GTX 680M|1|
+     17 [CUDA|GeForce GTX 1060 6GB|4|
+     17 [CAL|ATI Radeon HD 5770|2|
+     17 [CAL|AMD Radeon (TM) RX 580|1|
+     17 [CAL|AMD Radeon (TM) RX 570|1|
+     17 [CAL|AMD Radeon (TM) R9 390 Series|2|
+     17 [CAL|AMD Radeon R7 M265|1|
+     17 [CAL|AMD Radeon R7 200 Series|2|
+     17 [CAL|AMD Radeon HD (unknown)|1|
+     17 [CAL|AMD Radeon HD 7870/7950/7970/R9 280X series (Tahiti)|2|
+     17 [CAL|AMD Radeon HD 7770 GHz Edition|1|
+     17 [CAL|AMD Radeon HD 7700/R7 250X/R9 255 series (Capeverde)|2|
+     17 [CAL|AMD FirePro W2100|1|
+     16 [INTEL|Intel(R) HD Graphics 620|2|
+     16 [CUDA|Quadro K2000D|1|
+     16 [CUDA|Quadro 5000|1|
+     16 [CUDA|GeForce GTX 560 SE|1|
+     16 [CUDA|GeForce GTX 550 Ti|2|
+     16 [CUDA|GeForce GTX 1060 6GB|6|
+     16 [CUDA|GeForce GTX 1050 Ti|3|
+     16 [CUDA|GeForce GT 320M|1|
+     16 [CUDA|GeForce GT 120|2|
+     16 [CAL|Radeon RX 560|1|
+     16 [CAL|Fiji|1|
+     16 [CAL|AMD Radeon R7 M370|1|
+     16 [CAL|AMD FirePro W4170M (FireGL V)|1|
+     15 [CUDA|TITAN Xp COLLECTORS EDITION|1|
+     15 [CUDA|Quadro NVS 140M|1|
+     15 [CUDA|GeForce 8800 GTX|1|
+     15 [CUDA|GeForce 8300|1|
+     15 [CAL|Radeon(TM) RX 580|1|
+     15 [CAL|AMD Radeon (TM) RX 460 Graphics|1|
+     15 [CAL|AMD Radeon R5|1|
+     14 [CUDA|GeForce GTX 980M|2|
+     14 [CUDA|GeForce GTX 960A|1|
+     14 [CUDA|GeForce GTX 580|2|
+     14 [CUDA|GeForce GTX 465|1|
+     14 [CUDA|GeForce GTX 1060 3GB|3|
+     14 [CUDA|GeForce GTS 360M|1|
+     14 [CAL|Radeon (TM) 530|1|
+     14 [CAL|ATI Radeon HD5800 series (Cypress)|1|
+     14 [CAL|AMD Radeon (TM) RX 560|1|
+     14 [CAL|AMD Radeon (TM) RX 480 Graphics|1|
+     14 [CAL|AMD Radeon (TM) R9 380 Series|2|
+     14 [CAL|AMD Radeon HD 8730M|1|
+     14 [CAL|AMD Radeon HD 8570M|1|
+     14 [CAL|AMD Radeon HD 8570 Graphics|1|
+     14 [CAL|AMD Radeon HD 8250|1|
+     14 [CAL|AMD Radeon HD 7950 Compute Engine|1|
+     13 [CUDA|Tesla M2090|2|
+     13 [CUDA|Quadro FX 5800|1|
+     13 [CUDA|Quadro FX 570M|1|
+     13 [CUDA|NVS 315|2|
+     13 [CUDA|GeForce GTX TITAN Z|2|
+     13 [CUDA|GeForce GTX 1070 Ti|3|
+     13 [CUDA|GeForce GT 610|2|
+     13 [CUDA|GeForce GT 420M|1|
+     13 [CUDA|GeForce GT 130|1|
+     13 [CUDA|GeForce G105M|1|
+     13 [CUDA|GeForce 510|1|
+     13 [CAL|Radeon Vega Frontier Edition|1|
+     13 [CAL|Radeon RX 580 Series|6|
+     13 [CAL|AMD Radeon (TM) R9 Fury Series|2|
+     13 [CAL|AMD Radeon(TM) R9 290X|1|
+     12 [CUDA|Quadro K4100M|1|
+     12 [CUDA|GK20A|1|
+     12 [CUDA|GeForce GTX TITAN X|2|
+     12 [CUDA|GeForce GTX 680|3|
+     12 [CUDA|GeForce GTX 1050 Ti|4|
+     12 [CUDA|GeForce GT 335M|1|
+     12 [CUDA|GeForce 845M|1|
+     12 [CAL|AMD RadeonT R5 430|1|
+     12 [CAL|AMD Radeon(TM) RX 560 Series|1|
+     12 [CAL|AMD Radeon (TM) R7 M340|1|
+     12 [CAL|AMD Radeon (TM) R5 M335|1|
+     12 [CAL|AMD Radeon R9 200 / HD 7900 Series|3|
+     12 [CAL|AMD Radeon R6 Graphics|1|
+     12 [CAL|AMD Radeon HD Tahiti XT Prototype Compute Engine|1|
+     12 [CAL|AMD Radeon HD8350|1|
+     12 [CAL|AMD Radeon HD 6350/6450/7450/7470 series (Caicos)|2|
+     11 [INTEL|Intel(R) HD Graphics Kabylake ULT GT2|1|
+     11 [CUDA|Quadro M5000|1|
+     11 [CUDA|Quadro FX 370|1|
+     11 [CUDA|Quadro FX 2800M|1|
+     11 [CUDA|Quadro FX 1800M|1|
+     11 [CUDA|GeForce GTX 970|3|
+     11 [CUDA|GeForce GTX 760 Ti OEM|1|
+     11 [CUDA|GeForce GTX 675M|1|
+     11 [CUDA|GeForce GTX 650 Ti|2|
+     11 [CUDA|GeForce GTX 1070|5|
+     11 [CUDA|GeForce GTX 1050 Ti|6|
+     11 [CUDA|GeForce G100|1|
+     11 [CAL|Radeon (TM) RX 470 Graphics|2|
+     11 [CAL|Radeon RX 570 Series|3|
+     11 [CAL|ATI Radeon HD 3800 (RV670)|2|
+     11 [CAL|AMD Radeon(TM) R8 M445DX|2|
+     11 [CAL|AMD Radeon R7 Series|1|
+     11 [CAL|AMD Radeon R7 450|1|
+     11 [CAL|AMD Radeon R5 M240|1|
+     11 [CAL|AMD Radeon HD 8500M|1|
+     11 [CAL|AMD Radeon HD 7870/7950/7970/R9 280/R9 280X series (Tahiti)|3|
+     11 [CAL|AMD FirePro M4150|1|
+     10 [INTEL|Intel(R) HD Graphics P630|1|
+     10 [INTEL|Intel(R) HD Graphics P4000|1|
+     10 [INTEL|Intel(R) HD Graphics IvyBridge GT2|1|
+     10 [CUDA|TITAN X (Pascal)|2|
+     10 [CUDA|Quadro K620|2|
+     10 [CUDA|Quadro FX 770M|1|
+     10 [CUDA|Quadro 2000|2|
+     10 [CUDA|NVS 310|2|
+     10 [CUDA|GeForce GTX 560|2|
+     10 [CUDA|GeForce GTX 260M|1|
+     10 [CUDA|GeForce GT 440|2|
+     10 [CUDA|GeForce G 105M|1|
+     10 [CUDA|GeForce 9600 GSO|1|
+     10 [CUDA|GeForce 9200M GS|1|
+     10 [CUDA|GeForce 705M|1|
+     10 [CUDA|GeForce 705A|1|
+     10 [CAL|Radeon(TM) RX 560 Graphics|1|
+     10 [CAL|ATI unknown|2|
+     10 [CAL|ATI Radeon HD 2300/2400/3200/4200 (RV610)|2|
+     10 [CAL|AMD Radeon (TM) R9 370|1|
+     10 [CAL|AMD Radeon(TM) R7 M360|1|
+     10 [CAL|AMD Radeon(TM) R7 Graphics|2|
+     10 [CAL|AMD Radeon R7 M365X|1|
+     10 [CAL|AMD Radeon HD 8690M|1|
+     10 [CAL|AMD FirePro W4100|1|
+      9 [INTEL|Intel(R) Iris(R) Pro Graphics P580|1|
+      9 [CUDA|Quadro P1000|1|
+      9 [CUDA|Quadro NVS 290|2|
+      9 [CUDA|Quadro K6000|1|
+      9 [CUDA|Quadro 4000|2|
+      9 [CUDA|NVS 300|2|
+      9 [CUDA|GeForce GTX 690|4|
+      9 [CUDA|GeForce GT 740|4|
+      9 [CUDA|GeForce GT 640|2|
+      9 [CUDA|GeForce G200|1|
+      9 [CUDA|GeForce 9300 / nForce 730i|1|
+      9 [CUDA|GeForce 9300 GS|1|
+      9 [CUDA|GeForce 810M|1|
+      9 [CAL|Radeon RX 550 Series|2|
+      9 [CAL|AMD Radeon(TM) Vega 8 Graphics|1|
+      9 [CAL|AMD Radeon (TM) R7 M370|1|
+      9 [CAL|AMD Radeon(TM) R5 Graphics|2|
+      9 [CAL|AMD Radeon R9 M370X Compute Engine|1|-
+      9 [CAL|AMD Radeon R7 M270|1|
+      9 [CAL|AMD Radeon HD 7870/7950/7970/R9 280/R9 280X series (Tahiti)|4|
+      9 [CAL|AMD Radeon HD 7850/7870 series (Pitcairn)|3|
+      9 [CAL|AMD FirePro W2100 (FireGL V) Graphics Adapter|1|
+      8 [INTEL|Intel(R) Iris(R) Pro Graphics 580|1|
+      8 [INTEL|Intel(R) HD Graphics Haswell Ultrabook GT3 Mobile|1|
+      8 [INTEL|Intel(R) HD Graphics 5500 BroadWell U-Processor GT2|1|
+      8 [CUDA|Tesla K20m|1|
+      8 [CUDA|Tesla K20c|1|
+      8 [CUDA|Quadro K5100M|1|
+      8 [CUDA|Quadro FX 5600|1|
+      8 [CUDA|Quadro 600|4|
+      8 [CUDA|Quadro 4000M|1|
+      8 [CUDA|NVS 5100M|1|
+      8 [CUDA|NVS 2100M|1|
+      8 [CUDA|GeForce GTX TITAN|2|
+      8 [CUDA|GeForce GTX 980|3|
+      8 [CUDA|GeForce GTX 650|2|
+      8 [CUDA|GeForce GT 755M|2|
+      8 [CUDA|GeForce GT 445M|1|
+      8 [CUDA|GeForce 9600 GSO 512|1|
+      8 [CUDA|GeForce 9500 GT|2|
+      8 [CAL|Radeon (TM) RX 550|1|
+      8 [CAL|Radeon (TM) R7 M440|1|
+      8 [CAL|Radeon RX 570 Series|6|
+      8 [CAL|Radeon 500 Series|1|
+      8 [CAL|Hawaii|2|
+      8 [CAL|gfx900|1|
+      8 [CAL|Capeverde|2|
+      8 [CAL|Baffin|2|
+      8 [CAL|ATI Radeon HD 5500/5600 series (Redwood)|2|
+      8 [CAL|AMD Radeon (TM) RX 460 Graphics|2|
+      8 [CAL|AMD Radeon (TM) R7 M460|1|
+      8 [CAL|AMD Radeon(TM) R5 240|2|
+      8 [CAL|AMD Radeon (TM) HD 8750M|1|
+      8 [CAL|AMD Radeon(TM) 530|1|
+      8 [CAL|AMD Radeon R9 M275X|1|
+      8 [CAL|AMD Radeon R9 200 Series|4|
+      8 [CAL|AMD Radeon R7 A360|1|
+      8 [CAL|AMD Radeon HD 7700 Series|2|
+      8 [CAL|AMD Radeon HD 6570/6670/7570/7670 series (Turks)|3|
+      8 [CAL|AMD Radeon HD 6300 series (Caicos)|1|
+      8 [CAL|AMD JUNIPER (DRM 2.50.0 / 4.13.0-37-generic, LLVM 5.0.0)|1|
+      7 [INTEL|Intel(R) HD Graphics IvyBridge GT1|1|
+      7 [INTEL|Intel(R) HD Graphics Haswell GT2 Mobile|1|
+      7 [CUDA|Quadro P5000|1|
+      7 [CUDA|Quadro M600M|1|
+      7 [CUDA|Quadro K5200|1|
+      7 [CUDA|Quadro FX 3700M|1|
+      7 [CUDA|Quadro 600|2|
+      7 [CUDA|GeForce GTX 980 Ti|3|
+      7 [CUDA|GeForce GTX 780 Ti|3|
+      7 [CUDA|GeForce GTX 460|2|
+      7 [CUDA|GeForce GTX 295|2|
+      7 [CUDA|GeForce GTX 1070 with Max-Q Design|1|
+      7 [CUDA|GeForce GTX 1050|3|
+      7 [CUDA|GeForce GT 750M|2|
+      7 [CUDA|GeForce GT 735M|1|
+      7 [CUDA|GeForce GT 730A|1|
+      7 [CUDA|GeForce GT 730|3|
+      7 [CUDA|GeForce GT 650M|2|
+      7 [CUDA|GeForce GT 630|2|
+      7 [CUDA|GeForce 9600M GS|1|
+      7 [CUDA|GeForce 610|1|
+      7 [CAL|Radeon (TM) RX 470 Graphics|3|
+      7 [CAL|Radeon(TM) RX 460 Graphics|2|
+      7 [CAL|Radeon RX Vega|2|
+      7 [CAL|Radeon RX 580 Series|5|
+      7 [CAL|Radeon RX 560 Series|4|
+      7 [CAL|ATI Radeon HD 5x00 series (Cedar)|1|
+      7 [CAL|ATI Radeon HD 4700/4800 (RV740/RV770)|2|
+      7 [CAL|AMD Radeon (TM) RX 460|1|
+      7 [CAL|AMD Radeon (TM) R9 255|1|
+      7 [CAL|AMD Radeon (TM) R7 350|1|
+      7 [CAL|AMD Radeon (TM) R6 Graphics|1|
+      7 [CAL|AMD Radeon R9 M200X Series|1|
+      7 [CAL|AMD Radeon R6|1|
+      7 [CAL|AMD Radeon HD 8500M Series|1|
+      7 [CAL|AMD Radeon HD 7870/7950/7970/R9 280/R9 280X series (Tahiti)|8|
+      7 [CAL|AMD Radeon HD 7790 series (Bonaire)|1|
+      7 [CAL|AMD KABINI (DRM 2.50.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      7 [CAL|AMD FirePro W2100 Graphics Adapter|1|
+      7 [CAL|AMD CARRIZO (DRM 3.18.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      7 [CAL|67FF:CF|3|
+      6 [INTEL|Intel(R) Iris(R) Plus Graphics 640|1|
+      6 [INTEL|Intel(R) HD Graphics Skylake ULT GT2|1|
+      6 [INTEL|Intel(R) HD Graphics 630|2|
+      6 [CUDA|Tesla K20m|2|
+      6 [CUDA|Quadro P4000|2|
+      6 [CUDA|Quadro NVS 450|2|
+      6 [CUDA|Quadro K2200M|1|
+      6 [CUDA|Quadro FX 380 LP|1|
+      6 [CUDA|Quadro FX 1800|2|
+      6 [CUDA|P106-100|8|
+      6 [CUDA|NVS 510|2|
+      6 [CUDA|GeForce GTX 590|2|
+      6 [CUDA|GeForce GTX 570|2|
+      6 [CUDA|GeForce GTX 1080|4|
+      6 [CUDA|GeForce GTX 1070|8|
+      6 [CUDA|GeForce GTX 1070|7|
+      6 [CUDA|GeForce GTX 1060 6GB|5|
+      6 [CUDA|GeForce GT 740|2|
+      6 [CUDA|GeForce GT 720A|1|
+      6 [CUDA|GeForce GT 430|3|
+      6 [CUDA|GeForce GT 220M|1|
+      6 [CUDA|GeForce GT 120M|1|
+      6 [CUDA|GeForce 9650M GT|1|
+      6 [CUDA|GeForce 8400|1|
+      6 [CUDA|GeForce 800A|1|
+      6 [CUDA|GeForce 505|1|
+      6 [CUDA|GeForce 310|2|
+      6 [CAL|Radeon RX 580 Series|4|
+      6 [CAL|ATI Radeon HD 5400 series (Cedar)|2|
+      6 [CAL|AMD Radeon (TM) R9 380 Series|6|
+      6 [CAL|AMD Radeon(TM) R9 290X|2|
+      6 [CAL|AMD Radeon (TM) R7 M260|2|
+      6 [CAL|AMD Radeon(TM) R7 Graphics|3|
+      6 [CAL|AMD Radeon R7 Graphics + R5 330 Dual Graphics|1|
+      6 [CAL|AMD Radeon R5 M445 Series|1|
+      6 [CAL|AMD Radeon R5 M200 Series|1|
+      6 [CAL|AMD Radeon R5 435|1|
+      6 [CAL|AMD Radeon HD - FirePro D300 Compute Engine|2|-
+      6 [CAL|AMD Radeon HD 8750M|2|
+      6 [CAL|AMD Radeon HD 7700 series (Cape Verde)|1|
+      6 [CAL|AMD Radeon HD 7700M Series|1|
+      6 [CAL|AMD FirePro W5130M|1|
+      6 [CAL|AMD FirePro W5100 Graphics Adapter|1|
+      6 [CAL|AMD FirePro W5100 (FireGL V) Graphics Adapter|1|
+      6 [CAL|AMD FirePro W5100|1|
+      6 [CAL|AMD FirePro M6100|1|
+      6 [CAL|AMD BONAIRE (DRM 2.50.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      5 [INTEL|SKL Graphics|1|
+      5 [INTEL|Intel(R) Iris Pro Graphics 6200 BroadWell Mobile GT3|1|
+      5 [INTEL|Intel(R) HD Graphics Skylake Halo GT4|1|
+      5 [INTEL|Intel(R) HD Graphics Haswell Ultrabook GT2 Mobile|1|
+      5 [INTEL|Intel(R) HD Graphics 510|2|
+      5 [CUDA|TITAN Xp|2|
+      5 [CUDA|TITAN V|1|
+      5 [CUDA|Tesla P100-PCIE-16GB|1|
+      5 [CUDA|Tesla C2075|1|
+      5 [CUDA|Quadro M4000|2|
+      5 [CUDA|Quadro FX 3800M|1|
+      5 [CUDA|P106-100|6|
+      5 [CUDA|ION LE|1|
+      5 [CUDA|GF117|1|
+      5 [CUDA|GeForce GTX 980 Ti|4|
+      5 [CUDA|GeForce GTX 960|3|
+      5 [CUDA|GeForce GTX 760A|1|
+      5 [CUDA|GeForce GTX 680M|2|
+      5 [CUDA|GeForce GTX 570M|1|
+      5 [CUDA|GeForce  GTX 555|1|
+      5 [CUDA|GeForce GTX 1070 Ti|6|
+      5 [CUDA|GeForce 8600M GS|1|
+      5 [CUDA|GeForce 210|2|
+      5 [CAL|Radeon (TM) RX 480 Graphics|4|
+      5 [CAL|Radeon (TM) RX 480 Graphics|3|
+      5 [CAL|Radeon RX 580 Series|3|
+      5 [CAL|Radeon Pro 580|1|
+      5 [CAL|Ellesmere|6|
+      5 [CAL|ATI Radeon HD 5800 series (Cypress)|1|
+      5 [CAL|ATI Radeon HD 2900 (RV600)|1|
+      5 [CAL|ASUS R7 250X Series|1|
+      5 [CAL|AMD Radeon (TM) RX 580|4|
+      5 [CAL|AMD Radeon (TM) R9 M360|1|
+      5 [CAL|AMD Radeon (TM) R7 M260|1|
+      5 [CAL|AMD Radeon(TM) R7 200 Series Graphics|1|
+      5 [CAL|AMD Radeon (TM) 535DX|2|
+      5 [CAL|AMD Radeon RX Vega 64|1|
+      5 [CAL|AMD Radeon R9 M395 Compute Engine|1|-
+      5 [CAL|AMD Radeon R7 350 Series|1|
+      5 [CAL|AMD Radeon R7 240 Series|1|
+      5 [CAL|AMD Radeon  R2 Series|1|
+      5 [CAL|AMD Radeon HD Pitcairn PRO Prototype Compute Engine|1|
+      5 [CAL|AMD Radeon HD 8280|1|
+      5 [CAL|AMD Radeon HD 7800 Series|6|
+      5 [CAL|AMD Radeon HD 7400/7500/7600 series (Trinity)|1|
+      5 [CAL|AMD Radeon HD 6x00 series (Turks)|1|
+      5 [CAL|AMD Radeon HD 6900 series (Cayman)|4|
+      5 [CAL|AMD Radeon HD 6350/6450/7450/7470/R5 230 series (Caicos)|4|
+      5 [CAL|AMD Radeon HD 6350/6450/7450/7470/R5 230 series (Caicos)|3|
+      5 [CAL|AMD FirePro W8100|1|
+      5 [CAL|AMD FirePro W7100|1|
+      5 [CAL|AMD Firepro W4190M|1|
+      5 [CAL|AMD FirePro (TM) W4190M|1|
+      4 [INTEL|KBL Graphics|1|
+      4 [INTEL|Intel(R) HD Graphics Kabylake Desktop GT2|1|
+      4 [CUDA|Tesla M2090|4|
+      4 [CUDA|Quadro NVS 420|2|
+      4 [CUDA|Quadro NVS 135M|1|
+      4 [CUDA|Quadro M6000|2|
+      4 [CUDA|Quadro M520|1|
+      4 [CUDA|Quadro M2000|2|
+      4 [CUDA|Quadro K420|2|
+      4 [CUDA|Quadro K4200|2|
+      4 [CUDA|Quadro K4000|2|
+      4 [CUDA|Quadro K2000|2|
+      4 [CUDA|Quadro FX 2700M|1|
+      4 [CUDA|Quadro 6000|1|
+      4 [CUDA|P106-100|7|
+      4 [CUDA|GeForce MX130|1|
+      4 [CUDA|GeForce GTX 970M|2|
+      4 [CUDA|GeForce GTX 960|4|
+      4 [CUDA|GeForce GTX 750 Ti|3|
+      4 [CUDA|GeForce GTX 470|2|
+      4 [CUDA|GeForce GTX 280M|1|
+      4 [CUDA|GeForce GTX 280|1|
+      4 [CUDA|GeForce GTX 1080 Ti|7|
+      4 [CUDA|GeForce GTX 1080 Ti|6|
+      4 [CUDA|GeForce GTX 1060 6GB|7|
+      4 [CUDA|GeForce GTX 1050 Ti|5|
+      4 [CUDA|GeForce GT 710|3|
+      4 [CUDA|GeForce GT 645M|1|
+      4 [CUDA|GeForce GT 545|2|
+      4 [CUDA|GeForce GT 520|2|
+      4 [CUDA|GeForce GT 435M|1|
+      4 [CUDA|GeForce GT 325M|1|
+      4 [CUDA|GeForce GT 130M|1|
+      4 [CUDA|GeForce 9600 GT|2|
+      4 [CUDA|GeForce 9600 GS|1|
+      4 [CUDA|GeForce 9200M GE|1|
+      4 [CUDA|GeForce 8800 GT|2|
+      4 [CUDA|GeForce 8300 GS|1|
+      4 [CAL|Radeon (TM) RX 480 Graphics|5|
+      4 [CAL|Radeon (TM) R9 M470X|1|
+      4 [CAL|Radeon RX 580 Series (AMD POLARIS10 / DRM 3.18.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      4 [CAL|Radeon RX 580 Series (AMD POLARIS10 / DRM 3.18.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      4 [CAL|Radeon RX 580 Series|8|
+      4 [CAL|Radeon R5 series|1|
+      4 [CAL|Pitcairn|2|
+      4 [CAL|Iceland|2|
+      4 [CAL|Hawaii|3|
+      4 [CAL|Fiji|2|
+      4 [CAL|Device 687f|1|
+      4 [CAL|Devastator|2|
+      4 [CAL|Devastator|1|
+      4 [CAL|Bonaire|2|
+      4 [CAL|Baffin [Polaris11]
+      4 [CAL|ATI Radeon HD 5x00 series (Redwood)|1|
+      4 [CAL|ATI Radeon HD 5800/5900 series (Cypress/Hemlock)|4|
+      4 [CAL|ATI Radeon Barts XT Prototype|1|
+      4 [CAL|ASUS R7 265 Series|1|
+      4 [CAL|AMD TURKS (DRM 2.50.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      4 [CAL|AMD TURKS (DRM 2.50.0 / 4.13.0-37-generic, LLVM 5.0.0)|1|
+      4 [CAL|AMD RadeonT R7 450|1|
+      4 [CAL|AMD Radeon (TM) R7 300 Series|1|
+      4 [CAL|AMD Radeon (TM) R5 M315|1|
+      4 [CAL|AMD Radeon (TM) Pro WX 7100 Graphics|1|
+      4 [CAL|AMD Radeon (TM) Pro WX 5100 Graphics (POLARIS10 / DRM 3.8.0 / 4.9.95-gentoo, LLVM 5.0.1)|1|
+      4 [CAL|AMD Radeon (TM) 530|1|
+      4 [CAL|AMD Radeon RX 580 Compute Engine|1|
+      4 [CAL|AMD Radeon R9 M390 Compute Engine|1|-
+      4 [CAL|AMD Radeon R9 360|1|
+      4 [CAL|AMD Radeon R7 M260X|1|
+      4 [CAL|AMD Radeon R5 M465 Series|1|
+      4 [CAL|AMD Radeon R5 M435 Series|1|
+      4 [CAL|AMD Radeon R5 430|2|
+      4 [CAL|AMD Radeon R5 340|1|
+      4 [CAL|AMD Radeon HD 8700M Series|1|
+      4 [CAL|AMD Radeon HD 8650G|2|
+      4 [CAL|AMD Radeon HD 7850/7870 series (Pitcairn)|4|
+      4 [CAL|AMD Radeon HD 7700 series (Capeverde)|2|
+      4 [CAL|AMD Radeon HD 7700 Series (AMD CAPE VERDE / DRM 3.10.0 / 4.11.0-13-generic, LLVM 4.0.0)|1|
+      4 [CAL|AMD Radeon Graphics|1|
+      4 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.16.3-1-ARCH, LLVM 6.0.0)|1|
+      4 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      4 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.13.0-36-generic, LLVM 7.0.0)|1|
+      4 [CAL|AMD MULLINS (DRM 2.50.0 / 4.15.0-13-generic, LLVM 5.0.0)|1|
+      4 [CAL|AMD FirePro W5170M|1|
+      4 [CAL|AMD FirePro W5000|1|
+      4 [CAL|AMD FirePro W4100 Graphics Adapter|1|
+      4 [CAL|AMD FirePro S9150 (FireGL V)|1|
+      4 [CAL|AMD CARRIZO (DRM 3.8.0 / 4.9.0-4-amd64, LLVM 3.9.1)|1|
+      4 [CAL|AMD CAICOS (DRM 2.50.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      4 [CAL|687F:C1|4|
+      3 [opencl_gpu|Mali-T624|1|
+      3 [INTEL|Intel(R) Iris(R) Plus Graphics 650|1|
+      3 [INTEL|Intel(R) HD Graphics Haswell M|1|
+      3 [INTEL|Intel(R) HD Graphics 6000 BroadWell U-Processor GT3|1|
+      3 [INTEL|Haswell Desktop Graphics Controller|1|
+      3 [CUDA|TITAN Xp COLLECTORS EDITION|2|
+      3 [CUDA|TITAN V|2|
+      3 [CUDA|Tesla K80|4|
+      3 [CUDA|Tesla K40c|1|
+      3 [CUDA|Tesla K20Xm|1|
+      3 [CUDA|Tesla C2075|2|
+      3 [CUDA|Tesla C2070|1|
+      3 [CUDA|Tesla C2050|1|
+      3 [CUDA|Quadro P3000|1|
+      3 [CUDA|Quadro P2000|4|
+      3 [CUDA|Quadro NVS 295|2|
+      3 [CUDA|Quadro M5000|2|
+      3 [CUDA|Quadro K600|2|
+      3 [CUDA|Quadro K5000|2|
+      3 [CUDA|Quadro K4000M|1|
+      3 [CUDA|Quadro K1200|2|
+      3 [CUDA|Quadro FX 3700|2|
+      3 [CUDA|P106-100|4|
+      3 [CUDA|P106-100|2|
+      3 [CUDA|P106-100|1|
+      3 [CUDA|NVA8|1|
+      3 [CUDA|Graphics Device|1|
+      3 [CUDA|GeForce GTX TITAN X|3|
+      3 [CUDA|GeForce GTX TITAN Black|4|
+      3 [CUDA|GeForce GTX 860M|2|
+      3 [CUDA|GeForce GTX 765M|2|
+      3 [CUDA|GeForce GTX 690|1|
+      3 [CUDA|GeForce GTX 670|3|
+      3 [CUDA|GeForce GTX 660 Ti|3|
+      3 [CUDA|GeForce GTX 650 Ti Boost|1|
+      3 [CUDA|GeForce GTX 580M|1|
+      3 [CUDA|GeForce GTX 460 SE|2|
+      3 [CUDA|GeForce GTX 1080 Ti|5|
+      3 [CUDA|GeForce GTX 1060 6GB|8|
+      3 [CUDA|GeForce GTX 1060 6GB|12|
+      3 [CUDA|GeForce GTX 1060 3GB|8|
+      3 [CUDA|GeForce GTS 250M|1|
+      3 [CUDA|GeForce GT 745A|1|
+      3 [CUDA|GeForce GT 740A|1|
+      3 [CUDA|GeForce GT 625M|1|
+      3 [CUDA|GeForce GT 340|1|
+      3 [CUDA|GeForce GT 140|1|
+      3 [CUDA|GeForce G 103M|1|
+      3 [CUDA|GeForce 9500M GS|1|
+      3 [CUDA|GeForce 9400M G|1|
+      3 [CUDA|GeForce 8600 GTS|2|
+      3 [CUDA|GeForce 8400 GS|2|
+      3 [CUDA|GeForce 825M|1|
+      3 [CAL|Tonga|2|
+      3 [CAL|Radeon (TM) RX 570|1|
+      3 [CAL|Radeon(TM) RX 480|1|
+      3 [CAL|Radeon (TM) R5 M420|1|
+      3 [CAL|Radeon (TM) Pro Duo|2|
+      3 [CAL|Radeon RX Vega (VEGA10 / DRM 3.25.0 / 4.17.0-041700rc1-generic, LLVM 6.0.0)|1|
+      3 [CAL|Radeon RX Vega (VEGA10 / DRM 3.23.0 / 4.16.3-gentoo, LLVM 5.0.1)|1|
+      3 [CAL|Radeon RX 580 Series (POLARIS10 / DRM 3.23.0 / 4.15.0-20-generic, LLVM 6.0.0)|1|
+      3 [CAL|Radeon RX 580 Series|7|
+      3 [CAL|Radeon RX 550 Series (AMD POLARIS12 / DRM 3.20.0 / 4.13.0-38-generic, LLVM 5.0.0)|2|
+      3 [CAL|Radeon 500 Series|2|
+      3 [CAL|gfx902|1|
+      3 [CAL|Caicos|2|
+      3 [CAL|ATI Radeon HD 6970M|1|-
+      3 [CAL|ATI Radeon Barts PRO Prototype|1|
+      3 [CAL|AMD TAHITI (DRM 2.50.0 / 4.16.3-1-ARCH, LLVM 6.0.0)|1|
+      3 [CAL|AMD Radeon(TM) Vega 8 Mobile Graphics|1|
+      3 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.23.0 / 4.15.16-300.fc27.x86_64, LLVM 5.0.1)|1|
+      3 [CAL|AMD Radeon (TM) R9 200 Series|2|
+      3 [CAL|AMD Radeon (TM) R7 M340|2|
+      3 [CAL|AMD Radeon (TM) R7 370 Series|2|
+      3 [CAL|AMD Radeon (TM) R5 A330|1|
+      3 [CAL|AMD Radeon (TM) HD 8670M|1|
+      3 [CAL|AMD Radeon (TM) HD8530M|1|
+      3 [CAL|AMD Radeon (TM) HD 8500M/8700M|1|
+      3 [CAL|AMD Radeon (TM) 535DX|1|
+      3 [CAL|AMD Radeon RX Vega10 XLA Prototype Compute Engine|1|
+      3 [CAL|AMD Radeon R8 M365DX|2|
+      3 [CAL|AMD Radeon R7 M260 Series|1|
+      3 [CAL|AMD Radeon R5 M315|1|
+      3 [CAL|AMD Radeon R5 M230|2|
+      3 [CAL|AMD Radeon R4|1|
+      3 [CAL|AMD Radeon Pro 450|1|
+      3 [CAL|AMD Radeon HD Tonga XT Prototype Compute Engine|1|
+      3 [CAL|AMD Radeon HD - FirePro D700 Compute Engine|2|-
+      3 [CAL|AMD Radeon HD 8950|1|
+      3 [CAL|AMD Radeon HD 8750A|1|
+      3 [CAL|AMD Radeon HD 8570|2|
+      3 [CAL|AMD Radeon HD 8180|1|
+      3 [CAL|AMD Radeon HD 7900 Series|5|
+      3 [CAL|AMD Radeon HD 7500/7600/8500/8600 series (Devastator)|2|
+      3 [CAL|AMD Radeon HD 6520G/6530D/6550D/6620G (SuperSumo)|2|
+      3 [CAL|AMD Radeon HD 6300/6400/6500/6600 series (Sumo)|1|
+      3 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.16.2-2-ARCH, LLVM 6.0.0)|1|
+      3 [CAL|AMD OLAND (DRM 2.50.0 / 4.15.0-2-amd64, LLVM 5.0.1)|1|
+      3 [CAL|AMD JUNIPER (DRM 2.50.0 / 4.16.3-gentoo, LLVM 6.0.0)|1|
+      3 [CAL|AMD HAWAII (DRM 2.50.0, 4.17.0-041700rc2-generic, LLVM 6.0.0)|1|
+      3 [CAL|AMD FirePro W8100 Graphic Adapter|1|
+      3 [CAL|AMD FirePro W7170M|1|
+      3 [CAL|AMD FirePro W4300|1|
+      3 [CAL|AMD FirePro S9150|2|
+      3 [CAL|AMD FirePro S9150|1|
+      3 [CAL|AMD CYPRESS (DRM 2.49.0 / 4.10.0-38-generic, LLVM 5.0.0)|1|
+      3 [CAL|AMD CARRIZO (DRM 3.18.0 / 4.13.0-37-generic, LLVM 5.0.0)|1|
+      3 [CAL|AMD CAPE VERDE (DRM 2.50.0 / 4.13.0-36-generic, LLVM 5.0.0)|1|
+      3 [CAL|AMD CAICOS (DRM 2.50.0 / 4.16.3-1-ARCH, LLVM 6.0.0)|1|
+      3 [CAL|AMD CAICOS (DRM 2.49.0 / 4.9.0-6-amd64, LLVM 3.9.1)|2|
+      3 [CAL|AMD CAICOS (DRM 2.49.0 / 4.11.0-0.bpo.1-amd64, LLVM 3.9.1)|2|
+      3 [CAL|687F:C1|2|
+      3 [CAL|687F:C1|1|
+      3 [CAL|687F:C0|1|
+      3 [CAL|67FF:CF|2|
+      3 [CAL|67EF:CF|2|
+      2 [opencl_gpu|PowerVR Rogue GE8300|1|
+      2 [INTEL|Intel(R) Skylake Desktop Graphics Controller|1|
+      2 [INTEL|Intel(R) HD Graphics Skylake ULT GT3|1|
+      2 [INTEL|Intel(R) HD Graphics Skylake Desktop GT1|1|
+      2 [INTEL|Intel(R) HD Graphics IvyBridge M GT1|1|
+      2 [INTEL|Intel(R) HD Graphics Haswell GT1 Desktop|1|
+      2 [INTEL|Intel(R) HD Graphics Cherryview|1|
+      2 [INTEL|Intel(R) HD Graphics Bay Trail-T|1|
+      2 [INTEL|Intel(R) HD Graphics 500|2|
+      2 [INTEL|Intel HD Graphics Family|1|-
+      2 [CUDA|TITAN V|4|
+      2 [CUDA|Tesla V100-PCIE-16GB|1|
+      2 [CUDA|Tesla P100-PCIE-16GB|4|
+      2 [CUDA|Tesla K20Xm|2|
+      2 [CUDA|Tesla K10.G2.8GB|2|
+      2 [CUDA|Quadro P6000|2|
+      2 [CUDA|Quadro P6000|1|
+      2 [CUDA|Quadro P2000|2|
+      2 [CUDA|Quadro M6000|1|
+      2 [CUDA|Quadro M5000M|1|
+      2 [CUDA|Quadro M2000|3|
+      2 [CUDA|Quadro K5000M|1|
+      2 [CUDA|Quadro K5000|3|
+      2 [CUDA|Quadro K4000|3|
+      2 [CUDA|Quadro K2000|3|
+      2 [CUDA|Quadro GV100|1|
+      2 [CUDA|Quadro FX 360M|1|
+      2 [CUDA|Quadro FX 1600M|1|
+      2 [CUDA|Quadro 6000|3|
+      2 [CUDA|Quadro 5000|2|
+      2 [CUDA|Quadro 410|4|
+      2 [CUDA|Quadro 410|2|
+      2 [CUDA|P106-100|5|
+      2 [CUDA|P104-100|4|
+      2 [CUDA|NVS 810|2|
+      2 [CUDA|NVS 300|3|
+      2 [CUDA|NVE7|1|
+      2 [CUDA|NVC1|1|
+      2 [CUDA|NVAA|1|
+      2 [CUDA|NV94|1|
+      2 [CUDA|NV92|1|
+      2 [CUDA|NV117|1|
+      2 [CUDA|GeForce GTX 980|4|
+      2 [CUDA|GeForce GTX 780M|2|
+      2 [CUDA|GeForce GTX 750 Ti|4|
+      2 [CUDA|GeForce GTX 680|5|
+      2 [CUDA|GeForce GTX 645|2|
+      2 [CUDA|GeForce GTX 590|1|
+      2 [CUDA|GeForce  GTX 555|2|
+      2 [CUDA|GeForce GTX 480|2|
+      2 [CUDA|GeForce GTX 260|3|
+      2 [CUDA|GeForce GTX 1080 with Max-Q Design|1|
+      2 [CUDA|GeForce GTX 1080 Ti|10|
+      2 [CUDA|GeForce GTX 1080|8|
+      2 [CUDA|GeForce GTX 1080|5|
+      2 [CUDA|GeForce GTS 450|2|
+      2 [CUDA|GeForce GTS 250|2|
+      2 [CUDA|GeForce GT 730|4|
+      2 [CUDA|GeForce GT 720|3|
+      2 [CUDA|GeForce GT 645|1|
+      2 [CUDA|GeForce GT 415|1|
+      2 [CUDA|GeForce GT 220|2|
+      2 [CUDA|GeForce G102M|1|
+      2 [CUDA|GeForce 945M|1|
+      2 [CUDA|GeForce 940A|1|
+      2 [CUDA|GeForce 9200|2|
+      2 [CUDA|GeForce 910M|1|
+      2 [CUDA|GeForce 9100M G|1|
+      2 [CUDA|GeForce 8800 GTX|2|
+      2 [CUDA|GeForce 8700M GT|2|
+      2 [CUDA|GeForce 8600 GS|1|
+      2 [CUDA|GeForce 8400M GT|1|
+      2 [CAL|Scrapper|1|
+      2 [CAL|Redwood|1|
+      2 [CAL|Radeon(TM) RX580|1|
+      2 [CAL|Radeon (TM) RX 480 Graphics|6|
+      2 [CAL|Radeon (TM) RX 460|1|
+      2 [CAL|Radeon (TM) Pro WX 7100 Graphics|1|
+      2 [CAL|Radeon (TM) Pro Duo|4|
+      2 [CAL|Radeon RX 570 Series|4|
+      2 [CAL|Radeon RX 560 Series|6|
+      2 [CAL|Radeon RX 550 Series (POLARIS12 / DRM 3.23.0 / 4.15.0-1-amd64, LLVM 5.0.1)|1|
+      2 [CAL|Radeon RX 550 Series|6|
+      2 [CAL|Radeon Pro 560|1|
+      2 [CAL|KV SPECTRE DESKTOP 65W/100W (130F)|1|
+      2 [CAL|Hawaii|4|
+      2 [CAL|gfx901|1|
+      2 [CAL|gfx900|9|
+      2 [CAL|Ellesmere|5|
+      2 [CAL|Ellesmere|3|
+      2 [CAL|Dogs|1|
+      2 [CAL|Cayman|3|
+      2 [CAL|Carrizo|2|
+      2 [CAL|Baffin|4|
+      2 [CAL|ATI Radeon Turks XT Prototype|1|
+      2 [CAL|ATI Radeon Redwood XT Prototype|1|
+      2 [CAL|ATI Radeon HD 5800 Series|1|
+      2 [CAL|ATI Radeon HD 4700/4800 (RV740/RV770)|4|
+      2 [CAL|ATI Radeon HD 4600 series (R730)|2|
+      2 [CAL|AMD TURKS (DRM 2.50.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      2 [CAL|AMD TURKS (DRM 2.50.0 / 4.13.0-38-generic, LLVM 6.0.0)|1|
+      2 [CAL|AMD TURKS (DRM 2.50.0 / 4.13.0-37-lowlatency, LLVM 7.0.0)|1|
+      2 [CAL|AMD SUMO2 (DRM 2.50.0 / 4.15.14-1-ARCH, LLVM 6.0.0)|1|
+      2 [CAL|AMD Radeon Vega Frontier Edition Compute Engine|1|
+      2 [CAL|AMD Radeon (TM) RX 580|3|
+      2 [CAL|AMD Radeon(TM) RX 560 Series|5|
+      2 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.23.0 / 4.15.14-300.fc27.x86_64, LLVM 5.0.1)|1|
+      2 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10, DRM 3.23.0, 4.15.0-20-generic, LLVM 6.0.0)|1|
+      2 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.18.0 / 4.13.0-38-generic, LLVM 6.0.0)|1|
+      2 [CAL|AMD Radeon (TM) RX 460 Graphics (POLARIS11 / DRM 3.23.0 / 4.16.3-200.fc27.x86_64, LLVM 5.0.1)|1|
+      2 [CAL|AMD Radeon (TM) RX 460 Graphics (POLARIS11 / DRM 3.23.0 / 4.15.17-300.fc27.x86_64, LLVM 5.0.1)|1|
+      2 [CAL|AMD Radeon(TM) R9 M470|1|
+      2 [CAL|AMD Radeon (TM) R9 M375X|1|
+      2 [CAL|AMD Radeon (TM) R9 Fury Series|3|
+      2 [CAL|AMD Radeon (TM) R9 370 Series|1|
+      2 [CAL|AMD Radeon (TM) R9 200 Series|6|
+      2 [CAL|AMD Radeon(TM) R8 M445DX Graphics|1|
+      2 [CAL|AMD Radeon (TM) R8 M445DX|2|
+      2 [CAL|AMD Radeon(TM) R8 M445DX|1|
+      2 [CAL|AMD Radeon (TM) R7 M350|1|
+      2 [CAL|AMD Radeon (TM) R7 360 Series|2|
+      2 [CAL|AMD Radeon(TM) R7 360 Series|1|
+      2 [CAL|AMD Radeon (TM) R5 M320|1|
+      2 [CAL|AMD Radeon(TM) R5 M240|2|
+      2 [CAL|AMD Radeon(TM) R5 340X|2|
+      2 [CAL|AMD Radeon (TM) Pro WX 7100 Graphics|2|
+      2 [CAL|AMD Radeon(TM) M535DX|1|
+      2 [CAL|AMD Radeon(TM) HD8570|1|
+      2 [CAL|AMD Radeon RX Vega 56 Compute Engine|1|
+      2 [CAL|AMD Radeon RX 560 Compute Engine|1|
+      2 [CAL|AMD Radeon RX 480 Compute Engine|1|
+      2 [CAL|AMD RADEON R9 M395X|1|
+      2 [CAL|AMD Radeon R9 M370X|1|
+      2 [CAL|AMD Radeon R9 260|1|
+      2 [CAL|AMD Radeon R9 200 Series|7|
+      2 [CAL|AMD Radeon R9 200 Series|3|
+      2 [CAL|AMD Radeon R9 200 / HD 7900 Series|5|
+      2 [CAL|AMD Radeon R8 M535DX|1|
+      2 [CAL|AMD Radeon R7 Graphics|2|
+      2 [CAL|AMD Radeon R5 M435|1|
+      2 [CAL|AMD Radeon R5 M420|1|
+      2 [CAL|AMD Radeon Pro WX 3100|3|
+      2 [CAL|AMD Radeon Pro WX 3100|1|
+      2 [CAL|AMD Radeon Pro 455 Compute Engine|1|-
+      2 [CAL|AMD Radeon Pro 450 Compute Engine|1|-
+      2 [CAL|AMD Radeon HD Verde PRO Prototype Compute Engine|1|
+      2 [CAL|AMD Radeon HD - FirePro D700 Compute Engine|1|
+      2 [CAL|AMD Radeon HD - FirePro D300 Compute Engine|1|
+      2 [CAL|AMD Radeon HD 8760|1|
+      2 [CAL|AMD Radeon HD 8610G|2|
+      2 [CAL|AMD Radeon HD 8600 Series|1|
+      2 [CAL|AMD Radeon HD 8600M Series|2|
+      2 [CAL|AMD Radeon HD 8500 Series|1|
+      2 [CAL|AMD Radeon HD 8500M|2|
+      2 [CAL|AMD Radeon HD 7950|1|
+      2 [CAL|AMD Radeon HD 7900 Series|3|
+      2 [CAL|AMD Radeon HD 7870/7950/7970/R9 280/R9 280X series (Tahiti)|5|
+      2 [CAL|AMD Radeon HD 7800 Series|5|
+      2 [CAL|AMD Radeon HD 7700 series (Cape Verde)|2|
+      2 [CAL|AMD Radeon Graphics|2|
+      2 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.16.5-1-hardened, LLVM 6.0.0)|1|
+      2 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.15.0-13-generic, LLVM 5.0.0)|1|
+      2 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.13.0-39-lowlatency, LLVM 5.0.0)|1|
+      2 [CAL|AMD PITCAIRN (DRM 2.49.0 / 4.10.0-38-generic, LLVM 5.0.0)|1|
+      2 [CAL|AMD PALM (DRM 2.50.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      2 [CAL|AMD KABINI (DRM 2.50.0 / 4.15.7-1-ARCH, LLVM 5.0.1)|1|
+      2 [CAL|AMD JUNIPER (DRM 2.50.0 / 4.15.17-300.fc27.x86_64, LLVM 5.0.1)|1|
+      2 [CAL|AMD HAWAII (DRM 2.50.0 / 4.13.0-37-generic, LLVM 5.0.0)|1|
+      2 [CAL|AMD FirePro W7000|1|
+      2 [CAL|AMD Firepro W5170M|1|
+      2 [CAL|AMD FirePro W5100 (FireGL V)|1|
+      2 [CAL|AMD FirePro W5000|2|
+      2 [CAL|AMD FirePro M6100 FireGL V|1|
+      2 [CAL|AMD Firepro M6100|1|
+      2 [CAL|AMD FirePro M4000|1|
+      2 [CAL|AMD FirePro D300 (FireGL V)|2|
+      2 [CAL|AMD CAPE VERDE (DRM 2.49.0 / 4.9.0-6-amd64, LLVM 3.9.1)|1|
+      2 [CAL|AMD CAICOS (DRM 2.50.0 / 4.16.5-041605-generic, LLVM 5.0.0)|1|
+      2 [CAL|AMD CAICOS (DRM 2.50.0 / 4.16.3-jpmr, LLVM 6.0.0)|2|
+      2 [CAL|AMD CAICOS (DRM 2.50.0 / 4.14.0-0.bpo.3-amd64, LLVM 3.9.1)|1|
+      2 [CAL|AMD ARUBA (DRM 2.50.0 / 4.16.3-200.fc27.x86_64, LLVM 5.0.1)|1|
+      2 [CAL|AMD ARUBA (DRM 2.50.0 / 4.15.17-300.fc27.x86_64, LLVM 5.0.1)|1|
+      2 [CAL|AMD ARUBA (DRM 2.50.0 / 4.15.0-20-generic, LLVM 6.0.0)|1|
+      2 [CAL|AMD A6 Micro-6500T Quad-Core APU with Radeon(TM)R4 Graphics|1|
+      2 [CAL|67FF:CF|1|
+      1 [opencl_gpu|PowerVR Rogue Marlowe|1|
+      1 [INTEL|Intel(R) Iris(TM) Pro Graphics 550|1|
+      1 [INTEL|Intel(R) Iris(TM) Graphics 550|2|
+      1 [INTEL|Intel(R) HD Graphics Skylake Halo GT2|1|
+      1 [INTEL|Intel(R) HD Graphics IvyBridge M GT2|2|
+      1 [INTEL|Intel(R) HD Graphics Haswell GT2 Server|1|
+      1 [INTEL|Intel(R) HD Graphics Gen9|1|
+      1 [INTEL|Intel(R) HD Graphics BroadWell U-Processor GT1|1|
+      1 [CUDA|TITAN X (Pascal)|7|
+      1 [CUDA|TITAN X (Pascal)|3|
+      1 [CUDA|Tesla V100-SXM2-16GB|4|
+      1 [CUDA|Tesla T10 Processor|4|
+      1 [CUDA|Tesla P40|1|
+      1 [CUDA|Tesla P100-PCIE-12GB|2|
+      1 [CUDA|Tesla P100-PCIE-12GB|1|
+      1 [CUDA|Tesla M60|4|
+      1 [CUDA|Tesla M60|2|
+      1 [CUDA|Tesla M60|1|
+      1 [CUDA|Tesla M2090|1|
+      1 [CUDA|Tesla M2070-Q|1|
+      1 [CUDA|Tesla M2070|1|
+      1 [CUDA|Tesla K80|2|
+      1 [CUDA|Tesla K40m|2|
+      1 [CUDA|Tesla K40c|2|
+      1 [CUDA|Tesla K20c|2|
+      1 [CUDA|Tesla K10.G1.8GB|2|
+      1 [CUDA|Tesla C2070|4|
+      1 [CUDA|Tesla C2050|2|
+      1 [CUDA|Tesla C1060|1|
+      1 [CUDA|Quadro P2000|3|
+      1 [CUDA|Quadro NVS 450|4|
+      1 [CUDA|Quadro NVS 450|1|
+      1 [CUDA|Quadro NVS 420|1|
+      1 [CUDA|Quadro NVS 150M|1|
+      1 [CUDA|Quadro M6000|3|
+      1 [CUDA|Quadro M4000M|1|
+      1 [CUDA|Quadro K620|3|
+      1 [CUDA|Quadro K6000|2|
+      1 [CUDA|Quadro K5200|2|
+      1 [CUDA|Quadro GP100|2|
+      1 [CUDA|Quadro GP100|1|
+      1 [CUDA|Quadro FX 580|2|
+      1 [CUDA|Quadro FX 5800|2|
+      1 [CUDA|Quadro FX 4800|2|
+      1 [CUDA|Quadro FX 4700 X2|2|
+      1 [CUDA|Quadro FX 380M|1|
+      1 [CUDA|Quadro FX 3800|2|
+      1 [CUDA|Quadro FX 1700|2|
+      1 [CUDA|Quadro 5010M|1|
+      1 [CUDA|Quadro 410|3|
+      1 [CUDA|Quadro 2100M|1|
+      1 [CUDA|Quadro 2000D|2|
+      1 [CUDA|P106-100|3|
+      1 [CUDA|P106-100|16|
+      1 [CUDA|NVS 315|3|
+      1 [CUDA|NVD9|1|
+      1 [CUDA|NV124|1|
+      1 [CUDA|N12P-GVR-B-A1|1|
+      1 [CUDA|GRID K2|4|
+      1 [CUDA|Generic GPU|1|
+      1 [CUDA|GeForce GTX 880M|2|
+      1 [CUDA|GeForce GTX 850A|1|
+      1 [CUDA|GeForce GTX 770M|2|
+      1 [CUDA|GeForce GTX 770|4|
+      1 [CUDA|GeForce GTX 770|3|
+      1 [CUDA|GeForce GTX 760|3|
+      1 [CUDA|GeForce GTX 750Ti|1|
+      1 [CUDA|GeForce GTX 750|4|
+      1 [CUDA|GeForce GTX 690|3|
+      1 [CUDA|GeForce GTX 670|4|
+      1 [CUDA|GeForce GTX 660|3|
+      1 [CUDA|GeForce GTX 650 Ti BOOST|2|
+      1 [CUDA|GeForce GTX 590|4|
+      1 [CUDA|GeForce GTX 580|3|
+      1 [CUDA|GeForce GTX 560 Ti|3|
+      1 [CUDA|GeForce GTX 560M|2|
+      1 [CUDA|GeForce GTX 550 Ti|10|
+      1 [CUDA|GeForce GTX 480M|1|
+      1 [CUDA|GeForce GTX 480|3|
+      1 [CUDA|GeForce GTX 460M|2|
+      1 [CUDA|GeForce GTX 295|4|
+      1 [CUDA|GeForce GTX 285|2|
+      1 [CUDA|GeForce GTX 275|2|
+      1 [CUDA|GeForce GTX 1080 Ti|12|
+      1 [CUDA|GeForce GTX 1080|24|
+      1 [CUDA|GeForce GTX 1070 Ti|7|
+      1 [CUDA|GeForce GTX 1070 Ti|5|
+      1 [CUDA|GeForce GTX 1070 Ti|12|
+      1 [CUDA|GeForce GTX 1070|24|
+      1 [CUDA|GeForce GTX 1070|12|
+      1 [CUDA|GeForce GTX 1060 6GB|9|
+      1 [CUDA|GeForce GTX 1060|2|
+      1 [CUDA|GeForce GTX 1050|4|
+      1 [CUDA|GeForce GT 640|4|
+      1 [CUDA|GeForce GT625M|1|
+      1 [CUDA|GeForce GT 620|2|
+      1 [CUDA|GeForce GT 610|3|
+      1 [CUDA|GeForce GT 430|2|
+      1 [CUDA|GeForce GT 330|2|
+      1 [CUDA|GeForce G205M|1|
+      1 [CUDA|GeForce 9800M GTX|2|
+      1 [CUDA|GeForce 9800 GT|2|
+      1 [CUDA|GeForce 9700M GTS|1|
+      1 [CUDA|GeForce 9700M GT|1|
+      1 [CUDA|GeForce 8800 Ultra|2|
+      1 [CUDA|GeForce 8700M GT|1|
+      1 [CUDA|GeForce 8500 GT|2|
+      1 [CUDA|GeForce 8400M G|1|
+      1 [CUDA|GeForce 8100 / nForce 720a|1|
+      1 [CUDA|GeForce 305M|1|
+      1 [CAL|Turks|2|
+      1 [CAL|Tahiti|7|
+      1 [CAL|Tahiti|3|
+      1 [CAL|Stoney|2|
+      1 [CAL|Radeon (TM) RX 580 Graphics|1|
+      1 [CAL|Radeon (TM) RX 470 Graphics|4|
+      1 [CAL|Radeon (TM) RX 460|2|
+      1 [CAL|Radeon(TM) RX 460|1|
+      1 [CAL|Radeon(TM) R7 M530 (R17M-M1-70)|1|
+      1 [CAL|Radeon(TM) R7 M465|1|
+      1 [CAL|Radeon (TM) R7 M445|2|
+      1 [CAL|Radeon (TM) Pro WX 7100 Graphics (POLARIS10 / DRM 3.23.0 / 4.15.0-20-generic, LLVM 6.0.0)|1|
+      1 [CAL|Radeon (TM) Pro WX 4100|1|
+      1 [CAL|Radeon (TM) Pro Duo|8|
+      1 [CAL|Radeon Sky 900|2|
+      1 [CAL|Radeon RX Vega (VEGA10, DRM 3.23.0, 4.16.5-gentoo, LLVM 6.0.0)|1|
+      1 [CAL|Radeon RX Vega (VEGA10, DRM 3.23.0, 4.16.4-gentoo, LLVM 6.0.0)|1|
+      1 [CAL|Radeon RX Vega (VEGA10 / DRM 3.23.0 / 4.16.3extratemps-1-default, LLVM 6.0.0)|3|
+      1 [CAL|Radeon RX 580 Series (POLARIS10 / DRM 3.23.0 / 4.15.7-1-zen, LLVM 7.0.0)|1|
+      1 [CAL|Radeon RX 580 Series (POLARIS10 / DRM 3.18.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      1 [CAL|Radeon RX 580 Series|11|
+      1 [CAL|Radeon RX 580 Series|10|
+      1 [CAL|Radeon RX 570|1|
+      1 [CAL|Radeon RX 560 Series (POLARIS11, DRM 3.23.0, 4.16.3, LLVM 6.0.0)|1|
+      1 [CAL|Radeon RX 560 Series (POLARIS11 / DRM 3.23.0 / 4.16.3-gentoo, LLVM 6.0.0)|1|
+      1 [CAL|Radeon RX 560 Series (POLARIS11 / DRM 3.23.0 / 4.15.0-1-amd64, LLVM 5.0.1)|1|
+      1 [CAL|Radeon RX 560 Series (POLARIS11 / DRM 3.19.0 / 4.14.34-1-MANJARO, LLVM 6.0.0)|1|
+      1 [CAL|Radeon RX 560 Series (AMD POLARIS11 / DRM 3.19.0 / 4.14.0-0.bpo.3-amd64, LLVM 5.0.0)|1|
+      1 [CAL|Radeon RX 560 Series|5|
+      1 [CAL|Radeon RX 550 Series (POLARIS12 / DRM 3.23.0 / 4.16.3-200.fc27.x86_64, LLVM 5.0.1)|1|
+      1 [CAL|Radeon RX480|1|
+      1 [CAL|Radeon Pro WX 5100|1|
+      1 [CAL|Radeon Pro WX 3100|1|
+      1 [CAL|Radeon Pro 570|1|
+      1 [CAL|Radeon Pro 555|1|
+      1 [CAL|Radeon 550 Series|2|
+      1 [CAL|Radeon 500 Series (POLARIS12 / DRM 3.23.0 / 4.15.14-300.fc27.x86_64, LLVM 5.0.1)|1|
+      1 [CAL|Raccoons|1|
+      1 [CAL|Kalindi|2|
+      1 [CAL|Hawaii|6|
+      1 [CAL|gfx900|2|
+      1 [CAL|gfx804|2|
+      1 [CAL|Ellesmere|12|
+      1 [CAL|Device 6863|1|
+      1 [CAL|Device 67df|1|
+      1 [CAL|Caicos|1|
+      1 [CAL|Barco MXRT 7500 (WDDM)|1|
+      1 [CAL|Baffin [Polaris11]|1|
+      1 [CAL|ATI Radeon HD5800 series (Cypress)|2|
+      1 [CAL|ATI Radeon HD 5800/5900 series (Cypress/Hemlock)|3|
+      1 [CAL|ATI Radeon HD5700 series (Juniper)|2|
+      1 [CAL|ATI Radeon HD 4700/4800 (RV740/RV770)|3|
+      1 [CAL|ATI Radeon HD 2300/2400/3200 (RV610)|2|
+      1 [CAL|ATI Radeon Caicos Unknown Prototype|1|
+      1 [CAL|ATI Radeon Caicos PRO Prototype|1|
+      1 [CAL|ASUS R7 240 Series|1|
+      1 [CAL|AMD TURKS (DRM 2.50.0 / 4.15.4-300.fc27.x86_64, LLVM 5.0.1)|1|
+      1 [CAL|AMD TURKS (DRM 2.50.0 / 4.13.0-38-generic, LLVM 5.0.0)|2|
+      1 [CAL|AMD TURKS (DRM 2.50.0 / 4.13.0-21-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD TURKS (DRM 2.43.0 / 4.4.0-116-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD TAHITI (DRM 2.50.0 / 4.15.15-1-ARCH, LLVM 6.0.0)|1|
+      1 [CAL|AMD TAHITI (DRM 2.50.0 / 4.13.0-39-generic, LLVM 5.0.0)|2|
+      1 [CAL|AMD TAHITI (DRM 2.50.0 / 4.13.0-26-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD TAHITI (DRM 2.50.0 / 4.13.0-1-amd64, LLVM 5.0.0)|1|
+      1 [CAL|AMD TAHITI (DRM 2.46.0 / 4.8.0-59-generic, LLVM 4.0.1)|1|
+      1 [CAL|AMD SUPERSUMO|1|
+      1 [CAL|AMD SUMO|1|
+      1 [CAL|AMD REDWOOD (DRM 2.50.0 / 4.16.4-300.fc28.x86_64, LLVM 6.0.0)|1|
+      1 [CAL|AMD RAVEN (DRM 3.23.0 / 4.15.0-20-generic, LLVM 6.0.0)|1|
+      1 [CAL|AMD Radeon(TM) Vega 10 Mobile Graphics|1|
+      1 [CAL|AMD Radeon (TM) RX 580|2|
+      1 [CAL|AMD Radeon (TM) RX 570|4|
+      1 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.23.0 / 4.15.0-20-generic, LLVM 6.0.0)|2|
+      1 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.23.0 / 4.15.0-15-generic, LLVM 6.0.0)|2|
+      1 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.23.0 / 4.15.0-15-generic, LLVM 6.0.0)|1|
+      1 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.23.0 / 4.15.0-13-generic, LLVM 6.0.0)|2|
+      1 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.23.0 / 4.15.0-12-generic, LLVM 5.0.1)|2|
+      1 [CAL|AMD Radeon (TM) RX 480 Graphics (POLARIS10 / DRM 3.10.0 / 4.11.8-300.fc26.x86_64, LLVM 5.0.1)|1|
+      1 [CAL|AMD Radeon (TM) RX 480 Graphics|3|
+      1 [CAL|AMD Radeon (TM) RX 470 Graphics (AMD POLARIS10 / DRM 3.18.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD Radeon (TM) RX 470 Graphics|3|
+      1 [CAL|AMD Radeon (TM) RX 470 Graphics|1|
+      1 [CAL|AMD Radeon (TM) RX 460 Graphics (POLARIS11 / DRM 3.23.0 / 4.16.5, LLVM 5.0.1)|1|
+      1 [CAL|AMD Radeon (TM) RX 460 Graphics (POLARIS11 / DRM 3.19.0 / 4.14.0-3-amd64, LLVM 5.0.1)|1|
+      1 [CAL|AMD Radeon(TM) RX460|1|
+      1 [CAL|AMD Radeon (TM) R9 M390X|1|
+      1 [CAL|AMD Radeon (TM)  R9 M385X|2|
+      1 [CAL|AMD Radeon (TM)  R9 M385X|1|
+      1 [CAL|AMD Radeon (TM) R9 M375|1|
+      1 [CAL|AMD Radeon (TM) R9 Fury Series|6|
+      1 [CAL|AMD Radeon (TM) R9 Fury Series|4|
+      1 [CAL|AMD Radeon (TM) R9 380 Series (TONGA / DRM 3.8.0 / 4.9.82-1-MANJARO, LLVM 5.0.1)|1|
+      1 [CAL|AMD Radeon (TM) R9 380 Series|5|
+      1 [CAL|AMD Radeon (TM) R9 380 Series|4|
+      1 [CAL|AMD Radeon (TM) R9 360 Series|1|
+      1 [CAL|AMD Radeon (TM) R9 300 Series|1|
+      1 [CAL|AMD Radeon(TM) R9 270|2|
+      1 [CAL|AMD Radeon (TM) R9 200 Series|5|
+      1 [CAL|AMD Radeon(TM) R8 M365DX|2|
+      1 [CAL|AMD Radeon (TM) R7 M460|2|
+      1 [CAL|AMD Radeon (TM) R7 M360|2|
+      1 [CAL|AMD Radeon (TM) R7 M350|2|
+      1 [CAL|AMD Radeon(TM) R7 430|1|
+      1 [CAL|AMD Radeon(TM) R6 Graphics|2|
+      1 [CAL|AMD Radeon(TM) R6|1|
+      1 [CAL|AMD Radeon (TM) R5 Graphics|1|
+      1 [CAL|AMD Radeon(TM) R5 430M|1|
+      1 [CAL|AMD Radeon (TM) Pro WX 5100 Graphics|1|
+      1 [CAL|AMD Radeon(TM) Pro Duo|2|
+      1 [CAL|AMD Radeon(TM) HD8800 Series (AMD PITCAIRN / DRM 3.18.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD Radeon (TM) HD 8550M|1|
+      1 [CAL|AMD Radeon Series|1|
+      1 [CAL|AMD Radeon RX Vega 64 Compute Engine|1|
+      1 [CAL|AMD Radeon RX Vega 64|2|
+      1 [CAL|AMD RADEON R9 M395|1|
+      1 [CAL|AMD Radeon R9 M290X Compute Engine|1|-
+      1 [CAL|AMD Radeon R9 380 (Tonga)|2|
+      1 [CAL|AMD Radeon R9 380 (Tonga)|1|
+      1 [CAL|AMD Radeon R9 380|1|
+      1 [CAL|AMD Radeon R9 370|1|
+      1 [CAL|AMD Radeon R9 290 Series|2|
+      1 [CAL|AMD Radeon R9 270|1|
+      1 [CAL|AMD Radeon R9 200 Series (TONGA / DRM 3.23.0 / 4.15.0-20-generic, LLVM 6.0.0)|1|
+      1 [CAL|AMD Radeon R9 200 Series (AMD TONGA / DRM 3.18.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD Radeon R9 200 / HD 7900 Series|4|
+      1 [CAL|AMD Radeon R8 M535DX|2|
+      1 [CAL|AMD Radeon R7 Series / HD 9000 Series|1|
+      1 [CAL|AMD Radeon R7 M260|2|
+      1 [CAL|AMD Radeon R7 A370|1|
+      1 [CAL|AMD Radeon R7 430|1|
+      1 [CAL|AMD Radeon R7 240 + HD 8570D Dual Graphics|2|
+      1 [CAL|AMD Radeon R7 240 + HD 8570D Dual Graphics|1|
+      1 [CAL|AMD Radeon  R7 240|1|
+      1 [CAL|AMD Radeon R5 Series|1|
+      1 [CAL|AMD Radeon R5 M240 Series|1|
+      1 [CAL|AMD Radeon R5 M230 Series|1|
+      1 [CAL|AMD Radeon R5 M200 Series|2|
+      1 [CAL|AMD Radeon R5 Graphics|2|
+      1 [CAL|AMD Radeon R3|1|
+      1 [CAL|AMD Radeon R2|1|
+      1 [CAL|AMD Radeon Pro WX 3100|2|
+      1 [CAL|AMD Radeon Pro WX 2100|1|
+      1 [CAL|AMD Radeon Pro 555 Compute Engine|1|-
+      1 [CAL|AMD Radeon Pro 460|1|
+      1 [CAL|AMD Radeon Pro 455|1|
+      1 [CAL|AMD Radeon HD Vega10 GL XT Prototype Compute Engine|1|
+      1 [CAL|AMD Radeon HD (unknown)|2|
+      1 [CAL|AMD Radeon HD Tonga PRO Prototype Compute Engine|1|
+      1 [CAL|AMD Radeon HD - FirePro D500 Compute Engine|1|
+      1 [CAL|AMD Radeon HD 8990|2|
+      1 [CAL|AMD Radeon HD 8690A|1|
+      1 [CAL|AMD Radeon HD 8650G + R5 M200 Dual Graphics|2|
+      1 [CAL|AMD Radeon HD 8610G|1|
+      1 [CAL|AMD Radeon HD 8570M|2|
+      1 [CAL|AMD Radeon HD 8570 Graphics|2|
+      1 [CAL|AMD Radeon HD 8550G|1|
+      1 [CAL|AMD Radeon HD 8500 Series (OLAND / DRM 3.23.0 / 4.15.6-gentoo, LLVM 5.0.1)|1|
+      1 [CAL|AMD Radeon HD 8500 series|1|
+      1 [CAL|AMD Radeon HD 8350G|1|
+      1 [CAL|AMD Radeon HD 7970M|1|
+      1 [CAL|AMD Radeon HD 7950 Compute Engine|1|-
+      1 [CAL|AMD Radeon HD 7900 Series|6|
+      1 [CAL|AMD Radeon HD 7800 series (Pitcairn)|1|
+      1 [CAL|AMD Radeon HD 7800M Series|1|
+      1 [CAL|AMD Radeon HD 7790/R7 260/R7 260X/R9 360 (Bonaire)|1|
+      1 [CAL|AMD Radeon HD 7620G|2|
+      1 [CAL|AMD Radeon HD 7600G|1|
+      1 [CAL|AMD Radeon HD 7400/7500/7600/8300/8400/8500/8600 series (Trinity/Richland)|1|
+      1 [CAL|AMD Radeon HD 6900 series (Cayman)|3|
+      1 [CAL|AMD Radeon HD 6800 series (Barts)|1|
+      1 [CAL|AMD Radeon HD 6500M/5600/5700 Series|1|
+      1 [CAL|AMD Radeon HD 6250/6310 (Wrestler)|1|
+      1 [CAL|AMD Radeon HD 5800 Series|2|
+      1 [CAL|AMD Radeon HD 5800 Series|1|
+      1 [CAL|AMD Radeon HD 5450|1|
+      1 [CAL|AMD Radeon FirePro W8100|1|
+      1 [CAL|AMD POLARIS11 (DRM 3.18.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD POLARIS10 (DRM 3.8.0 / 4.9.0-6-amd64, LLVM 3.9.1)|1|
+      1 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.15.3-1-ARCH, LLVM 5.0.1)|1|
+      1 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.15.15-1-ARCH, LLVM 6.0.0)|1|
+      1 [CAL|AMD PITCAIRN (DRM 2.50.0 / 4.15.11-1-ARCH, LLVM 5.0.1)|1|
+      1 [CAL|AMD PITCAIRN (DRM 2.43.0, LLVM 3.8.0)|1|
+      1 [CAL|AMD PITCAIRN (DRM 2.43.0 / 4.4.0-116-generic, LLVM 7.0.0)|1|
+      1 [CAL|AMD PALM (DRM 2.50.0 / 4.14.34-1-lts, LLVM 6.0.0)|1|
+      1 [CAL|AMD PALM (DRM 2.50.0 / 4.14.33-1-lts, LLVM 6.0.0)|1|
+      1 [CAL|AMD PALM (DRM 2.49.0 / 4.9.0-6-amd64, LLVM 3.9.1)|1|
+      1 [CAL|AMD OLAND (DRM 2.50.0 / 4.16.4-1-ARCH, LLVM 6.0.0)|1|
+      1 [CAL|AMD OLAND (DRM 2.50.0 / 4.16.3-1-ARCH, LLVM 6.0.0)|1|
+      1 [CAL|AMD OLAND (DRM 2.50.0 / 4.15.0-3-amd64, LLVM 5.0.1)|1|
+      1 [CAL|AMD OLAND (DRM 2.50.0 / 4.14.0-3-amd64, LLVM 5.0.1)|1|
+      1 [CAL|AMD OLAND (DRM 2.43.0 / 4.4.0-119-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD MULLINS (DRM 2.50.0 / 4.13.0-39-generic, LLVM 5.0.1)|1|
+      1 [CAL|AMD MULLINS (DRM 2.49.0 / 4.9.0-6-amd64, LLVM 3.9.1)|1|
+      1 [CAL|AMD KAVERI (DRM 3.23.0 / 4.16.4-1-ARCH, LLVM 6.0.0)|1|
+      1 [CAL|AMD KAVERI (DRM 2.50.0 / 4.15.9, LLVM 6.0.0)|1|
+      1 [CAL|AMD KAVERI (DRM 2.50.0 / 4.14.5-hook, LLVM 5.0.0)|1|
+      1 [CAL|AMD KAVERI (DRM 2.50.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD JUNIPER (DRM 2.50.0 / 4.15.17-200.fc26.x86_64, LLVM 4.0.1)|1|
+      1 [CAL|AMD JUNIPER (DRM 2.50.0 / 4.15.13-2-default, LLVM 6.0.0)|1|
+      1 [CAL|AMD JUNIPER (DRM 2.50.0 / 4.15.0-2-amd64, LLVM 5.0.1)|1|
+      1 [CAL|AMD JUNIPER (DRM 2.50.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD HAWAII (DRM 2.50.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD HAWAII (DRM 2.50.0 / 4.13.0-36-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD HAWAII (DRM 2.43.0 / 4.4.0-119-generic, LLVM 5.0.0)|2|
+      1 [CAL|AMD HAINAN (DRM 2.50.0 / 4.16.2-1-default, LLVM 6.0.0)|1|
+      1 [CAL|AMD HAINAN (DRM 2.50.0 / 4.15.17-300.fc27.x86_64, LLVM 5.0.1)|2|
+      1 [CAL|AMD Firepro W6150M|1|
+      1 [CAL|AMD FirePro S9150 (FireGL V)|3|
+      1 [CAL|AMD FirePro S9100|1|
+      1 [CAL|AMD FirePro M5100|1|
+      1 [CAL|AMD Firepro M4100 FireGL V|1|
+      1 [CAL|AMD CYPRESS (DRM 2.50.0 / 4.15.12-1-ARCH, LLVM 6.0.0)|1|
+      1 [CAL|AMD CEDAR (DRM 2.50.0 / 4.15.0-20-generic, LLVM 6.0.0)|1|
+      1 [CAL|AMD CEDAR (DRM 2.50.0 / 4.15.0-1-amd64, LLVM 5.0.1)|1|
+      1 [CAL|AMD CEDAR (DRM 2.50.0 / 4.14.16-300.fc27.x86_64, LLVM 5.0.0)|1|
+      1 [CAL|AMD CEDAR (DRM 2.50.0 / 4.13.16-1-pve, LLVM 3.9.1)|1|
+      1 [CAL|AMD CEDAR (DRM 2.50.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD CEDAR (DRM 2.49.0 / 4.9.0-6-686-pae, LLVM 3.9.1)|1|
+      1 [CAL|AMD CAYMAN (DRM 2.50.0 / 4.13.0-38-lowlatency, LLVM 5.0.0)|1|
+      1 [CAL|AMD CAYMAN (DRM 2.43.0 / 4.4.0-119-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD CAYMAN (DRM 2.43.0 / 4.4.0-101-generic, LLVM 6.0.0)|1|
+      1 [CAL|AMD CARRIZO (DRM 3.18.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD CAPE VERDE (DRM 2.50.0 / 4.16.3-301.fc28.x86_64, LLVM 6.0.0)|1|
+      1 [CAL|AMD CAPE VERDE (DRM 2.50.0 / 4.16.0-rc6-amd64, LLVM 6.0.0)|1|
+      1 [CAL|AMD CAPE VERDE (DRM 2.50.0 / 4.13.0-39-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD CAPE VERDE (DRM 2.49.0 / 4.9.0-5-rt-amd64, LLVM 3.9.1)|1|
+      1 [CAL|AMD CAPE VERDE (DRM 2.49.0 / 4.10.0-42-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD CAICOS (DRM 2.50.0 / 4.15.0-20-generic, LLVM 6.0.0)|2|
+      1 [CAL|AMD CAICOS (DRM 2.50.0 / 4.14.8-gentoo-r1, LLVM 4.0.1)|1|
+      1 [CAL|AMD CAICOS (DRM 2.50.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD CAICOS (DRM 2.50.0 / 4.13.0-37-generic, LLVM 5.0.0)|1|
+      1 [CAL|AMD BONAIRE (DRM 2.50.0 / 4.14.18-gentoo, LLVM 5.0.1)|1|
+      1 [CAL|AMD BONAIRE (DRM 2.49.0 / 4.9.0-6-amd64, LLVM 3.9.1)|1|
+      1 [CAL|AMD BARTS (DRM 2.49.0 / 4.10.0-37-generic, LLVM 4.0.0)|1|
+      1 [CAL|AMD BARTS (DRM 2.43.0 / 4.4.0-121-generic, LLVM 6.0.0)|1|
+      1 [CAL|AMD BARTS (DRM 2.43.0 / 4.4.0-119-generic, LLVM 6.0.0)|1|
+      1 [CAL|AMD ARUBA (DRM 2.50.0 / 4.13.0-38-generic, LLVM 5.0.0)|1|
+      1 [CAL|687F:C3|6|
+      1 [CAL|687F:C3|2|
+      1 [CAL|687F:C3|1|
+      1 [CAL|687F:C1|5|
+      1 [CAL|67EF:CF|3|
