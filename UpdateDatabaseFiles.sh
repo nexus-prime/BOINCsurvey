@@ -54,9 +54,9 @@ fi
  mkdir -p HostFiles
  
  if [ "$ProjType" == "all" ]; then
-	TotProj=25
+	TotProj=23
  elif [ "$ProjType" == "cpu" ]; then
-	TotProj=17
+	TotProj=15
 	echo "Skipping gpu projects"
  elif [ "$ProjType" == "gpu" ]; then
 	TotProj=8
@@ -149,8 +149,8 @@ sleep 10
 (wget https://numberfields.asu.edu/NumberFields/stats/host.gz -t 4 $PB -q -O NUMFhosts.gz && gunzip -f  NUMFhosts.gz  && tac NUMFhosts | grep -vE "(n_bwdown|n_bwup|d_free|vbox_version|boinc_version|d_total|m_swap|m_cache|m_nbytes|turnaround|rpc_time|p_vendor|timezone|credit_per_cpu_sec|p_membw|p_iops|p_fpops|expavg_time|os_version|os_name|host_cpid|<host>|total_credit)"> ./HostFiles/CtNUMFhosts && rm NUMFhosts ; echo " " >>fin.temp )&
 (wget https://numberfields.asu.edu/NumberFields/stats/team.gz -t 4 $PB -q -O ./TeamFiles/NUMFteam.gz && gunzip -f  ./TeamFiles/NUMFteam.gz  )&
 
-(wget http://pogs.theskynet.org/pogs/stats/host.gz -t 4 $PB -q -O POGShosts.gz && gunzip -f  POGShosts.gz  && tac POGShosts | grep -vE "(n_bwdown|n_bwup|d_free|vbox_version|boinc_version|d_total|m_swap|m_cache|m_nbytes|turnaround|rpc_time|p_vendor|timezone|credit_per_cpu_sec|p_membw|p_iops|p_fpops|expavg_time|os_version|os_name|host_cpid|<host>|total_credit)"> ./HostFiles/CtPOGShosts && rm POGShosts ; echo " " >>fin.temp )&
-(wget http://pogs.theskynet.org/pogs/stats/team.gz -t 4 $PB -q -O ./TeamFiles/POGSteam.gz && gunzip -f  ./TeamFiles/POGSteam.gz )& 
+#(wget http://pogs.theskynet.org/pogs/stats/host.gz -t 4 $PB -q -O POGShosts.gz && gunzip -f  POGShosts.gz  && tac POGShosts | grep -vE "(n_bwdown|n_bwup|d_free|vbox_version|boinc_version|d_total|m_swap|m_cache|m_nbytes|turnaround|rpc_time|p_vendor|timezone|credit_per_cpu_sec|p_membw|p_iops|p_fpops|expavg_time|os_version|os_name|host_cpid|<host>|total_credit)"> ./HostFiles/CtPOGShosts && rm POGShosts ; echo " " >>fin.temp )&
+#(wget http://pogs.theskynet.org/pogs/stats/team.gz -t 4 $PB -q -O ./TeamFiles/POGSteam.gz && gunzip -f  ./TeamFiles/POGSteam.gz )& 
 
 (wget https://universeathome.pl/universe/stats/host.gz -t 4 $PB -q -O UNIVERSEhosts.gz && gunzip -f  UNIVERSEhosts.gz  && tac UNIVERSEhosts | grep -vE "(n_bwdown|n_bwup|d_free|vbox_version|boinc_version|d_total|m_swap|m_cache|m_nbytes|turnaround|rpc_time|p_vendor|timezone|credit_per_cpu_sec|p_membw|p_iops|p_fpops|expavg_time|os_version|os_name|host_cpid|<host>|total_credit)"> ./HostFiles/CtUNIVERSEhosts && rm UNIVERSEhosts ; echo " " >>fin.temp )&
 (wget https://universeathome.pl/universe/stats/team.gz -t 4 $PB -q -O ./TeamFiles/UNIVERSEteam.gz && gunzip -f  ./TeamFiles/UNIVERSEteam.gz  )&
